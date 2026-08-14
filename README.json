@@ -1,0 +1,6261 @@
+{
+  "items": [
+    {
+      "description": "生物信息，基因组学和生物技术",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vcflib",
+          "description": "用于解析和处理VCF文件的C++库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-20T10:33:33Z",
+            "owner": "vcflib",
+            "repo": "vcflib",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wham",
+          "description": "直接把联想测试应用到BAM文件的基因结构变异。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-02-02T21:12:37Z",
+            "owner": "zeeev",
+            "repo": "wham",
+            "stars": 109
+          }
+        }
+      ],
+      "title": "生态学"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libtorrent",
+          "description": "(a.k.a. libtorrent-rasterbar): 高效的、功能完整的C++比特流实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T00:44:32Z",
+            "owner": "arvidn",
+            "repo": "libtorrent",
+            "stars": 6015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libutp",
+          "description": "uTorrent传输协议库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-19T22:11:58Z",
+            "owner": "bittorrent",
+            "repo": "libutp",
+            "stars": 1159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibTorrent",
+          "description": "(a.k.a. libtorrent-rakshasa): 比特流库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T17:30:34Z",
+            "owner": "rakshasa",
+            "repo": "libtorrent",
+            "stars": 998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jech/dht",
+          "description": "C实现的比特流分布式哈希表库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-03-18T13:46:04Z",
+            "owner": "jech",
+            "repo": "dht",
+            "stars": 708
+          }
+        }
+      ],
+      "title": "比特流"
+    },
+    {
+      "description": "化学，地球化学，生物化学",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LAMMPS",
+          "description": "经典的用于材料建模的分子动力学代码，它是大范围原子/分子巨量平行模拟器的首字母缩写。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:51:55Z",
+            "owner": "lammps",
+            "repo": "lammps",
+            "stars": 3016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gromacs",
+          "description": "传递消息的并行分子动力学实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T11:18:47Z",
+            "owner": "gromacs",
+            "repo": "gromacs",
+            "stars": 950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reaktoro",
+          "description": "C++和python中用于对化学反应系统进行建模的计算框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-02T20:38:09Z",
+            "owner": "reaktoro",
+            "repo": "reaktoro",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d-SEAMS",
+          "description": "具有Nix的C++和Lua实现的分子动力学轨道分析引擎，它是分子模拟的递延结构分析的首字母缩写。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-28T14:15:41Z",
+            "owner": "d-SEAMS",
+            "repo": "seams-core",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "化学"
+    },
+    {
+      "description": "控制台/终端用户界面，命令行界面",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jarro2783/cxxopts",
+          "description": "轻量级的C++命令行选项解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-13T20:09:41Z",
+            "owner": "jarro2783",
+            "repo": "cxxopts",
+            "stars": 4798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLI11",
+          "description": "单文件或多文件的C++11库，用于简单和高级的CLI解析，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T22:28:42Z",
+            "owner": "CLIUtils",
+            "repo": "CLI11",
+            "stars": 4412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linenoise",
+          "description": "readline和libedit的独立小选择。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-02T10:41:43Z",
+            "owner": "antirez",
+            "repo": "linenoise",
+            "stars": 4335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "indicators",
+          "description": "现代C++的活动指标。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-09T19:37:45Z",
+            "owner": "p-ranav",
+            "repo": "indicators",
+            "stars": 3409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tabulate",
+          "description": "现代C++的表格制作工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-14T23:50:57Z",
+            "owner": "p-ranav",
+            "repo": "tabulate",
+            "stars": 2174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "termbox",
+          "description": "用于编写基于文本的用户界面的C库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-08-25T15:20:53Z",
+            "owner": "nsf",
+            "repo": "termbox",
+            "stars": 2007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taywee / args",
+          "description": "简单的只有头文件的C++参数解析库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T13:28:38Z",
+            "owner": "Taywee",
+            "repo": "args",
+            "stars": 1630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argh!",
+          "description": "极简的只有头文件的参数处理程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-21T09:38:36Z",
+            "owner": "adishavit",
+            "repo": "argh",
+            "stars": 1445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cli",
+          "description": "用于交互式命令行界面的跨平台的C++14库，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-22T18:52:17Z",
+            "owner": "daniele77",
+            "repo": "cli",
+            "stars": 1357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDCurses",
+          "description": "具有源代码和预编译库的公共域curses库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-10T09:48:04Z",
+            "owner": "wmcbrine",
+            "repo": "PDCurses",
+            "stars": 1242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docopt.cpp",
+          "description": "从文档字符串生成选项解析的库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-03T01:54:11Z",
+            "owner": "docopt",
+            "repo": "docopt.cpp",
+            "stars": 1088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "replxx",
+          "description": "支持UTF-8、语法高亮、提示的readline和libedit替换，可在Unix和Windows上工作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-14T16:30:32Z",
+            "owner": "AmokHuginnsson",
+            "repo": "replxx",
+            "stars": 761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clara",
+          "description": "用于C++11及更高版本的易于使用、可组合的命令行解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-01-31T10:52:25Z",
+            "owner": "catchorg",
+            "repo": "Clara",
+            "stars": 652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lyra",
+          "description": "易于使用的、可组合的命令行解析器，适用于C++11及更高版本。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-29T02:50:02Z",
+            "owner": "bfgroup",
+            "repo": "Lyra",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linenoise-ng",
+          "description": "用于Linux、Windows和MacOS的小型便携式GNU readline替换，它能够处理UTF-8字符。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-05-11T04:59:56Z",
+            "owner": "arangodb",
+            "repo": "linenoise-ng",
+            "stars": 373
+          }
+        }
+      ],
+      "title": "命令行界面"
+    },
+    {
+      "description": "压缩和归档库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Brotli",
+          "description": "Brotli压缩格式，由Google开发。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T08:18:52Z",
+            "owner": "google",
+            "repo": "brotli",
+            "stars": 14840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bit7z",
+          "description": "C++静态库，提供与7-zip DLLs的简洁接口。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T19:55:08Z",
+            "owner": "rikyoz",
+            "repo": "bit7z",
+            "stars": 849
+          }
+        }
+      ],
+      "title": "压缩"
+    },
+    {
+      "description": "并发执行和多线程",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ArrayFire",
+          "description": "通用GPU库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-07T03:06:52Z",
+            "owner": "arrayfire",
+            "repo": "arrayfire",
+            "stars": 4900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Async++",
+          "description": "C++ 11 的轻量级并行框架，受Microsoft PPL库和N3428 C++标准提案启发。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-11T12:13:08Z",
+            "owner": "Amanieu",
+            "repo": "asyncplusplus",
+            "stars": 1414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alpaka",
+          "description": "并行内核加速的抽象库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-04-03T14:12:20Z",
+            "owner": "ComputationalRadiationPhysics",
+            "repo": "alpaka",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "并发性"
+    },
+    {
+      "description": "配置文件，INI文件",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "inih",
+          "description": "C语言的简单.INI文件解析器，很适合嵌入式系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-30T22:29:05Z",
+            "owner": "benhoyt",
+            "repo": "inih",
+            "stars": 3030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "toml++",
+          "description": "TOML解析器和串化器，适用于C++17及更高版本，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-21T09:41:59Z",
+            "owner": "marzer",
+            "repo": "tomlplusplus",
+            "stars": 2123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simpleini",
+          "description": "跨平台的C++库，提供用于读写INI配置文件的简单API。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-19T15:55:17Z",
+            "owner": "brofield",
+            "repo": "simpleini",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libconfig",
+          "description": "用于处理结构化配置文件的C、C++库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-09T04:17:47Z",
+            "owner": "hyperrealm",
+            "repo": "libconfig",
+            "stars": 1223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iniparser",
+          "description": "INI文件解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-19T21:22:49Z",
+            "owner": "ndevilla",
+            "repo": "iniparser",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libconfuse",
+          "description": "C的小型配置文件解析库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T07:32:41Z",
+            "owner": "libconfuse",
+            "repo": "libconfuse",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inih",
+          "description": "inih的C++版本，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-18T13:41:38Z",
+            "owner": "jtilly",
+            "repo": "inih",
+            "stars": 450
+          }
+        }
+      ],
+      "title": "配置"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "robin-hood-hashing",
+          "description": "用于C++1的快速、节约内存的哈希表，基于robin hood哈希算法。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-05-01T21:43:58Z",
+            "owner": "martinus",
+            "repo": "robin-hood-hashing",
+            "stars": 1620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "robin-map",
+          "description": "使用robin hood哈希算法的哈希映射和哈希集。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-13T09:27:46Z",
+            "owner": "Tessil",
+            "repo": "robin-map",
+            "stars": 1499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparsepp",
+          "description": "用于C++的快速、节约内存的哈希映射。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-13T12:21:35Z",
+            "owner": "greg7mdp",
+            "repo": "sparsepp",
+            "stars": 1312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PGM-index",
+          "description": "能够快速查找、前导、范围搜索和更新数以亿计项数组的数据结构，其跟传统索引相比，使用梯度的顺序而不是空间。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-11-28T11:22:31Z",
+            "owner": "gvinciguerra",
+            "repo": "PGM-index",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hopscotch map",
+          "description": "使用hopscotch哈希算法来实现冲突解决的快速哈希映射，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-02T18:47:59Z",
+            "owner": "Tessil",
+            "repo": "hopscotch-map",
+            "stars": 848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colony",
+          "description": "无序的”bag“型容器，在高度修改的情况下，其性能优于标准容器。同时，无论插入还是擦除，其都能始终保持指向未擦除元素的永久指针。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T10:22:20Z",
+            "owner": "mattreecebentley",
+            "repo": "plf_colony",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LSHBOX",
+          "description": "局部敏感算法（LSH）的C++工具箱，提供了好几种普遍的LSH算法，也可以支持Python和MATLAB。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-06-29T11:55:31Z",
+            "owner": "RSIA-LIESMARS-WHU",
+            "repo": "LSHBOX",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hashmaps",
+          "description": "C++中开放寻址哈希表算法的实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-01-13T08:21:29Z",
+            "owner": "goossaert",
+            "repo": "hashmap",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamic_bitset",
+          "description": "C++17 的动态位集合，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-19T19:11:22Z",
+            "owner": "pinam45",
+            "repo": "dynamic_bitset",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plf::list",
+          "description": "std::list实现，其清除范围拼接以启用缓存友好的结构，从而显著提高性能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T10:24:22Z",
+            "owner": "mattreecebentley",
+            "repo": "plf_list",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ring_span lite",
+          "description": "Arthur O'Dwyer的ring_span的简化实现，例如循环缓冲视图。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-28T19:57:05Z",
+            "owner": "nonstd-lite",
+            "repo": "ring-span-lite",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plf::stack",
+          "description": "std::stack容器适配器的替换容器，其在堆栈上下文中比任何标准容器都有更好的性能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T10:24:11Z",
+            "owner": "mattreecebentley",
+            "repo": "plf_stack",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forest",
+          "description": "实现了AVL、二进制搜索、KD和四叉树的模板库。",
+          "children": []
+        }
+      ],
+      "title": "容器"
+    },
+    {
+      "description": "密码学和加密库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BeeCrypt",
+          "description": "可移植和快速的加密库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T08:08:58Z",
+            "owner": "fffaraz",
+            "repo": "awesome-cpp",
+            "stars": 72759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libsodium",
+          "description": "基于NaCI的加密库，固执己见，容易使用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T05:30:53Z",
+            "owner": "jedisct1",
+            "repo": "libsodium",
+            "stars": 13886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tink",
+          "description": "多语言、跨平台的库，提供安全、易于正确使用且难以滥用的加密API。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-04-17T11:08:35Z",
+            "owner": "tink-crypto",
+            "repo": "tink",
+            "stars": 13539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mbedTLS",
+          "description": "开源的、可移植的、易于使用的、可读的、灵活的SSL库，以前被称为PolarSSL。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T17:25:18Z",
+            "owner": "Mbed-TLS",
+            "repo": "mbedtls",
+            "stars": 6869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tiny AES in C",
+          "description": "C中小型可移植的AES128/192/256。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-04T09:45:23Z",
+            "owner": "kokke",
+            "repo": "tiny-AES-c",
+            "stars": 4996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s2n",
+          "description": "TLS/SSL协议的实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-14T00:19:18Z",
+            "owner": "aws",
+            "repo": "s2n-tls",
+            "stars": 4750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Themis",
+          "description": "用于无痛数据安全的加密库，为移动和服务器平台提供对称和非对称加密，具有向前保密性的安全套接字。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-24T14:01:56Z",
+            "owner": "cossacklabs",
+            "repo": "themis",
+            "stars": 1971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibTomCrypt",
+          "description": "相当全面、模块化和可移植的加密工具包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T15:05:13Z",
+            "owner": "libtom",
+            "repo": "libtomcrypt",
+            "stars": 1784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sha1collisiondetection",
+          "description": "用于检测文件中SHA-1冲突的库和命令行工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-30T19:26:00Z",
+            "owner": "cr-marcstevens",
+            "repo": "sha1collisiondetection",
+            "stars": 1411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libhydrogen",
+          "description": "轻量级、安全、易于使用的加密库，适用于受限的环境。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-08T08:54:00Z",
+            "owner": "jedisct1",
+            "repo": "libhydrogen",
+            "stars": 779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "digestpp",
+          "description": "C++11的信息摘要（哈希）库，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-14T12:48:18Z",
+            "owner": "kerukuro",
+            "repo": "digestpp",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retter",
+          "description": "与哈希函数、密码、工具、库和材料相关的密码学集合。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-03-06T20:43:46Z",
+            "owner": "maciejczyzewski",
+            "repo": "retter",
+            "stars": 118
+          }
+        }
+      ],
+      "title": "密码学"
+    },
+    {
+      "description": "用于解析逗号分隔值（CSV）文件的库",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fast C++ CSV Parser",
+          "description": "用于读取CSV文件的小型、易于使用和快速的库，只包含头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-02T15:51:35Z",
+            "owner": "ben-strasser",
+            "repo": "fast-cpp-csv-parser",
+            "stars": 2360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vince's CSV Parser",
+          "description": "快速、独立、流式的C++17 CSV解析器，具有可选的类型转换和统计信息。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T02:21:47Z",
+            "owner": "vincentlaucsb",
+            "repo": "csv-parser",
+            "stars": 1117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csv2",
+          "description": "现代C++的快速CSV解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-23T11:17:07Z",
+            "owner": "p-ranav",
+            "repo": "csv2",
+            "stars": 627
+          }
+        }
+      ],
+      "title": "CSV"
+    },
+    {
+      "description": "数据库，SQL服务器，ODBC驱动程序和工具",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LevelDB",
+          "description": "由Google编写的快速键值存储库，提供了从字符键到字符串值的有序映射。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-11T04:06:29Z",
+            "owner": "google",
+            "repo": "leveldb",
+            "stars": 39325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RocksDB",
+          "description": "来自Facebook的嵌入键值的快速存储。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T19:18:05Z",
+            "owner": "facebook",
+            "repo": "rocksdb",
+            "stars": 31971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hiredis",
+          "description": "用于Redis数据库的很简单的C客户端库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T07:39:42Z",
+            "owner": "redis",
+            "repo": "hiredis",
+            "stars": 6678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLiteC++",
+          "description": "SQLiteC++ (SQLiteCpp)是聪明且易于使用的C++ SQLite3封装器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-24T19:59:06Z",
+            "owner": "SRombauts",
+            "repo": "SQLiteCpp",
+            "stars": 2766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlite_orm",
+          "description": "适用于现代C++的SQLite ORM轻量库，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T17:28:19Z",
+            "owner": "fnc12",
+            "repo": "sqlite_orm",
+            "stars": 2688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlpp11",
+          "description": "用于SQL查询和在C++产生结果的类型安全的嵌入式域特定语言。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-24T08:09:32Z",
+            "owner": "rbock",
+            "repo": "sqlpp11",
+            "stars": 2625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnQLite",
+          "description": "独立、无服务器、零配置的事物型NoSQL引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-01T16:49:20Z",
+            "owner": "symisc",
+            "repo": "unqlite",
+            "stars": 2313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TileDB",
+          "description": "快速密集和稀疏多维数组DBMS。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-01T11:31:28Z",
+            "owner": "TileDB-Inc",
+            "repo": "TileDB",
+            "stars": 2070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOCI",
+          "description": "C++的数据库抽象层。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T20:45:05Z",
+            "owner": "SOCI",
+            "repo": "soci",
+            "stars": 1615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB C++ Driver",
+          "description": "MongDB的C++驱动程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T19:18:04Z",
+            "owner": "mongodb",
+            "repo": "mongo-cxx-driver",
+            "stars": 1104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlite_modern_cpp",
+          "description": "sqlite库的C++14封装器，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-23T15:29:30Z",
+            "owner": "SqliteModernCpp",
+            "repo": "sqlite_modern_cpp",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB C Driver",
+          "description": "C的MongoDB客户端库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T19:17:00Z",
+            "owner": "mongodb",
+            "repo": "mongo-c-driver",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hiberlite",
+          "description": "用于Sqlite3的C++对象关系映射。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-07-24T17:16:55Z",
+            "owner": "paulftw",
+            "repo": "hiberlite",
+            "stars": 723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimDB",
+          "description": "高性能、共享内存、无锁、跨平台、单文件、最小依赖的C++11键值存储。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-05T02:35:38Z",
+            "owner": "LiveAsynchronousVisualizedArchitecture",
+            "repo": "simdb",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanodbc",
+          "description": "用于本机C ODBC API的小型C++封装器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-28T20:49:02Z",
+            "owner": "nanodbc",
+            "repo": "nanodbc",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB Libbson",
+          "description": "BSON实用库。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2020-10-10T09:38:11Z",
+            "owner": "mongodb",
+            "repo": "libbson",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LMDB++",
+          "description": "LMDB嵌入式数据库的C++11封装器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-11-12T16:39:37Z",
+            "owner": "drycpp",
+            "repo": "lmdbxx",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redis3m",
+          "description": "使用干净C++接口的hiredis封装器，支持标记和现成的模式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-05-22T23:51:41Z",
+            "owner": "luca3m",
+            "repo": "redis3m",
+            "stars": 185
+          }
+        }
+      ],
+      "title": "数据库"
+    },
+    {
+      "description": "调试库， 内存和资源泄露检测，单元测试",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Mock",
+          "description": "编写和使用C++模拟类的库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T19:45:03Z",
+            "owner": "google",
+            "repo": "googletest",
+            "stars": 38924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Test",
+          "description": "Google的C++测试框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T19:45:03Z",
+            "owner": "google",
+            "repo": "googletest",
+            "stars": 38924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catch",
+          "description": "一个很时尚的，C++原生的框架，只包含头文件，用于单元测试，测试驱动开发和行为驱动开发。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T22:08:23Z",
+            "owner": "catchorg",
+            "repo": "Catch2",
+            "stars": 21428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catch2",
+          "description": "一个很时尚的，C++原生的框架，只包含头文件，用于单元测试，测试驱动开发和行为驱动开发。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T22:08:23Z",
+            "owner": "catchorg",
+            "repo": "Catch2",
+            "stars": 21428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "benchmark",
+          "description": "Google提供的小型微基准支持库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:03:53Z",
+            "owner": "google",
+            "repo": "benchmark",
+            "stars": 10349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doctest",
+          "description": "功能最轻便的单个C++头文件的测试框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-12T04:09:01Z",
+            "owner": "doctest",
+            "repo": "doctest",
+            "stars": 6843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity",
+          "description": "C的简单单元测试。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-21T15:26:22Z",
+            "owner": "ThrowTheSwitch",
+            "repo": "Unity",
+            "stars": 5344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "backward-cpp",
+          "description": "C++的漂亮堆栈轨迹打印机。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-14T17:34:48Z",
+            "owner": "bombela",
+            "repo": "backward-cpp",
+            "stars": 4300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remotery",
+          "description": "用于Web视图的单一C文件分析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-28T08:52:43Z",
+            "owner": "Celtoys",
+            "repo": "Remotery",
+            "stars": 3311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbg-macro",
+          "description": "C++的dbg（……）宏。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-14T12:28:16Z",
+            "owner": "sharkdp",
+            "repo": "dbg-macro",
+            "stars": 3231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CppUTest",
+          "description": "C/C++的单元测试和模拟框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-30T11:59:16Z",
+            "owner": "cpputest",
+            "repo": "cpputest",
+            "stars": 1480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "μt",
+          "description": "C++20的单头文件/单模块、无宏的μ（微型）/单元测试框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-14T04:02:17Z",
+            "owner": "boost-ext",
+            "repo": "ut",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "check",
+          "description": "C的单元测试框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-13T05:56:59Z",
+            "owner": "libcheck",
+            "repo": "check",
+            "stars": 1173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utest.h",
+          "description": "C和C++的单个头文件测试框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-21T14:28:57Z",
+            "owner": "sheredom",
+            "repo": "utest.h",
+            "stars": 987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fff",
+          "description": "创建伪C函数的微框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-02T22:46:42Z",
+            "owner": "meekrosoft",
+            "repo": "fff",
+            "stars": 931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Celero",
+          "description": "C++基准测试框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T13:56:45Z",
+            "owner": "DigitalInBlue",
+            "repo": "Celero",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nonius",
+          "description": "C++微基准测试框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-02-25T23:22:55Z",
+            "owner": "libnonius",
+            "repo": "nonius",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libtap",
+          "description": "用C语言编写测试。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-17T22:06:22Z",
+            "owner": "zorgnax",
+            "repo": "libtap",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ig-debugheap",
+          "description": "用于追踪内存错误的多平台调试堆。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2015-11-09T06:09:29Z",
+            "owner": "deplinenoise",
+            "repo": "ig-debugheap",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nanotimer",
+          "description": "用于基准测试的简单、低开销、跨平台的定时器类。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-08T03:22:36Z",
+            "owner": "mattreecebentley",
+            "repo": "plf_nanotimer",
+            "stars": 155
+          }
+        }
+      ],
+      "title": "调试"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Godot",
+          "description": "功能齐全、开源、有MIT许可的游戏引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T23:58:46Z",
+            "owner": "godotengine",
+            "repo": "godot",
+            "stars": 115672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raylib",
+          "description": "简单、易于使用的库，用于享受视频游戏编程的乐趣。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T22:46:53Z",
+            "owner": "raysan5",
+            "repo": "raylib",
+            "stars": 34302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnTT",
+          "description": "游戏与现代C++的碰撞。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T15:23:08Z",
+            "owner": "skypjack",
+            "repo": "entt",
+            "stars": 13010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Panda3D",
+          "description": "游戏引擎，用于Python和C++程序的3D渲染和游戏开发的框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-28T20:40:18Z",
+            "owner": "panda3d",
+            "repo": "panda3d",
+            "stars": 5203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GamePlay",
+          "description": "用于创建2D/3D移动和桌面游戏的跨平台本机C++游戏框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-25T18:58:21Z",
+            "owner": "gameplay3d",
+            "repo": "gameplay",
+            "stars": 4893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelGameEngine",
+          "description": "olcPixelGameEngine的官方发行版，该工具用于javidx9的YouTube视频和项目。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-26T22:06:05Z",
+            "owner": "OneLoneCoder",
+            "repo": "olcPixelGameEngine",
+            "stars": 4223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring",
+          "description": "强大、免费、跨平台的RTS游戏引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-31T18:56:50Z",
+            "owner": "spring",
+            "repo": "spring",
+            "stars": 3962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halley",
+          "description": "用C++14编写的轻量级游戏引擎，带有“真实的”实体组件系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T15:00:23Z",
+            "owner": "amzeratul",
+            "repo": "halley",
+            "stars": 3854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenXRay",
+          "description": "在S.T.A.L.K.E.R.游戏系列中使用的社群修改的X射线引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-30T00:54:11Z",
+            "owner": "OpenXRay",
+            "repo": "xray-16",
+            "stars": 3537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torque3D",
+          "description": "为3D游戏开发构建的开源C++引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-04-03T20:16:04Z",
+            "owner": "GarageGames",
+            "repo": "Torque3D",
+            "stars": 3362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KlayGE",
+          "description": "具有基于插件架构的跨平台、开源的游戏引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-17T23:08:59Z",
+            "owner": "gongminmin",
+            "repo": "KlayGE",
+            "stars": 2176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Acid",
+          "description": "高速的C++17 Vulkan游戏引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-21T04:41:02Z",
+            "owner": "EQMG",
+            "repo": "Acid",
+            "stars": 2015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corange",
+          "description": "用纯C、SDL、OpenGL编写的游戏引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-03T11:56:44Z",
+            "owner": "orangeduck",
+            "repo": "Corange",
+            "stars": 1985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torque2D",
+          "description": "为2D游戏开发构建的开源、跨平台C++引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-06-01T15:29:56Z",
+            "owner": "GarageGames",
+            "repo": "Torque2D",
+            "stars": 1663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "toy engine",
+          "description": "toy是一个轻量的模块化的 C++ 游戏引擎，并提供简单的、有表现力的C++惯用法来快速迭代设计功能齐全的2D和3D游戏。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-25T15:18:35Z",
+            "owner": "hugoam",
+            "repo": "toy",
+            "stars": 1593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nCine",
+          "description": "注重性能的跨平台2D游戏引擎，用C++11编写，还可以选择使用Lua编写脚本。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T16:33:05Z",
+            "owner": "nCine",
+            "repo": "nCine",
+            "stars": 1325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crown",
+          "description": "Crown是一款通用的数据驱动游戏引擎，使用正统C++从零开始编写，并牢记简约和面向数据的设计理念。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T11:47:32Z",
+            "owner": "dbartolini",
+            "repo": "crown",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "游戏引擎"
+    },
+    {
+      "description": "图形用户界面",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "imgui",
+          "description": "拥有最小依赖关系的即时模式图形用户界面。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T16:43:39Z",
+            "owner": "ocornut",
+            "repo": "imgui",
+            "stars": 75644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nuklear",
+          "description": "单个头文件的ANSI C gui库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T02:06:24Z",
+            "owner": "Immediate-Mode-UI",
+            "repo": "Nuklear",
+            "stars": 11321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libui",
+          "description": "C中简单、可移植（但是不灵活）的GUI库，使用其支持的每一种平台的本机GUI技术。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-29T04:55:35Z",
+            "owner": "andlabs",
+            "repo": "libui",
+            "stars": 10894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "implot",
+          "description": "imgui的即时模式绘图控件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T17:15:13Z",
+            "owner": "epezent",
+            "repo": "implot",
+            "stars": 6186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RmlUi",
+          "description": "进化的HTML/CSS用户界面库，libRocket的分支。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T21:27:25Z",
+            "owner": "mikke89",
+            "repo": "RmlUi",
+            "stars": 4346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elements",
+          "description": "轻量级、细粒度、分辨率无关的模块化GUI库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-13T22:38:53Z",
+            "owner": "cycfi",
+            "repo": "elements",
+            "stars": 3716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yue",
+          "description": "创建本机跨平台GUI应用的库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-24T11:00:07Z",
+            "owner": "yue",
+            "repo": "yue",
+            "stars": 3614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GacUI",
+          "description": "GPU加速的C++用户界面，具有所见即所得的开发工具，支持XML，具有内置数据绑定和MVVM功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T10:24:33Z",
+            "owner": "vczh-libraries",
+            "repo": "GacUI",
+            "stars": 2678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanoGui",
+          "description": "简约、跨平台的控件库，用于OpenGL 3.x及更高版本。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-29T19:22:29Z",
+            "owner": "mitsuba-renderer",
+            "repo": "nanogui",
+            "stars": 1807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boden",
+          "description": "本机、移动、跨平台的GUI框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-12-17T14:46:57Z",
+            "owner": "AshampooSystems",
+            "repo": "boden",
+            "stars": 1745
+          }
+        }
+      ],
+      "title": "图形用户界面"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bgfx",
+          "description": "跨平台的渲染库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-14T00:36:00Z",
+            "owner": "bkaradzic",
+            "repo": "bgfx",
+            "stars": 17396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLFW",
+          "description": "简单、跨平台的OpenGL处理库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T16:34:20Z",
+            "owner": "glfw",
+            "repo": "glfw",
+            "stars": 15252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "assimp",
+          "description": "开放资产导入库（assimp）是跨平台的3D模型导入库，旨在为不同的3D资产文件格式提供通用的API。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T19:43:23Z",
+            "owner": "assimp",
+            "repo": "assimp",
+            "stars": 13133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skia",
+          "description": "用于绘制文字，图形和图像的完整的2D图形库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T19:33:49Z",
+            "owner": "google",
+            "repo": "skia",
+            "stars": 10875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanoVG",
+          "description": "OpenGL之上的抗锯齿2D矢量图形库，用于UI和可视化。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-19T13:29:32Z",
+            "owner": "memononen",
+            "repo": "nanovg",
+            "stars": 5685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magnum",
+          "description": "用于游戏和数据可视化的轻量级和模块化的 C++ 11 /C++ 14图形中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T10:09:49Z",
+            "owner": "mosra",
+            "repo": "magnum",
+            "stars": 5187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libigl",
+          "description": "简单的C++几何处理库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T03:16:48Z",
+            "owner": "libigl",
+            "repo": "libigl",
+            "stars": 5068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urho3d",
+          "description": "跨平台的渲染和游戏引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-01-25T17:29:02Z",
+            "owner": "urho3d",
+            "repo": "urho3d",
+            "stars": 4761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diligent Engine",
+          "description": "现代、跨平台、低阶的3D图形库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Batchfile",
+            "last_commit": "2026-08-12T03:35:50Z",
+            "owner": "DiligentGraphics",
+            "repo": "DiligentEngine",
+            "stars": 4388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSubdiv",
+          "description": "Pixar的库，用于评估和渲染CPU和GPU上的细分曲面。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-17T15:34:51Z",
+            "owner": "PixarAnimationStudios",
+            "repo": "OpenSubdiv",
+            "stars": 3069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yocto/GL",
+          "description": "用于数据驱动的基于物理图形的微型C++库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-21T11:47:53Z",
+            "owner": "xelatihy",
+            "repo": "yocto-gl",
+            "stars": 2921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DirectXTK",
+          "description": "用于在C++中编写DirectX 11.x代码的帮助类的集合。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T20:02:47Z",
+            "owner": "microsoft",
+            "repo": "DirectXTK",
+            "stars": 2847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLGL",
+          "description": "低水平图形库（LLGL）是现代图形API的薄抽象层。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T13:27:22Z",
+            "owner": "LukasBanana",
+            "repo": "LLGL",
+            "stars": 2614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blend2D",
+          "description": "由JIT编译器提供技术支持的2D矢量图形引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-29T08:14:34Z",
+            "owner": "blend2d",
+            "repo": "blend2d",
+            "stars": 1968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bs::framework",
+          "description": "用于实时图形应用开发的现代C++14库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T14:10:17Z",
+            "owner": "GameFoundry",
+            "repo": "B3DFramework",
+            "stars": 1920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "herebedragons",
+          "description": "使用各种引擎、框架或者API实现的基本3D场景。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-11T22:47:11Z",
+            "owner": "kosua20",
+            "repo": "herebedragons",
+            "stars": 1797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Horde3D",
+          "description": "一个小型的3D渲染和动画引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-30T20:48:15Z",
+            "owner": "horde3d",
+            "repo": "Horde3D",
+            "stars": 1582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ion",
+          "description": "小型高效的库集合，用于构建使用3D图形的跨平台客户端或服务器应用程序。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-06-09T07:59:49Z",
+            "owner": "google",
+            "repo": "ion",
+            "stars": 1419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinySpline",
+          "description": "小型但强大的ANSI C库，用于差值、转换和查询任意NURBS、B-样条函数和贝赛尔曲线。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-03T22:18:21Z",
+            "owner": "msteinbeck",
+            "repo": "tinyspline",
+            "stars": 1349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Partio",
+          "description": "用于处理粒子数据的库，支持大多数常见文件形式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-22T23:27:30Z",
+            "owner": "wdas",
+            "repo": "partio",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C-Turtle",
+          "description": "充当Clmg封装器的C++11 turtle图形库，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-06T20:05:33Z",
+            "owner": "walkerje",
+            "repo": "C-Turtle",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "图形"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stb-image",
+          "description": "STB单个头文件的图像加载库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T06:42:09Z",
+            "owner": "nothings",
+            "repo": "stb",
+            "stars": 34395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dlib",
+          "description": "现代C++11的机器学习、计算机视觉、数值优化和深度学习工具包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T03:03:36Z",
+            "owner": "davisking",
+            "repo": "dlib",
+            "stars": 14433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libfacedetection",
+          "description": "用于图像中人脸检测的开源库，其人脸检测的速度能达到1500FPS。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-28T12:33:49Z",
+            "owner": "ShiqiYu",
+            "repo": "libfacedetection",
+            "stars": 12777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libjpeg-turbo",
+          "description": "使用SIMD指令来加速基线JPEG编码和解码的JPEG图像编解码器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-05T20:48:20Z",
+            "owner": "libjpeg-turbo",
+            "repo": "libjpeg-turbo",
+            "stars": 4383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenImageIO",
+          "description": "强大的图像和纹理处理库，支持多种常见的有损和RAW格式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T17:38:54Z",
+            "owner": "AcademySoftwareFoundation",
+            "repo": "OpenImageIO",
+            "stars": 2344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simd",
+          "description": "使用SIMD的C++图像处理库: SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON for ARM。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T13:29:33Z",
+            "owner": "ermig1979",
+            "repo": "Simd",
+            "stars": 2262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leptonica",
+          "description": "Leptonica是一个包含软件的开源库，其广泛应用于图像处理和图形分析应用程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T12:34:56Z",
+            "owner": "DanBloomberg",
+            "repo": "leptonica",
+            "stars": 2071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GD",
+          "description": "GD图形库，有名的用于PHP中图形加载/操作和缩略图生成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T20:31:14Z",
+            "owner": "libgd",
+            "repo": "libgd",
+            "stars": 983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video++",
+          "description": "C++ 14高性能的视频和图像处理库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-02-07T13:14:38Z",
+            "owner": "matt-42",
+            "repo": "vpp",
+            "stars": 741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VIGRA",
+          "description": "用于图像分析通用C++计算机视觉库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-25T23:24:36Z",
+            "owner": "ukoethe",
+            "repo": "vigra",
+            "stars": 442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyEXIF",
+          "description": "用于JPEG的微型ISO兼容的C++ EXIF和XMP解析库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-19T04:55:29Z",
+            "owner": "cdcseacave",
+            "repo": "TinyEXIF",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libvips",
+          "description": "具有低内存需求的快速图像处理库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-09-22T09:59:01Z",
+            "owner": "jcupitt",
+            "repo": "libvips",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "图像处理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "utf8.h",
+          "description": "C和C++的单个头文件的utf8字符串函数。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T20:52:05Z",
+            "owner": "sheredom",
+            "repo": "utf8.h",
+            "stars": 1972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utf8proc",
+          "description": "干净的C库，用于处理UTF-8 Unicode数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T13:50:48Z",
+            "owner": "JuliaStrings",
+            "repo": "utf8proc",
+            "stars": 1286
+          }
+        }
+      ],
+      "title": "国际化"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gRPC",
+          "description": "高性能、开源、通用的RPC框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:41:10Z",
+            "owner": "grpc",
+            "repo": "grpc",
+            "stars": 45282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cap'n Proto",
+          "description": "快速的数据交换格式和基于功能的RPC系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T20:15:45Z",
+            "owner": "capnproto",
+            "repo": "capnproto",
+            "stars": 13159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanomsg",
+          "description": "好几个“可扩展协议”的简单高性能实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T21:30:47Z",
+            "owner": "nanomsg",
+            "repo": "nanomsg",
+            "stars": 6292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nng",
+          "description": "nanomsg的下一代，轻量级、无代理消息的传递库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T21:46:02Z",
+            "owner": "nanomsg",
+            "repo": "nng",
+            "stars": 4654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ice",
+          "description": "全面的RPC框架，支持C++、C＃、Java、JavaScript、Python等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T20:20:13Z",
+            "owner": "zeroc-ice",
+            "repo": "ice",
+            "stars": 2188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rpclib",
+          "description": "现代C++的msgpack-RPC服务器和客户端库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-09T11:29:25Z",
+            "owner": "rpclib",
+            "repo": "rpclib",
+            "stars": 1839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libjson-rpc-cpp",
+          "description": "用于C++服务器和客户端的JSON-RPC框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-02T12:43:08Z",
+            "owner": "cinemast",
+            "repo": "libjson-rpc-cpp",
+            "stars": 986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-rpc-cpp",
+          "description": "C / C++函数的简单RPC封装生成器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-08-05T12:50:44Z",
+            "owner": "pearu",
+            "repo": "simple-rpc-cpp",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eCAL",
+          "description": "发布/订阅，客户端/服务器，C++/Python/C#，各种消息协议（protobuf, capnproto ..）。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-07-28T17:44:57Z",
+            "owner": "continental",
+            "repo": "ecal",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "进程间通信"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "json",
+          "description": "用于现代C++的JSON。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T15:48:13Z",
+            "owner": "nlohmann",
+            "repo": "json",
+            "stars": 50365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simdjson",
+          "description": "极快的JSON库，可以千兆字节每秒的速度解析JSON。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:43:26Z",
+            "owner": "simdjson",
+            "repo": "simdjson",
+            "stars": 24148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RapidJSON",
+          "description": "用于C++的快速JSON 解析生成器，包含SAX和DOM两种风格的API。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-05T13:28:08Z",
+            "owner": "Tencent",
+            "repo": "rapidjson",
+            "stars": 15111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cJSON",
+          "description": "ANSI C的超轻量级JSON解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-09T01:59:11Z",
+            "owner": "DaveGamble",
+            "repo": "cJSON",
+            "stars": 12918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JsonCpp",
+          "description": "可与JSON交互的C++库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-29T00:42:11Z",
+            "owner": "open-source-parsers",
+            "repo": "jsoncpp",
+            "stars": 8881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jsmn",
+          "description": "C语言中的简约JSON解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-09T11:29:26Z",
+            "owner": "zserge",
+            "repo": "jsmn",
+            "stars": 4168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jansson",
+          "description": "进行编解码和处理Json数据的C语言库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-09T17:43:34Z",
+            "owner": "akheron",
+            "repo": "jansson",
+            "stars": 3355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-c",
+          "description": "C中的JSON实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T01:11:40Z",
+            "owner": "json-c",
+            "repo": "json-c",
+            "stars": 3286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json11",
+          "description": "一个迷你的C++11 JSON库。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-03-25T23:27:28Z",
+            "owner": "dropbox",
+            "repo": "json11",
+            "stars": 2589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YAJL",
+          "description": "C语言中快速流JSON解析库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-05T06:58:35Z",
+            "owner": "lloyd",
+            "repo": "yajl",
+            "stars": 2227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIBUCL",
+          "description": "通用配置库解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-20T09:46:16Z",
+            "owner": "vstakhov",
+            "repo": "libucl",
+            "stars": 1742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parson",
+          "description": "用C编写的轻量级的JSON库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-11T14:17:50Z",
+            "owner": "kgabis",
+            "repo": "parson",
+            "stars": 1466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-parser",
+          "description": "用可移植的ANSI C编写的JSON解析器，占用内存非常少。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-10T01:01:35Z",
+            "owner": "json-parser",
+            "repo": "json-parser",
+            "stars": 1337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PicoJSON",
+          "description": "C++中JSON解析序列化，只包含头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-13T08:02:44Z",
+            "owner": "kazuho",
+            "repo": "picojson",
+            "stars": 1157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsoncons",
+          "description": "使用JSONPointer、JSONPatch、JSONPath和JMESPath的JSON和类似JSON二进制格式的C++库，只有头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T23:40:32Z",
+            "owner": "danielaparker",
+            "repo": "jsoncons",
+            "stars": 850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json.h",
+          "description": "在C和C++中解析JSON的简单的单头文件/单源文件的解决方案。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T20:47:39Z",
+            "owner": "sheredom",
+            "repo": "json.h",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frozen",
+          "description": "C/C++的Json解析生成器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-05T13:03:24Z",
+            "owner": "cesanta",
+            "repo": "frozen",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taoJSON",
+          "description": "零依赖的C++JSON库，只包含头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-05T18:38:44Z",
+            "owner": "taocpp",
+            "repo": "json",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sajson",
+          "description": "用于C++ 11的轻量级、高性能的JSON解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-06T17:40:49Z",
+            "owner": "chadaustin",
+            "repo": "sajson",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON++",
+          "description": "C++的JSON 解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-02-21T06:34:45Z",
+            "owner": "hjiang",
+            "repo": "jsonxx",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qt-json",
+          "description": "用于JSON数据和 QVariant层次间的相互解析的简单类。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2018-02-12T12:05:04Z",
+            "owner": "qt-json",
+            "repo": "qt-json",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ibjson",
+          "description": "C语言中的JSON解析和打印库，很容易和任何模型集成。。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-12T09:18:34Z",
+            "owner": "vincenthz",
+            "repo": "libjson",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QJson",
+          "description": "将JSON数据映射到QVariant对象的基于Qt的库。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-11-17T13:16:28Z",
+            "owner": "flavio",
+            "repo": "qjson",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JeayeSON",
+          "description": "非常健全的C++ JSON库，只包含头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-01-02T02:00:43Z",
+            "owner": "jeaye",
+            "repo": "jeayeson",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-voorhees",
+          "description": "C++的JSON库。支持C++ 11，无依赖关系，快速且对开发人员友好。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-27T21:38:08Z",
+            "owner": "tgockel",
+            "repo": "json-voorhees",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jute",
+          "description": "非常简单的C++ JSON解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-06T18:37:49Z",
+            "owner": "amir-s",
+            "repo": "jute",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jbson",
+          "description": "C++14中构建和迭代BSON data和Json 文档的库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-12-20T23:57:48Z",
+            "owner": "chrismanning",
+            "repo": "jbson",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Json"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spdlog",
+          "description": "超级快的C++日志库，只包含头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T10:51:08Z",
+            "owner": "gabime",
+            "repo": "spdlog",
+            "stars": 29481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glog",
+          "description": "Google日志模块的C++实现。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-05-17T11:51:44Z",
+            "owner": "google",
+            "repo": "glog",
+            "stars": 7393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Easylogging++",
+          "description": "适用于C++ 11（或更高版本）应用程序的超轻量级、高性能的日志库。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-07-06T05:02:12Z",
+            "owner": "abumq",
+            "repo": "easyloggingpp",
+            "stars": 3939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quill",
+          "description": "异步、跨平台、低时延的日志库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T02:05:16Z",
+            "owner": "odygrd",
+            "repo": "quill",
+            "stars": 2999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plog",
+          "description": "C++可移植且简单的日志，少于1000行代码。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T07:44:11Z",
+            "owner": "SergiusTheBest",
+            "repo": "plog",
+            "stars": 2574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "loguru",
+          "description": "轻量级的C++日志库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T12:11:42Z",
+            "owner": "emilk",
+            "repo": "loguru",
+            "stars": 1906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "log4cplus",
+          "description": "易于使用的C++日志API，可提供对日志管理和配置的线程安全、灵活且任意粒度的控制。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-11T18:24:42Z",
+            "owner": "log4cplus",
+            "repo": "log4cplus",
+            "stars": 1727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G3log",
+          "description": "具有动态接收模块的异步记录器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T13:49:59Z",
+            "owner": "KjellKod",
+            "repo": "g3log",
+            "stars": 959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reckless",
+          "description": "C++低延迟、高吞吐量、异步的日志库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-22T08:41:31Z",
+            "owner": "mattiasflodin",
+            "repo": "reckless",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blackhole",
+          "description": "基于属性的日志框架，旨在快速、模块化和高度可定制。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-12-12T09:08:27Z",
+            "owner": "3Hren",
+            "repo": "blackhole",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "日志"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenCV",
+          "description": "开源计算机视觉库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T19:47:57Z",
+            "owner": "opencv",
+            "repo": "opencv",
+            "stars": 90416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caffe",
+          "description": "快速的神经网络框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-31T23:10:28Z",
+            "owner": "BVLC",
+            "repo": "caffe",
+            "stars": 34572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xgboost",
+          "description": "用于Python、R、Java、Scala、C++等的可扩展、便携式和分布式梯度增强（GBDT，GBRT或GBM）的库。在单机、Hadoop、Spark、Flink和DataFlow上运行。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:01:50Z",
+            "owner": "dmlc",
+            "repo": "xgboost",
+            "stars": 28650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darknet",
+          "description": "用C和CUDA编写的开源神经网络框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-03T13:53:58Z",
+            "owner": "pjreddie",
+            "repo": "darknet",
+            "stars": 26490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dlib",
+          "description": "现代C++ 11的机器学习、计算机视觉、数值优化和深度学习的工具包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T03:03:36Z",
+            "owner": "davisking",
+            "repo": "dlib",
+            "stars": 14433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CCV",
+          "description": "基于C /缓存/核心的计算机视觉库，现代计算机视觉库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T22:20:01Z",
+            "owner": "liuliu",
+            "repo": "ccv",
+            "stars": 7237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flashlight",
+          "description": "来自Facebook AI研究中心的快速、灵活的机器学习库，其完全用C++编写，基于ArrayFire张量库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-22T00:07:38Z",
+            "owner": "flashlight",
+            "repo": "flashlight",
+            "stars": 5465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libsvm",
+          "description": "支持向量机的简单、易用、高效的库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-29T11:23:20Z",
+            "owner": "cjlin1",
+            "repo": "libsvm",
+            "stars": 4707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SHOGUN",
+          "description": "Shogun 机器学习工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-19T18:37:18Z",
+            "owner": "shogun-toolbox",
+            "repo": "shogun",
+            "stars": 3079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLFeat",
+          "description": "VLFeat开源库实现了流行的计算机视觉算法，这些算法专门用于图像理解以及局部特征提取和匹配。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-25T07:57:03Z",
+            "owner": "vlfeat",
+            "repo": "vlfeat",
+            "stars": 1648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RNNLIB",
+          "description": "RNNLIB是用于序列学习问题的递归神经网络库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-02-10T11:07:20Z",
+            "owner": "szcom",
+            "repo": "rnnlib",
+            "stars": 902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeTA",
+          "description": "现代C++的数据科学工具包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-17T08:37:52Z",
+            "owner": "meta-toolkit",
+            "repo": "meta",
+            "stars": 715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minerva",
+          "description": "快速、灵活的深度学习系统。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2018-11-01T02:00:46Z",
+            "owner": "dmlc",
+            "repo": "minerva",
+            "stars": 712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fido",
+          "description": "用于嵌入式电子和机器人技术的高度模块化的C++机器学习库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-01-05T10:58:12Z",
+            "owner": "FidoProject",
+            "repo": "Fido",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recommender",
+          "description": "使用协同过滤进行产品推荐/建议的C语言库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-07-19T15:21:25Z",
+            "owner": "GHamrouni",
+            "repo": "Recommender",
+            "stars": 267
+          }
+        }
+      ],
+      "title": "机器学习"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dlib",
+          "description": "现代C++11的机器学习、计算机视觉、数值优化和深度学习工具包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T03:03:36Z",
+            "owner": "davisking",
+            "repo": "dlib",
+            "stars": 14433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLM",
+          "description": "只包含头文件的C++数学库，可与OpenGL的GLSL数学匹配并互操作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-07T11:38:35Z",
+            "owner": "g-truc",
+            "repo": "glm",
+            "stars": 11152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenBLAS",
+          "description": "基于GotoBLAS2 1.13 BSD版本的优化BLAS库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T21:13:29Z",
+            "owner": "OpenMathLib",
+            "repo": "OpenBLAS",
+            "stars": 7553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuantLib",
+          "description": "v: 用于计量金融的免费/开源库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T16:46:15Z",
+            "owner": "lballabio",
+            "repo": "QuantLib",
+            "stars": 7508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CGAL",
+          "description": "高效，可靠的几何算法集合。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T15:45:08Z",
+            "owner": "CGAL",
+            "repo": "cgal",
+            "stars": 6008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xtensor",
+          "description": "受NumPy语法启发的C++ 14库，用于使用多维数组表达式进行数值分析。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-15T13:17:38Z",
+            "owner": "xtensor-stack",
+            "repo": "xtensor",
+            "stars": 3760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autodiff",
+          "description": "用于自动微分的现代、快速且富有表现力的C++库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-27T07:45:25Z",
+            "owner": "autodiff",
+            "repo": "autodiff",
+            "stars": 1948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyExpr",
+          "description": "用于解析和评估字符串中的数学表达式的C库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T03:37:29Z",
+            "owner": "codeplea",
+            "repo": "tinyexpr",
+            "stars": 1914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vc",
+          "description": "C++的SIMD矢量类。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-07T14:19:59Z",
+            "owner": "VcDevel",
+            "repo": "Vc",
+            "stars": 1540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SymEngine",
+          "description": "快速符号处理库，用C++重写了SymPy的核心。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-29T16:35:45Z",
+            "owner": "symengine",
+            "repo": "symengine",
+            "stars": 1400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linmath.h",
+          "description": "精益线性数学库，主要用于图形编程。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-31T19:52:33Z",
+            "owner": "datenwolf",
+            "repo": "linmath.h",
+            "stars": 1058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linalg.h",
+          "description": "C++的单头文件、公共域、短向量数学库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-07-02T21:41:57Z",
+            "owner": "sgorsten",
+            "repo": "linalg",
+            "stars": 960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Klein",
+          "description": "快速、SIMD优化的C++ 17几何代数库，用于点、线和平面投影、相交、连接、刚体运动等。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-08-02T05:53:30Z",
+            "owner": "jeremyong",
+            "repo": "klein",
+            "stars": 804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibTomMath",
+          "description": "完全用C编写的免费、开源、可移植的数论多精度整数库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-20T13:01:54Z",
+            "owner": "libtom",
+            "repo": "libtommath",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIRACL",
+          "description": "多精度整数和有理数算法加密库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-07T07:10:14Z",
+            "owner": "miracl",
+            "repo": "MIRACL",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StatsLib",
+          "description": "统计分布函数的C++库，只包含头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-05-14T13:04:46Z",
+            "owner": "kthohr",
+            "repo": "stats",
+            "stars": 559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "universal",
+          "description": "只包含头文件的C++ 14库，实现任意假定算数。假定数值系统是一个锥形浮点，比IEEE浮点更有效。假定数使可复现的计算科学成为可能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T22:51:18Z",
+            "owner": "stillwater-sc",
+            "repo": "universal",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apophenia",
+          "description": "用于统计和科学计算的C库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-01-22T01:05:18Z",
+            "owner": "b-k",
+            "repo": "apophenia",
+            "stars": 209
+          }
+        }
+      ],
+      "title": "数学"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mimalloc",
+          "description": "具有出色性能的紧凑型通用分配器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-14T00:24:14Z",
+            "owner": "microsoft",
+            "repo": "mimalloc",
+            "stars": 13283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jemalloc",
+          "description": "通用的malloc（3）实现，强调避免存储碎片和可扩展的并发支持。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T13:16:09Z",
+            "owner": "jemalloc",
+            "repo": "jemalloc",
+            "stars": 11039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boehm GC",
+          "description": "C和C++的保守的垃圾回收器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-23T15:55:08Z",
+            "owner": "bdwgc",
+            "repo": "bdwgc",
+            "stars": 3521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memory-allocators",
+          "description": "自定义内存分配器，可提高动态内存分配的性能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-12T17:51:32Z",
+            "owner": "mtrebi",
+            "repo": "memory-allocators",
+            "stars": 1991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C Smart Pointers",
+          "description": "（GNU）C编程语言的智能指针。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2022-11-02T10:43:12Z",
+            "owner": "Snaipe",
+            "repo": "libcsptr",
+            "stars": 1729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "memory",
+          "description": "兼容STL的C++内存分配器库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-29T09:02:55Z",
+            "owner": "foonathan",
+            "repo": "memory",
+            "stars": 1616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hoard",
+          "description": "快速、可扩展和节约内存的Malloc，支持Linux、Windows和Mac。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-19T14:22:15Z",
+            "owner": "emeryberger",
+            "repo": "Hoard",
+            "stars": 1248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tgc",
+          "description": "用 ~500 LOC编写的C语言微型垃圾回收器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-06-26T14:13:14Z",
+            "owner": "orangeduck",
+            "repo": "tgc",
+            "stars": 1098
+          }
+        }
+      ],
+      "title": "内存分配"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QtAv",
+          "description": "基于Qt和FFmpeg的多媒体播放框架，能够帮助你轻而易举地编写出一个播放器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-15T16:20:01Z",
+            "owner": "wang-bin",
+            "repo": "QtAV",
+            "stars": 4257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TagLib",
+          "description": "用于读取和编辑几种流行音频格式的元数据的库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:40:24Z",
+            "owner": "taglib",
+            "repo": "taglib",
+            "stars": 1444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libass",
+          "description": "ASS / SSA字幕格式的便携式字幕渲染器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T22:30:30Z",
+            "owner": "libass",
+            "repo": "libass",
+            "stars": 1160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libass",
+          "description": "处理多媒体内容（例如音频、视频、字幕和相关元数据）的库和工具的集合。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T22:30:30Z",
+            "owner": "libass",
+            "repo": "libass",
+            "stars": 1160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MediaInfoLib",
+          "description": "用于视频和音频文件中最相关的技术和标签数据的方便统一显示。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-21T07:28:38Z",
+            "owner": "MediaArea",
+            "repo": "MediaInfoLib",
+            "stars": 785
+          }
+        }
+      ],
+      "title": "多媒体"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uWebSockets",
+          "description": "µWS是最轻量级、高效和可伸缩的WebSocket和HTTP服务器的实现之一。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T02:23:34Z",
+            "owner": "uNetworking",
+            "repo": "uWebSockets",
+            "stars": 18950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KCP",
+          "description": "快速、可靠的ARQ协议，可帮助应用程序减少网络延迟。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-23T06:21:10Z",
+            "owner": "skywind3000",
+            "repo": "kcp",
+            "stars": 16864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpp-httplib",
+          "description": "单文件的C++ 11 HTTP / HTTPS服务器库，只包含头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T23:54:38Z",
+            "owner": "yhirose",
+            "repo": "cpp-httplib",
+            "stars": 16743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Muduo",
+          "description": "用于Linux多线程服务器的C++非阻塞网络库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-23T17:18:04Z",
+            "owner": "chenshuo",
+            "repo": "muduo",
+            "stars": 16225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mongoose",
+          "description": "非常轻量级的网络服务器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T21:23:21Z",
+            "owner": "cesanta",
+            "repo": "mongoose",
+            "stars": 12990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H2O",
+          "description": "优化的HTTP服务器，支持HTTP / 1.x和HTTP / 2。它也可以用作库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T04:56:33Z",
+            "owner": "h2o",
+            "repo": "h2o",
+            "stars": 11527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxygen",
+          "description": "Facebook的C++ HTTP库集合，包括易于使用的HTTP服务器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T23:03:02Z",
+            "owner": "facebook",
+            "repo": "proxygen",
+            "stars": 8375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ REST SDK",
+          "description": "C++ REST SDK（以前称为Casablanca）。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2026-06-01T19:54:26Z",
+            "owner": "microsoft",
+            "repo": "cpprestsdk",
+            "stars": 8261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebSocket++",
+          "description": "基于C++/Boost Aiso的websocket 客户端/服务器库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-04T14:27:26Z",
+            "owner": "zaphoyd",
+            "repo": "websocketpp",
+            "stars": 7710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpr",
+          "description": "现代C++ HTTP请求库，具有简单但功能强大的接口。模仿Python Requests模块。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T06:25:04Z",
+            "owner": "libcpr",
+            "repo": "cpr",
+            "stars": 7402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTTP Parser",
+          "description": "C的http请求/响应解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2022-06-19T08:11:39Z",
+            "owner": "nodejs",
+            "repo": "http-parser",
+            "stars": 6446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libwebsockets",
+          "description": "提供客户端和服务器库的轻量级纯C WebSocket实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T09:06:15Z",
+            "owner": "warmcat",
+            "repo": "libwebsockets",
+            "stars": 5314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nghttp2",
+          "description": "HTTP / 2 C库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T12:07:21Z",
+            "owner": "nghttp2",
+            "repo": "nghttp2",
+            "stars": 5038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boost.Beast",
+          "description": "在C++ 11中基于Boost.Asio构建的HTTP和WebSocket。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T11:35:26Z",
+            "owner": "boostorg",
+            "repo": "beast",
+            "stars": 4817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DPDK",
+          "description": "用于快速打包处理的数据平面开发工具、库和驱动程序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T17:16:29Z",
+            "owner": "DPDK",
+            "repo": "dpdk",
+            "stars": 4369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evpp",
+          "description": "具有TCP / UDP / HTTP协议的C++高性能网络。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-10T11:09:16Z",
+            "owner": "Qihoo360",
+            "repo": "evpp",
+            "stars": 3774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RakNet",
+          "description": "为游戏开发人员提供的跨平台的开源C++网络引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2021-12-14T21:15:44Z",
+            "owner": "facebookarchive",
+            "repo": "RakNet",
+            "stars": 3427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ENet",
+          "description": "可靠的UDP网络库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-23T19:17:35Z",
+            "owner": "lsalzman",
+            "repo": "enet",
+            "stars": 3251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libpcap",
+          "description": "用于网络流量捕获的可移植C / C++库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T11:22:16Z",
+            "owner": "the-tcpdump-group",
+            "repo": "libpcap",
+            "stars": 3157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PcapPlusPlus",
+          "description": "跨平台的C++网络嗅探以及数据包解析和构建的框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T08:31:07Z",
+            "owner": "seladb",
+            "repo": "PcapPlusPlus",
+            "stars": 3129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wangle",
+          "description": "客户端/服务器应用程序框架，用于构建异步的、事件驱动的现代C++服务。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T16:36:57Z",
+            "owner": "facebook",
+            "repo": "wangle",
+            "stars": 3095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PF_RING™",
+          "description": "高速打包处理框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-23T12:57:43Z",
+            "owner": "ntop",
+            "repo": "PF_RING",
+            "stars": 2961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wdt",
+          "description": "可嵌入式库（和命令行工具），旨在通过多个TCP路径尽可能快地在2个系统之间传输数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-26T12:38:39Z",
+            "owner": "facebook",
+            "repo": "wdt",
+            "stars": 2956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "c-ares",
+          "description": "用于异步DNS请求的C库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T03:50:10Z",
+            "owner": "c-ares",
+            "repo": "c-ares",
+            "stars": 2176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mTCP",
+          "description": "用于多核系统的高度可扩展的用户级TCP堆栈。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-07-04T03:20:20Z",
+            "owner": "mtcp-stack",
+            "repo": "mtcp",
+            "stars": 2135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PicoHTTPParser",
+          "description": "微小、原始、快速的HTTP请求/响应解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-06T05:31:48Z",
+            "owner": "h2o",
+            "repo": "picohttpparser",
+            "stars": 2099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Onion",
+          "description": "C语言HTTP服务器库，其设计为轻量级，易使用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-17T18:56:32Z",
+            "owner": "davidmoreno",
+            "repo": "onion",
+            "stars": 2088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restbed",
+          "description": "C++ 11异步RESTful框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-23T09:30:10Z",
+            "owner": "Corvusoft",
+            "repo": "restbed",
+            "stars": 2002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libquic",
+          "description": "从Chromium的QUIC实现中提取的QUIC协议库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-10-10T14:45:22Z",
+            "owner": "devsisters",
+            "repo": "libquic",
+            "stars": 1833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "restclient-cpp",
+          "description": "用于C++的简单REST客户端。它包装libcurl用于HTTP请求。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-03T11:02:58Z",
+            "owner": "mrtazz",
+            "repo": "restclient-cpp",
+            "stars": 1612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dyad.c",
+          "description": "C的异步网络。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2020-10-06T10:51:15Z",
+            "owner": "rxi",
+            "repo": "dyad",
+            "stars": 1457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restinio",
+          "description": "只有头文件的C++ 14库，为您提供嵌入式HTTP / Websocket服务器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-02T06:14:56Z",
+            "owner": "Stiffstream",
+            "repo": "restinio",
+            "stars": 1301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "librdkafka",
+          "description": "用于C和C++的Apache Kafka客户端库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T17:50:45Z",
+            "owner": "confluentinc",
+            "repo": "librdkafka",
+            "stars": 1029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libhttpserver",
+          "description": "用于创建嵌入式Rest HTTP服务器（以及更多）的C++库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-23T06:10:01Z",
+            "owner": "etr",
+            "repo": "libhttpserver",
+            "stars": 949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQTT-C",
+          "description": "适用于嵌入式系统和类PC机的便携式MQTT C客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-12T05:19:51Z",
+            "owner": "LiamBindle",
+            "repo": "MQTT-C",
+            "stars": 895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seasocks",
+          "description": "具有WebSockets支持的简单、小型的C++嵌入式Web服务器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-17T07:11:34Z",
+            "owner": "mattgodbolt",
+            "repo": "seasocks",
+            "stars": 786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WAFer",
+          "description": "基于C语言的超轻型软件平台，用于可扩展的服务器端和网络应用。为C程序员考虑了node.js。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-12-07T22:32:39Z",
+            "owner": "riolet",
+            "repo": "WAFer",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tlse",
+          "description": "单个C文件的TLS 1.2 / 1.3实现，使用tomcrypt作为加密库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T07:07:53Z",
+            "owner": "eduardsui",
+            "repo": "tlse",
+            "stars": 682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "curlcpp",
+          "description": "CURL（libcurl）的面向对象C++封装器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-28T04:31:29Z",
+            "owner": "JosephP91",
+            "repo": "curlcpp",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tufão",
+          "description": "基于Qt构建的C++异步Web框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-02-10T09:51:02Z",
+            "owner": "vinipsmaker",
+            "repo": "tufao",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uriparser",
+          "description": "严格符合RFC 3986的URI解析和处理库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T23:37:41Z",
+            "owner": "uriparser",
+            "repo": "uriparser",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Breep",
+          "description": "基于事件的高级C++ 14点对点库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-12-07T21:19:55Z",
+            "owner": "Organic-Code",
+            "repo": "Breep",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpp-netlib/uri",
+          "description": "C++的URI解析器/生成器库，与RFC 3986和RFC 3987兼容。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-03-23T20:46:21Z",
+            "owner": "cpp-netlib",
+            "repo": "uri",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "网络"
+    },
+    {
+      "description": "动力学仿真引擎",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bullet",
+          "description": "3D的游戏物理引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-22T02:13:14Z",
+            "owner": "bulletphysics",
+            "repo": "bullet3",
+            "stars": 14671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiquidFun",
+          "description": "2D的游戏物理引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-04-26T20:07:43Z",
+            "owner": "google",
+            "repo": "liquidfun",
+            "stars": 4898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project Chrono",
+          "description": "开源的多物理场仿真引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T22:58:30Z",
+            "owner": "projectchrono",
+            "repo": "chrono",
+            "stars": 2981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simbody",
+          "description": "高性能C++多体动力学/物理库，模拟关节生物力学和机械系统，像车辆，机器人和人体骨骼。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:09:58Z",
+            "owner": "simbody",
+            "repo": "simbody",
+            "stars": 2545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhysX",
+          "description": "Nvidia开发的开源的实时物理引擎中间件SDK，作为Nvidia GameWorks软件套件的一部分。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-15T04:27:25Z",
+            "owner": "NVIDIAGameWorks",
+            "repo": "PhysX-3.4",
+            "stars": 2411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chipmunk",
+          "description": "快速、轻量级的2D游戏物理库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-05T18:45:27Z",
+            "owner": "slembcke",
+            "repo": "Chipmunk2D",
+            "stars": 2402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOFA",
+          "description": "SOFA是一个针对实时仿真的开源框架，其着重于医学仿真。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T18:36:46Z",
+            "owner": "sofa-framework",
+            "repo": "sofa",
+            "stars": 1241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Newton Dynamics",
+          "description": "用于物理环境实时仿真的集成解决方案。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-17T19:29:44Z",
+            "owner": "MADEAPPS",
+            "repo": "newton-dynamics",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum++",
+          "description": "现代的C++ 11量子计算库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-20T00:15:52Z",
+            "owner": "softwareQinc",
+            "repo": "qpp",
+            "stars": 672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ofxBox2d",
+          "description": "Box2D开源框架包装器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-09T14:34:41Z",
+            "owner": "vanderlin",
+            "repo": "ofxBox2d",
+            "stars": 328
+          }
+        }
+      ],
+      "title": "物理学"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magic Enum",
+          "description": "只包含头文件的的C++ 17库，为枚举类型（字符串、迭代）提供静态映射，可与任何枚举类型一起使用，无需任何宏或样板代码。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T16:02:34Z",
+            "owner": "Neargye",
+            "repo": "magic_enum",
+            "stars": 6166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RTTR",
+          "description": "C++11的映射库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-25T13:07:08Z",
+            "owner": "rttrorg",
+            "repo": "rttr",
+            "stars": 3481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nameof",
+          "description": "只包含头文件的的C++ 17库，提供名称宏和函数以获取变量、类型、函数、宏和枚举的简单名称。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T16:48:54Z",
+            "owner": "Neargye",
+            "repo": "nameof",
+            "stars": 2351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Better Enums",
+          "description": "映射的枚举类型（字符串、迭代）。单个头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-10T16:50:13Z",
+            "owner": "aantron",
+            "repo": "better-enums",
+            "stars": 1827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPP-Reflection",
+          "description": "使用clang的C++映射。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-10-28T18:15:46Z",
+            "owner": "AustinBrunkhorst",
+            "repo": "CPP-Reflection",
+            "stars": 706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ponder",
+          "description": "C++11的映射库。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-10-31T03:52:31Z",
+            "owner": "billyquith",
+            "repo": "ponder",
+            "stars": 662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visit_struct",
+          "description": "C++中用于结构域映射的微型库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-31T21:56:55Z",
+            "owner": "cbeck88",
+            "repo": "visit_struct",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meta",
+          "description": "C++的非侵入性且无宏的运行时映射系统，只包含头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-05-08T14:59:53Z",
+            "owner": "skypjack",
+            "repo": "meta",
+            "stars": 652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPFG",
+          "description": "用于反射、回调和脚本绑定的C++ 03库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-05-22T06:47:25Z",
+            "owner": "cpgf",
+            "repo": "cpgf",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magic_get",
+          "description": "类似std: : tuple的方法，用于用户定义类型，无需任何宏或样板代码。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-22T08:32:36Z",
+            "owner": "apolukhin",
+            "repo": "magic_get",
+            "stars": 215
+          }
+        }
+      ],
+      "title": "映射"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RE2",
+          "description": "使用自动机理论、通过有限状态机进行的正则表达式软件库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-22T23:28:54Z",
+            "owner": "google",
+            "repo": "re2",
+            "stars": 9781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperscan",
+          "description": "Hyperscan是Intel的高性能、多种正则表达式匹配库，提供大量正则表达式（多达数万个）的同时匹配，通常在DPI库堆栈中使用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T06:39:48Z",
+            "owner": "intel",
+            "repo": "hyperscan",
+            "stars": 5458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CTRE",
+          "description": "编译时PCRE（几乎）兼容的正则表达式匹配器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-11T21:34:06Z",
+            "owner": "hanickadot",
+            "repo": "compile-time-regular-expressions",
+            "stars": 3830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oniguruma",
+          "description": "现代且灵活的正则表达式库，支持多种字符编码。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2025-04-24T12:42:35Z",
+            "owner": "kkos",
+            "repo": "oniguruma",
+            "stars": 2524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sregex",
+          "description": "基于NFA / DFA的Perl兼容的正则表达式引擎库，不可回溯，可与大型数据流进行匹配。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-11-01T05:04:16Z",
+            "owner": "openresty",
+            "repo": "sregex",
+            "stars": 629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLRE",
+          "description": "适用于C / C++的超轻正则表达式引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-26T15:25:50Z",
+            "owner": "cesanta",
+            "repo": "slre",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CppVerbalExpressions",
+          "description": "C++正则表达式专家。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-10-12T16:09:26Z",
+            "owner": "VerbalExpressions",
+            "repo": "CppVerbalExpressions",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIRE",
+          "description": "Yandex的Perl不兼容正则表达式库，可以非常快（超过400 MB / s）。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-09-08T21:23:28Z",
+            "owner": "yandex",
+            "repo": "pire",
+            "stars": 338
+          }
+        }
+      ],
+      "title": "正则表达式"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Torch",
+          "description": "科学的计算框架，广泛支持将GPU放在首位的机器学习算法。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-31T20:16:24Z",
+            "owner": "torch",
+            "repo": "torch7",
+            "stars": 9138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TileDB",
+          "description": "快速密集和稀疏多维数组的DBMS。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-01T11:31:28Z",
+            "owner": "TileDB-Inc",
+            "repo": "TileDB",
+            "stars": 2070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilinos",
+          "description": "高性能的PDE解算器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T22:48:53Z",
+            "owner": "trilinos",
+            "repo": "Trilinos",
+            "stars": 1416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AMGCL",
+          "description": "只包含头文件的C++库，用于解决具有代数多重网格的大型稀疏线性系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T17:19:34Z",
+            "owner": "ddemidov",
+            "repo": "amgcl",
+            "stars": 873
+          }
+        }
+      ],
+      "title": "科学计算"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pybind11",
+          "description": "C++ 11和Python之间的无缝可操作性。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T02:18:30Z",
+            "owner": "pybind",
+            "repo": "pybind11",
+            "stars": 17991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cython",
+          "description": "Cython是用于Python编程语言和扩展的Cython编程语言（基于Pyrex）的优化静态编译器。它使得为Python编写C扩展就像Python本身一样容易。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cython",
+            "last_commit": "2026-08-12T19:05:35Z",
+            "owner": "cython",
+            "repo": "cython",
+            "stars": 10824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChakraCore",
+          "description": "Microsoft的JavaScript引擎，可以嵌入到nodejs中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-19T20:35:46Z",
+            "owner": "chakra-core",
+            "repo": "ChakraCore",
+            "stars": 9257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duktape",
+          "description": "具有紧凑脚本的嵌入式Javascript引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-22T16:08:38Z",
+            "owner": "svaarala",
+            "repo": "duktape",
+            "stars": 6209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sol2",
+          "description": "具有高级功能和一流性能的C++ <-> Lua API封装器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-07T21:01:58Z",
+            "owner": "ThePhD",
+            "repo": "sol2",
+            "stars": 5123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaCpp",
+          "description": "Java和本机C++之间缺少的桥梁。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T23:19:17Z",
+            "owner": "bytedeco",
+            "repo": "javacpp",
+            "stars": 4704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libffi",
+          "description": "可移植的外部功能接口库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T10:49:59Z",
+            "owner": "libffi",
+            "repo": "libffi",
+            "stars": 4347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CppSharp",
+          "description": "用于将C / C++ API融合到高级语言中的工具和库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-18T12:47:02Z",
+            "owner": "mono",
+            "repo": "CppSharp",
+            "stars": 3400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChaiScript",
+          "description": "用于C++的易于使用的嵌入式脚本语言。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-02T20:53:44Z",
+            "owner": "ChaiScript",
+            "repo": "ChaiScript",
+            "stars": 3122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djinni",
+          "description": "生成跨语言类型声明和接口绑定的工具。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-03-26T04:02:08Z",
+            "owner": "dropbox",
+            "repo": "djinni",
+            "stars": 2887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ctypes.sh",
+          "description": "bash的外部函数接口。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-21T02:57:44Z",
+            "owner": "taviso",
+            "repo": "ctypes.sh",
+            "stars": 2175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nbind",
+          "description": "神奇的头文件，使您的C++库可从JavaScript进行访问。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-05-04T19:09:03Z",
+            "owner": "charto",
+            "repo": "nbind",
+            "stars": 2001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LuaBridge",
+          "description": "轻量级、无依赖的库，用于将Lua绑定到C++。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-13T13:15:40Z",
+            "owner": "vinniefalco",
+            "repo": "LuaBridge",
+            "stars": 1777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V7",
+          "description": "嵌入式的JavaScript 引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-11-30T10:41:28Z",
+            "owner": "cesanta",
+            "repo": "v7",
+            "stars": 1453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP-CPP",
+          "description": "使用C++构建PHP扩展的库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-06T11:07:33Z",
+            "owner": "CopernicaMarketingSoftware",
+            "repo": "PHP-CPP",
+            "stars": 1451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cppimport",
+          "description": "直接从Python导入C++文件！",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-17T14:13:19Z",
+            "owner": "tbenthompson",
+            "repo": "cppimport",
+            "stars": 1228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luacxx",
+          "description": "用于创建Lua绑定的C++ 11 API。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-13T14:05:28Z",
+            "owner": "dafrito",
+            "repo": "luacxx",
+            "stars": 164
+          }
+        }
+      ],
+      "title": "脚本"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlatBuffers",
+          "description": "内存高效的序列化库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T19:49:45Z",
+            "owner": "google",
+            "repo": "flatbuffers",
+            "stars": 26330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanopb",
+          "description": "ANSI C中的小型代码大小的协议缓冲区实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-24T21:06:47Z",
+            "owner": "nanopb",
+            "repo": "nanopb",
+            "stars": 5520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cereal",
+          "description": "C++11 序列化库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-11T06:41:29Z",
+            "owner": "USCiLab",
+            "repo": "cereal",
+            "stars": 4701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleBinaryEncoding",
+          "description": "用于低延迟应用程序的对二进制格式的应用程序信息的编码和解码。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-27T18:17:32Z",
+            "owner": "aeron-io",
+            "repo": "simple-binary-encoding",
+            "stars": 3486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MessagePack",
+          "description": "C/C++的高效二进制序列化库，例如 JSON。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-09T07:00:07Z",
+            "owner": "msgpack",
+            "repo": "msgpack-c",
+            "stars": 3340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protobuf-c",
+          "description": "C语言的协议缓冲实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-07T01:18:13Z",
+            "owner": "protobuf-c",
+            "repo": "protobuf-c",
+            "stars": 2984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bond",
+          "description": "用于处理模式化数据的开源、跨平台框架。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-04-01T04:37:42Z",
+            "owner": "microsoft",
+            "repo": "bond",
+            "stars": 2622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mrpt-serialization",
+          "description": "已版本控制的二进制或文本格式的序列化。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T22:19:27Z",
+            "owner": "MRPT",
+            "repo": "mrpt",
+            "stars": 2154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "upb",
+          "description": "C中的小型静态库实现。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-12-05T00:29:04Z",
+            "owner": "protocolbuffers",
+            "repo": "upb",
+            "stars": 1520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitsery",
+          "description": "只包含头文件的C++二进制序列化库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-09T19:40:00Z",
+            "owner": "fraillt",
+            "repo": "bitsery",
+            "stars": 1261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YAS",
+          "description": "非常快的序列化库，支持二进制/文本/ JSON格式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-18T22:59:22Z",
+            "owner": "niXman",
+            "repo": "yas",
+            "stars": 794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cppcodec",
+          "description": "只包含头文件的C++ 11库，具有一致、灵活的API来编码/解码base64，base32和hex。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-09-06T18:42:09Z",
+            "owner": "tplgy",
+            "repo": "cppcodec",
+            "stars": 696
+          }
+        }
+      ],
+      "title": "序列化"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pdqsort",
+          "description": "破坏模式的快速排序。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-06T02:22:11Z",
+            "owner": "orlp",
+            "repo": "pdqsort",
+            "stars": 2505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timsort",
+          "description": "模板化的稳定排序功能，其性能优于基于快速排序的算法（包括std: : sort），用于反向或半排序数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-03T19:58:18Z",
+            "owner": "timsort",
+            "repo": "cpp-TimSort",
+            "stars": 317
+          }
+        }
+      ],
+      "title": "排序"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenH264",
+          "description": "开源H.364 编解码器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T10:01:46Z",
+            "owner": "cisco",
+            "repo": "openh264",
+            "stars": 6133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libde265",
+          "description": "开放的h.265视频编解码器的实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T07:22:38Z",
+            "owner": "strukturag",
+            "repo": "libde265",
+            "stars": 1904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vireo",
+          "description": "Twitter的轻量级、多功能的视频处理库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-10-21T17:26:15Z",
+            "owner": "twitter",
+            "repo": "vireo",
+            "stars": 956
+          }
+        }
+      ],
+      "title": "视频"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MicroPython",
+          "description": "旨在实现单片机上Python3.x的实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T14:26:11Z",
+            "owner": "micropython",
+            "repo": "micropython",
+            "stars": 21990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyVM",
+          "description": "用纯粹的ANSI C编写的小型，快速，轻量级的虚拟机。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-03-23T09:15:28Z",
+            "owner": "jakogut",
+            "repo": "tinyvm",
+            "stars": 3322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CarpVM",
+          "description": "C中有趣的VM，让我们一起来看看这个。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-01-18T23:05:49Z",
+            "owner": "tekknolagi",
+            "repo": "carp",
+            "stars": 983
+          }
+        }
+      ],
+      "title": "虚拟机"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Drogon",
+          "description": "基于C++ 14/17的高性能HTTP应用程序框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T09:55:27Z",
+            "owner": "drogonframework",
+            "repo": "drogon",
+            "stars": 14186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oat++",
+          "description": "轻量、零依赖的框架，可创建高性能的Web服务。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-12T06:19:27Z",
+            "owner": "oatpp",
+            "repo": "oatpp",
+            "stars": 8644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ REST SDK",
+          "description": "使用现代异步C++ API设计、以本机代码进行基于云的客户端-服务器通信的Microsoft项目。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2026-06-01T19:54:26Z",
+            "owner": "microsoft",
+            "repo": "cpprestsdk",
+            "stars": 8261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crow",
+          "description": "一个C++微型web框架（灵感来自于Python Flask）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-06T14:58:07Z",
+            "owner": "ipkn",
+            "repo": "crow",
+            "stars": 7625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lwan",
+          "description": "实验性、可扩展的高性能HTTP服务器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T19:57:46Z",
+            "owner": "lpereira",
+            "repo": "lwan",
+            "stars": 6036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Civetweb",
+          "description": "提供易于使用，强大的，C/C++嵌入式Web服务器，带有可选的CGI，SSL和Lua支持。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T10:04:33Z",
+            "owner": "civetweb",
+            "repo": "civetweb",
+            "stars": 3433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "facil.io",
+          "description": "事件型、高性能的C Web框架，支持HTTP、WebSocket、SSE等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-14T06:37:17Z",
+            "owner": "boazsegev",
+            "repo": "facil.io",
+            "stars": 2396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TreeFrog Framework",
+          "description": "基于C++和Qt的高速、全栈的Web应用程序框架，支持HTTP和WebSocket协议（带有O / R映射）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T10:56:02Z",
+            "owner": "treefrogframework",
+            "repo": "treefrog-framework",
+            "stars": 1378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cutelyst",
+          "description": "在Qt上构建的C++ Web框架，使用Catalyst（Perl）框架的简单方法。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:06:35Z",
+            "owner": "cutelyst",
+            "repo": "cutelyst",
+            "stars": 975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QDjango",
+          "description": "使用C++编写的，基于Qt库的web框架，试图效仿Django API，因此得此名。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-06-09T10:40:58Z",
+            "owner": "jlaine",
+            "repo": "qdjango",
+            "stars": 276
+          }
+        }
+      ],
+      "title": "Web应用框架"
+    },
+    {
+      "description": "XML就是个垃圾，xml的解析很烦人，对于计算机它也是个灾难。这种糟糕的东西完全没有存在的理由了。-Linus Torvalds",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TinyXML2",
+          "description": "简单快速的C++CML解析器，可以很容易集成到其它项目中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-24T00:56:05Z",
+            "owner": "leethomason",
+            "repo": "tinyxml2",
+            "stars": 5784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mini-XML",
+          "description": "用ANSI C编写的小型XML解析库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-21T20:55:33Z",
+            "owner": "michaelrsweet",
+            "repo": "mxml",
+            "stars": 518
+          }
+        }
+      ],
+      "title": "XML"
+    },
+    {
+      "description": "一些有用的库或者工具，但是不适合上面的分类，或者还没有分类。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stb",
+          "description": "一系列用于C / C++的单文件库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T06:42:09Z",
+            "owner": "nothings",
+            "repo": "stb",
+            "stars": 34395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZXing",
+          "description": "用Java实现的开源、多格式1D / 2D条码图像处理库，带有其他语言的端口。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T13:28:47Z",
+            "owner": "zxing",
+            "repo": "zxing",
+            "stars": 34068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{fmt}",
+          "description": "小型、安全、快速的C++格式化库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:00:46Z",
+            "owner": "fmtlib",
+            "repo": "fmt",
+            "stars": 23737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ Format",
+          "description": "C++的小型，安全和快速格式化库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:00:46Z",
+            "owner": "fmtlib",
+            "repo": "fmt",
+            "stars": 23737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTTP Parser",
+          "description": "C的http请求/响应解析器。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2022-06-19T08:11:39Z",
+            "owner": "nodejs",
+            "repo": "http-parser",
+            "stars": 6446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDS",
+          "description": "C的简单动态字符串库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-04-18T10:59:31Z",
+            "owner": "antirez",
+            "repo": "sds",
+            "stars": 5532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Klib",
+          "description": "通用算法和数据结构的小型、轻量级实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-22T04:59:43Z",
+            "owner": "attractivechaos",
+            "repo": "klib",
+            "stars": 4714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serial Communication Library",
+          "description": "C++语言编写的跨平台，串口库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-21T05:20:23Z",
+            "owner": "wjwwood",
+            "repo": "serial",
+            "stars": 2429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serial Communication Library",
+          "description": "跨平台，用C++编写的串行端口库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-21T05:20:23Z",
+            "owner": "wjwwood",
+            "repo": "serial",
+            "stars": 2429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PEGTL",
+          "description": "解析表达语法模板库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:53:23Z",
+            "owner": "taocpp",
+            "repo": "PEGTL",
+            "stars": 2148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mio",
+          "description": "用于内存映射文件IO的跨平台C++ 11库，只包含头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-11T17:37:47Z",
+            "owner": "vimpunk",
+            "repo": "mio",
+            "stars": 1953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPPItertools",
+          "description": "受Python内建函数和itertools库启发的基于范围的循环附加组件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-07T05:47:01Z",
+            "owner": "ryanhaining",
+            "repo": "cppitertools",
+            "stars": 1430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mach7",
+          "description": "C++的模式匹配库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-10-22T23:24:16Z",
+            "owner": "solodon4",
+            "repo": "Mach7",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stdman",
+          "description": "格式化的C++ 11/14 stdlib手册页（来自cppreference）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-06T04:03:44Z",
+            "owner": "jeaye",
+            "repo": "stdman",
+            "stars": 996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pprint",
+          "description": "适用于现代C++的Pretty Printer。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-02-20T20:55:47Z",
+            "owner": "p-ranav",
+            "repo": "pprint",
+            "stars": 936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "icecream-cpp",
+          "description": "用于调试目的的小型打印库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-22T03:34:03Z",
+            "owner": "renatoGarcia",
+            "repo": "icecream-cpp",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DynaMix",
+          "description": "允许您在运行时组成和修改对象的库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-18T03:38:59Z",
+            "owner": "iboB",
+            "repo": "dynamix",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cxx-prettyprint",
+          "description": "用于C++容器的打印库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-01-02T13:10:17Z",
+            "owner": "louisdx",
+            "repo": "cxx-prettyprint",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kangaru",
+          "description": "用于C++ 11和C++ 14的依赖注入容器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T20:49:30Z",
+            "owner": "gracicot",
+            "repo": "kangaru",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libcpuid",
+          "description": "用于x86 CPU检测盒特征提取的小型C库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-11T17:56:19Z",
+            "owner": "anrieff",
+            "repo": "libcpuid",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stage",
+          "description": "移动机器人模拟器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-24T11:56:13Z",
+            "owner": "rtv",
+            "repo": "Stage",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "value-category-cheatsheet",
+          "description": "用于lvalue、rvalue等的PDF快捷键管理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-05-20T18:34:31Z",
+            "owner": "jeaye",
+            "repo": "value-category-cheatsheet",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "semver.c",
+          "description": "semver解析器，在ANSI C中呈现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-04-10T05:01:05Z",
+            "owner": "h2non",
+            "repo": "semver.c",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gcc-poison",
+          "description": "帮助开发人员禁止应用程序中的不安全的C/C++函数的简单的头文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2013-12-04T03:36:45Z",
+            "owner": "leafsr",
+            "repo": "gcc-poison",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ub-canaries",
+          "description": "一组C / C++程序，它们试图使编译器开发未定义的行为。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-02-10T20:28:36Z",
+            "owner": "regehr",
+            "repo": "ub-canaries",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleSignal",
+          "description": "高性能C++ 11信号。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-07-24T10:57:35Z",
+            "owner": "larspensjo",
+            "repo": "SimpleSignal",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libnih",
+          "description": "C函数和结构的轻量级库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-11-20T02:02:46Z",
+            "owner": "keybuk",
+            "repo": "libnih",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "access_profiler",
+          "description": "用于计算对c ++程序中成员变量的访问的工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2013-12-09T00:46:06Z",
+            "owner": "arvidn",
+            "repo": "access_profiler",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QtVerbalExpressions",
+          "description": "该Qt库基于C++ VerbalExpressions库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-02-08T19:09:10Z",
+            "owner": "VerbalExpressions",
+            "repo": "QtVerbalExpressions",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libevil",
+          "description": "许可证管理器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2012-01-20T09:46:34Z",
+            "owner": "avati",
+            "repo": "libevil",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "多项混杂"
+    },
+    {
+      "description": "用于创建开发环境的软件",
+      "items": [],
+      "title": "软件"
+    },
+    {
+      "description": "C/C++编译器列表",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "8cc",
+          "description": "小型C编译器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-02T15:13:48Z",
+            "owner": "rui314",
+            "repo": "8cc",
+            "stars": 6409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "c",
+          "description": "一次编译并执行C“脚本”！",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-05T02:58:15Z",
+            "owner": "ryanmjacobs",
+            "repo": "c",
+            "stars": 2184
+          }
+        }
+      ],
+      "title": "编译器"
+    },
+    {
+      "description": "C/C++集成开发环境列表",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cquery",
+          "description": "用于vscode，emacs，vim等的C++代码完成引擎。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-07-29T17:15:12Z",
+            "owner": "jacobdufault",
+            "repo": "cquery",
+            "stars": 2361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rtags",
+          "description": "C/C++的客户端服务器索引，用于 跟基于clang的emacs的集成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T23:26:14Z",
+            "owner": "Andersbakken",
+            "repo": "rtags",
+            "stars": 1844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Irony-mode",
+          "description": "由libclang驱动的用于Emacs的C/C++微模式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2023-10-18T19:21:46Z",
+            "owner": "Sarcasm",
+            "repo": "irony-mode",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "color_coded",
+          "description": "用于基于libclang的vim插件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-02-08T06:02:35Z",
+            "owner": "jeaye",
+            "repo": "color_coded",
+            "stars": 871
+          }
+        }
+      ],
+      "title": "集成开发环境"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vcpkg",
+          "description": "Windows，Linux和MacOS的C++库管理器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2026-08-13T22:33:17Z",
+            "owner": "microsoft",
+            "repo": "vcpkg",
+            "stars": 27355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buck",
+          "description": "用Java编写的快速构建系统，可鼓励在多种平台和语言（包括在Facebook开发和使用的C++）上创建小型、可重用模块。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-10-25T02:45:11Z",
+            "owner": "facebook",
+            "repo": "buck",
+            "stars": 8540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bear",
+          "description": "用于为clang工具生成编译数据库的工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T13:01:10Z",
+            "owner": "rizsotto",
+            "repo": "Bear",
+            "stars": 6435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clib",
+          "description": "C语言的软件包管理器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-18T01:44:01Z",
+            "owner": "clibs",
+            "repo": "clib",
+            "stars": 5142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPM",
+          "description": "基于CMake和Git的C++包管理器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2021-08-28T15:17:32Z",
+            "owner": "iauns",
+            "repo": "cpm",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tundra",
+          "description": "高性能的代码构建系统，甚至对于非常大型的软件项目，也能提供最好的增量构建次数。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2025-11-28T18:45:32Z",
+            "owner": "deplinenoise",
+            "repo": "tundra",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cget",
+          "description": "Cmake软件包检索。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T22:59:42Z",
+            "owner": "pfultz2",
+            "repo": "cget",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waf",
+          "description": "用于配置、编译和安装应用程序的基于Python的框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-30T23:51:38Z",
+            "owner": "waf-project",
+            "repo": "waf",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "构建系统"
+    },
+    {
+      "description": "提高质量，减少瑕疵的代码分析工具列表",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Infer",
+          "description": "用于Java、C和Objective-C的静态分析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-12T11:20:16Z",
+            "owner": "facebook",
+            "repo": "infer",
+            "stars": 15673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IKOS",
+          "description": "基于抽象解释理论的C / C++静态分析器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-31T18:45:21Z",
+            "owner": "NASA-SW-VnV",
+            "repo": "ikos",
+            "stars": 3160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpplint",
+          "description": "遵循Google C++样式指南的C++样式检查器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:57:44Z",
+            "owner": "cpplint",
+            "repo": "cpplint",
+            "stars": 1842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpp-dependencies",
+          "description": "检查C++ #include依赖关系的工具（以.dot格式创建的依赖关系图）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-13T10:09:29Z",
+            "owner": "tomtom-international",
+            "repo": "cpp-dependencies",
+            "stars": 780
+          }
+        }
+      ],
+      "title": "静态代码分析"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T00:46:41.655Z",
+    "original_repository": "jobbole/awesome-cpp-cn",
+    "original_repository_sha": "8cce7ab122386b61b3e901d318b5b75c9737a2ff",
+    "enhanced_repository": "enhansome/enhansome-cpp-cn",
+    "enhanced_repository_description": null,
+    "title": "Awesome C++ 资源大全中文版 with stars"
+  }
+}
