@@ -69,7 +69,7 @@ C++标准库，包括了STL容器，算法和函数等。
 
 C++通用框架和库
 
-* [abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,104 | 🐛 235 | 🌐 C++ | 📅 2026-08-29: Abseil C++ 通用库。
+* [abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,105 | 🐛 235 | 🌐 C++ | 📅 2026-08-29: Abseil C++ 通用库。
 
 - [Folly](https://github.com/facebook/folly) ⭐ 30,515 | 🐛 465 | 🌐 C++ | 📅 2026-08-29: 由Facebook开发和使用的开源C++库。
 - [JUCE](https://github.com/julianstorer/JUCE) ⭐ 8,843 | 🐛 475 | 🌐 C++ | 📅 2026-08-28: 包罗万象的C++类库，用于开发跨平台软件。
@@ -109,7 +109,7 @@ C++通用框架和库
 
 * [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) ⭐ 113 | 🐛 4 | 🌐 C++ | 📅 2021-09-25: 基于GPU(CUDA)的人工神经网络库。
 
-- [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,768 | 🐛 2,958 | 🌐 C++ | 📅 2026-08-29: 使用数据流图进行数值计算的开源软件库。
+- [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,767 | 🐛 2,960 | 🌐 C++ | 📅 2026-08-29: 使用数据流图进行数值计算的开源软件库。
 - [PyTorch](https://github.com/pytorch/pytorch) ⭐ 102,654 | 🐛 17,419 | 🌐 Python | 📅 2026-08-29: 具有强大CPU加速功能，包含张量和动态神经网络的Python库。
 - [MXNet](https://github.com/apache/incubator-mxnet) ⚠️ Archived: 轻量级、便携、灵活的分布式/移动深度学习，具有动态、可感知突变的数据流管理调度程序。适用于Python、R、Julia、Scala、Go、Javascript和更多网站。
 - [CNTK](https://github.com/Microsoft/CNTK) ⚠️ Archived: Microsoft Cognitive Toolkit (CNTK)，开源的深度学习工具库。
@@ -227,7 +227,7 @@ C++通用框架和库
 - [libarchive](https://github.com/libarchive/libarchive) ⭐ 3,604 | 🐛 601 | 🌐 C | 📅 2026-08-28: 多格式的存档和压缩库。
 - [LZFSE](https://github.com/lzfse/lzfse) ⭐ 1,822 | 🐛 29 | 🌐 C | 📅 2022-09-05: LZFSE压缩库和命令行工具。
 - [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) ⭐ 1,498 | 🐛 22 | 🌐 C | 📅 2024-03-21: 新一代熵编解码器: 有限状态熵和Huff()。
-- [Minizip](https://github.com/nmoinvaz/minizip) ⭐ 1,485 | 🐛 15 | 🌐 C | 📅 2026-08-23: Zlib最新bug修复，支持PKWARE磁盘跨越，AES加密和IO缓冲。
+- [Minizip](https://github.com/nmoinvaz/minizip) ⭐ 1,486 | 🐛 15 | 🌐 C | 📅 2026-08-23: Zlib最新bug修复，支持PKWARE磁盘跨越，AES加密和IO缓冲。
 - [smaz](https://github.com/antirez/smaz) ⭐ 1,221 | 🐛 13 | 🌐 C | 📅 2019-10-25: 小型字符压缩库。
 - [zlib-ng](https://github.com/Dead2/zlib-ng) ⭐ 14 | 🐛 0 | 📅 2021-05-08: 用于“下一代”系统的zlib，将一些重要的优化进行嵌入式替换。
 - [bzip2](http://www.bzip.org/): 一个完全免费，免费专利和高质量的数据压缩。
@@ -388,8 +388,8 @@ C++通用框架和库
 
 调试库， 内存和资源泄露检测，单元测试
 
-* [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) ⭐ 39,194 | 🐛 493 | 🌐 C++ | 📅 2026-08-27: 编写和使用C++模拟类的库。
-* [Google Test](https://github.com/google/googletest) ⭐ 39,194 | 🐛 493 | 🌐 C++ | 📅 2026-08-27: Google的C++测试框架。
+* [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) ⭐ 39,195 | 🐛 493 | 🌐 C++ | 📅 2026-08-27: 编写和使用C++模拟类的库。
+* [Google Test](https://github.com/google/googletest) ⭐ 39,195 | 🐛 493 | 🌐 C++ | 📅 2026-08-27: Google的C++测试框架。
 * [Catch](https://github.com/philsquared/Catch) ⭐ 21,447 | 🐛 439 | 🌐 C++ | 📅 2026-08-25: 一个很时尚的，C++原生的框架，只包含头文件，用于单元测试，测试驱动开发和行为驱动开发。
 * [Catch2](https://github.com/catchorg/Catch2) ⭐ 21,447 | 🐛 439 | 🌐 C++ | 📅 2026-08-25: 一个很时尚的，C++原生的框架，只包含头文件，用于单元测试，测试驱动开发和行为驱动开发。
 * [benchmark](https://github.com/google/benchmark) ⭐ 10,375 | 🐛 174 | 🌐 C++ | 📅 2026-08-28: Google提供的小型微基准支持库。
@@ -431,7 +431,7 @@ C++通用框架和库
 
 ### 游戏引擎
 
-* [Godot](https://github.com/godotengine/godot) ⭐ 116,315 | 🐛 18,786 | 🌐 C++ | 📅 2026-08-28: 功能齐全、开源、有MIT许可的游戏引擎。
+* [Godot](https://github.com/godotengine/godot) ⭐ 116,319 | 🐛 18,786 | 🌐 C++ | 📅 2026-08-28: 功能齐全、开源、有MIT许可的游戏引擎。
 * [raylib](https://github.com/raysan5/raylib) ⭐ 34,494 | 🐛 15 | 🌐 C | 📅 2026-08-28: 简单、易于使用的库，用于享受视频游戏编程的乐趣。
 * [EnTT](https://github.com/skypjack/entt) ⭐ 13,057 | 🐛 11 | 🌐 C++ | 📅 2026-08-28: 游戏与现代C++的碰撞。
 * [Panda3D](https://github.com/panda3d/panda3d) ⭐ 5,213 | 🐛 368 | 🌐 C++ | 📅 2026-07-28: 游戏引擎，用于Python和C++程序的3D渲染和游戏开发的框架。
@@ -519,7 +519,7 @@ C++通用框架和库
 * [Dlib](https://github.com/davisking/dlib) ⭐ 14,433 | 🐛 38 | 🌐 C++ | 📅 2026-08-11: 现代C++11的机器学习、计算机视觉、数值优化和深度学习工具包。
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection) ⭐ 12,784 | 🐛 56 | 🌐 C++ | 📅 2026-06-28: 用于图像中人脸检测的开源库，其人脸检测的速度能达到1500FPS。
 * [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) ⭐ 4,407 | 🐛 16 | 🌐 C | 📅 2026-08-27: 使用SIMD指令来加速基线JPEG编码和解码的JPEG图像编解码器。
-* [OpenImageIO](https://github.com/OpenImageIO/oiio) ⭐ 2,350 | 🐛 184 | 🌐 C++ | 📅 2026-08-28: 强大的图像和纹理处理库，支持多种常见的有损和RAW格式。
+* [OpenImageIO](https://github.com/OpenImageIO/oiio) ⭐ 2,350 | 🐛 180 | 🌐 C++ | 📅 2026-08-29: 强大的图像和纹理处理库，支持多种常见的有损和RAW格式。
 * [Simd](https://github.com/ermig1979/Simd) ⭐ 2,266 | 🐛 25 | 🌐 C++ | 📅 2026-08-27: 使用SIMD的C++图像处理库: SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON for ARM。
 * [Leptonica](https://github.com/DanBloomberg/leptonica) ⭐ 2,074 | 🐛 69 | 🌐 C | 📅 2026-08-28: Leptonica是一个包含软件的开源库，其广泛应用于图像处理和图形分析应用程序。
 * [GD](https://github.com/libgd/libgd) ⭐ 982 | 🐛 106 | 🌐 C | 📅 2026-08-25: GD图形库，有名的用于PHP中图形加载/操作和缩略图生成。

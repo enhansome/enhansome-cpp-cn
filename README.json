@@ -19,7 +19,7 @@
             "open_issues": 235,
             "owner": "abseil",
             "repo": "abseil-cpp",
-            "stars": 18104,
+            "stars": 18105,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:50.750Z"
@@ -415,11 +415,11 @@
             "id": 45717250,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:15:11Z",
-            "open_issues": 2958,
+            "last_commit": "2026-08-29T04:32:06Z",
+            "open_issues": 2960,
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197768,
+            "stars": 197767,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -445,7 +445,7 @@
             "id": 65600975,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T04:11:58Z",
+            "last_commit": "2026-08-29T04:34:13Z",
             "open_issues": 17419,
             "owner": "pytorch",
             "repo": "pytorch",
@@ -2099,7 +2099,7 @@
             "open_issues": 15,
             "owner": "zlib-ng",
             "repo": "minizip-ng",
-            "stars": 1485,
+            "stars": 1486,
             "topics": [
               "bzip2",
               "c",
@@ -4525,7 +4525,7 @@
             "open_issues": 493,
             "owner": "google",
             "repo": "googletest",
-            "stars": 39194,
+            "stars": 39195,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:50.750Z"
@@ -4546,7 +4546,7 @@
             "open_issues": 493,
             "owner": "google",
             "repo": "googletest",
-            "stars": 39194,
+            "stars": 39195,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:50.750Z"
@@ -5045,7 +5045,7 @@
             "open_issues": 18786,
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116315,
+            "stars": 116319,
             "topics": [
               "game-development",
               "game-engine",
@@ -6542,8 +6542,8 @@
             "id": 1322284,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:53:25Z",
-            "open_issues": 184,
+            "last_commit": "2026-08-29T04:22:22Z",
+            "open_issues": 180,
             "owner": "AcademySoftwareFoundation",
             "repo": "OpenImageIO",
             "stars": 2350,
@@ -14019,7 +14019,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:49.795Z",
+    "last_updated": "2026-08-29T04:37:41.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。",
