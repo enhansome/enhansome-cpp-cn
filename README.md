@@ -1,6 +1,6 @@
 # Awesome C++ 资源大全中文版 with stars
 
-[awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 73,103 | 🐛 312 | 📅 2026-09-01 就是 `fffaraz` 发起维护的 C++ 资源列表，内容包括: 标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
+[awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 73,125 | 🐛 311 | 📅 2026-09-01 就是 `fffaraz` 发起维护的 C++ 资源列表，内容包括: 标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
 
 中文版由`开源前哨`和`CPP开发者`微信公号团队维护更新，在 GitHub 已有近`4400 Star`，欢迎在 Github 上关注。
 
@@ -69,13 +69,13 @@ C++标准库，包括了STL容器，算法和函数等。
 
 C++通用框架和库
 
-* [abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,121 | 🐛 234 | 🌐 C++ | 📅 2026-09-03: Abseil C++ 通用库。
+* [abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,124 | 🐛 235 | 🌐 C++ | 📅 2026-09-04: Abseil C++ 通用库。
 
-- [Folly](https://github.com/facebook/folly) ⭐ 30,526 | 🐛 465 | 🌐 C++ | 📅 2026-09-04: 由Facebook开发和使用的开源C++库。
-- [JUCE](https://github.com/julianstorer/JUCE) ⭐ 8,857 | 🐛 481 | 🌐 C++ | 📅 2026-09-03: 包罗万象的C++类库，用于开发跨平台软件。
+- [Folly](https://github.com/facebook/folly) ⭐ 30,528 | 🐛 465 | 🌐 C++ | 📅 2026-09-05: 由Facebook开发和使用的开源C++库。
+- [JUCE](https://github.com/julianstorer/JUCE) ⭐ 8,863 | 🐛 481 | 🌐 C++ | 📅 2026-09-04: 包罗万象的C++类库，用于开发跨平台软件。
 - [tbox](https://github.com/tboox/tbox) ⭐ 5,122 | 🐛 37 | 🌐 C | 📅 2026-08-28: 类似于glib的多平台C库。
 - [CO](https://github.com/idealvin/co) ⭐ 4,210 | 🐛 15 | 🌐 C++ | 📅 2025-05-27 - C++基础库，包含 go-style 协程库，日志库, JSON库, RPC 框架以及其他基本组件。
-- [ETL](https://github.com/ETLCPP/etl) ⭐ 3,116 | 🐛 60 | 🌐 C++ | 📅 2026-09-03: 嵌入式模板库。
+- [ETL](https://github.com/ETLCPP/etl) ⭐ 3,116 | 🐛 61 | 🌐 C++ | 📅 2026-09-03: 嵌入式模板库。
 - [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) ⭐ 2,294 | 🐛 0 | 🌐 C++ | 📅 2026-07-15: C++ 的函数式编程库，编写简洁易读的C++代码。
 - [BDE](https://github.com/bloomberg/bde) ⭐ 1,841 | 🐛 15 | 🌐 C++ | 📅 2026-09-02: 来自于彭博资讯实验室的开发环境。
 - [libPhenom](https://github.com/facebook/libphenom) ⚠️ Archived: 用于构建高性能和高度可扩展性系统的事件框架。
@@ -109,12 +109,12 @@ C++通用框架和库
 
 * [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) ⭐ 113 | 🐛 4 | 🌐 C++ | 📅 2021-09-25: 基于GPU(CUDA)的人工神经网络库。
 
-- [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 198,793 | 🐛 3,065 | 🌐 C++ | 📅 2026-09-04: 使用数据流图进行数值计算的开源软件库。
-- [PyTorch](https://github.com/pytorch/pytorch) ⭐ 102,742 | 🐛 17,497 | 🌐 Python | 📅 2026-09-04: 具有强大CPU加速功能，包含张量和动态神经网络的Python库。
+- [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 198,830 | 🐛 3,110 | 🌐 C++ | 📅 2026-09-05: 使用数据流图进行数值计算的开源软件库。
+- [PyTorch](https://github.com/pytorch/pytorch) ⭐ 102,761 | 🐛 17,519 | 🌐 Python | 📅 2026-09-05: 具有强大CPU加速功能，包含张量和动态神经网络的Python库。
 - [MXNet](https://github.com/apache/incubator-mxnet) ⚠️ Archived: 轻量级、便携、灵活的分布式/移动深度学习，具有动态、可感知突变的数据流管理调度程序。适用于Python、R、Julia、Scala、Go、Javascript和更多网站。
 - [CNTK](https://github.com/Microsoft/CNTK) ⚠️ Archived: Microsoft Cognitive Toolkit (CNTK)，开源的深度学习工具库。
-- [Kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,475 | 🐛 261 | 🌐 Shell | 📅 2025-09-22: 语音识别工具包。
-- [Recast/Detour](https://github.com/recastnavigation/recastnavigation) ⭐ 7,891 | 🐛 144 | 🌐 C++ | 📅 2026-02-27: （3D）导航网格生成器和路径查找，主要用于游戏。
+- [Kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,476 | 🐛 261 | 🌐 Shell | 📅 2025-09-22: 语音识别工具包。
+- [Recast/Detour](https://github.com/recastnavigation/recastnavigation) ⭐ 7,894 | 🐛 144 | 🌐 C++ | 📅 2026-02-27: （3D）导航网格生成器和路径查找，主要用于游戏。
 - [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) ⭐ 6,030 | 🐛 297 | 🌐 C++ | 📅 2022-04-17: C++11中的无依赖项的深度学习框架，只有头文件。
 - [Genann](https://github.com/codeplea/genann) ⭐ 2,283 | 🐛 0 | 🌐 C | 📅 2026-08-08: 简单的神经网络C库。
 - [frugally-deep](https://github.com/Dobiasd/frugally-deep) ⭐ 1,129 | 🐛 0 | 🌐 C++ | 📅 2026-05-06: 使用Keras模型的C++库，只有头文件。
@@ -126,7 +126,7 @@ C++通用框架和库
 
 * [Asio](https://github.com/chriskohlhoff/asio/) ⭐ 6,188 | 🐛 989 | 🌐 C++ | 📅 2026-07-18: 用于网络和底层I/O编程的跨平台 C++ 库，使用现代 C++ 方法为开发者提供一致的异步模型。
 
-- [libhv](https://github.com/ithewei/libhv) ⭐ 7,546 | 🐛 41 | 🌐 C | 📅 2026-09-01: 跨平台的事件循环库。
+- [libhv](https://github.com/ithewei/libhv) ⭐ 7,546 | 🐛 41 | 🌐 C | 📅 2026-09-04: 跨平台的事件循环库。
 - [C++ Actor Framework](https://github.com/actor-framework/actor-framework) ⭐ 3,434 | 🐛 58 | 🌐 C++ | 📅 2026-08-30: C++中Actor Model的开源实现。
 - [libuv](https://github.com/joyent/libuv) ⚠️ Archived: 跨平台异步I/O。
 - [uvw](https://github.com/skypjack/uvw) ⭐ 2,056 | 🐛 13 | 🌐 C++ | 📅 2025-12-17: libuv的C++封装器。
@@ -141,14 +141,14 @@ C++通用框架和库
 
 * [AudioFile](https://github.com/adamstark/AudioFile) ⭐ 1,148 | 🐛 3 | 🌐 C++ | 📅 2025-10-15: 用于读写音频文件的简单C++库。
 
-- [miniaudio](https://github.com/dr-soft/miniaudio) ⭐ 7,220 | 🐛 7 | 🌐 C | 📅 2026-08-19: 单文件音频回放和录制的库。
+- [miniaudio](https://github.com/dr-soft/miniaudio) ⭐ 7,223 | 🐛 7 | 🌐 C | 📅 2026-08-19: 单文件音频回放和录制的库。
 - [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) ⭐ 6,437 | 🐛 107 | 🌐 C++ | 📅 2026-08-28: 公共域，完全用C++编写的快速开放源代码的语音处理库，同时使用ArrayFire张量库和flashlight机器学习库来实现最高的效率。
 - [SoLoud](https://github.com/jarikomppa/soloud) ⭐ 2,171 | 🐛 122 | 🌐 C | 📅 2024-08-13: 简单便携的游戏音频引擎。
 - [libsoundio](https://github.com/andrewrk/libsoundio) ⭐ 2,100 | 🐛 137 | 🌐 C | 📅 2025-01-13: 用于跨平台实时音频输入输出的C库。
 - [minimp3](https://github.com/lieff/minimp3) ⭐ 1,949 | 🐛 56 | 🌐 C | 📅 2026-07-27: 公共域，无尘室实现的MP3解码器，只有头文件。
-- [libsndfile](https://github.com/erikd/libsndfile/) ⭐ 1,711 | 🐛 213 | 🌐 C | 📅 2026-09-01: C++封装的C库，用于通过标准库接口读写包含采样声音的文件。
+- [libsndfile](https://github.com/erikd/libsndfile/) ⭐ 1,711 | 🐛 214 | 🌐 C | 📅 2026-09-01: C++封装的C库，用于通过标准库接口读写包含采样声音的文件。
 - [Maximilian](https://github.com/micknoise/Maximilian) ⭐ 1,699 | 🐛 32 | 🌐 C++ | 📅 2025-01-04: C++音频和音乐数字信号处理库。
-- [Verovio](https://github.com/rism-ch/verovio) ⭐ 919 | 🐛 177 | 🌐 C++ | 📅 2026-09-01: 快速、轻量级的音乐符号雕刻库。
+- [Verovio](https://github.com/rism-ch/verovio) ⭐ 922 | 🐛 175 | 🌐 C++ | 📅 2026-09-04: 快速、轻量级的音乐符号雕刻库。
 - [Tonic](https://github.com/TonicAudio/Tonic) ⭐ 559 | 🐛 53 | 🌐 C++ | 📅 2024-12-24: C++易用和高效的音频合成。
 - [SELA](https://github.com/sahaRatul/sela) ⭐ 217 | 🐛 11 | 🌐 C++ | 📅 2020-04-11: SimplIE无损音频。
 - [FMOD](http://www.fmod.org/): 易于使用的跨平台的音频引擎和音频内容的游戏创作工具。
@@ -178,17 +178,17 @@ C++通用框架和库
 
 ### 比特流
 
-* [libtorrent](https://github.com/arvidn/libtorrent) ⭐ 6,046 | 🐛 251 | 🌐 C++ | 📅 2026-09-03(a.k.a. libtorrent-rasterbar): 高效的、功能完整的C++比特流实现。
+* [libtorrent](https://github.com/arvidn/libtorrent) ⭐ 6,049 | 🐛 252 | 🌐 C++ | 📅 2026-09-04(a.k.a. libtorrent-rasterbar): 高效的、功能完整的C++比特流实现。
 * [libutp](https://github.com/bittorrent/libutp) ⭐ 1,159 | 🐛 47 | 🌐 C++ | 📅 2023-10-19: uTorrent传输协议库。
 * [LibTorrent](https://github.com/rakshasa/libtorrent) ⭐ 1,000 | 🐛 48 | 🌐 C++ | 📅 2026-09-03 (a.k.a. libtorrent-rakshasa): 比特流库。
-* [jech/dht](https://github.com/jech/dht) ⭐ 710 | 🐛 5 | 🌐 C | 📅 2026-09-02: C实现的比特流分布式哈希表库。
+* [jech/dht](https://github.com/jech/dht) ⭐ 710 | 🐛 5 | 🌐 C | 📅 2026-09-04: C实现的比特流分布式哈希表库。
 
 ### 化学
 
 化学，地球化学，生物化学
 
-* [LAMMPS](https://github.com/lammps/lammps) ⭐ 3,043 | 🐛 77 | 🌐 C++ | 📅 2026-09-03: 经典的用于材料建模的分子动力学代码，它是大范围原子/分子巨量平行模拟器的首字母缩写。
-* [gromacs](https://github.com/gromacs/gromacs) ⭐ 957 | 🐛 0 | 🌐 C++ | 📅 2026-09-03: 传递消息的并行分子动力学实现。
+* [LAMMPS](https://github.com/lammps/lammps) ⭐ 3,045 | 🐛 77 | 🌐 C++ | 📅 2026-09-03: 经典的用于材料建模的分子动力学代码，它是大范围原子/分子巨量平行模拟器的首字母缩写。
+* [gromacs](https://github.com/gromacs/gromacs) ⭐ 957 | 🐛 0 | 🌐 C++ | 📅 2026-09-04: 传递消息的并行分子动力学实现。
 * [Reaktoro](https://github.com/reaktoro/reaktoro) ⭐ 219 | 🐛 34 | 🌐 C++ | 📅 2026-02-02: C++和python中用于对化学反应系统进行建模的计算框架。
 * [d-SEAMS](https://github.com/d-SEAMS/seams-core) ⭐ 42 | 🐛 17 | 🌐 C++ | 📅 2026-09-03: 具有Nix的C++和Lua实现的分子动力学轨道分析引擎，它是分子模拟的递延结构分析的首字母缩写。
 
@@ -197,17 +197,17 @@ C++通用框架和库
 控制台/终端用户界面，命令行界面
 
 * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) ⭐ 4,806 | 🐛 71 | 🌐 C++ | 📅 2026-09-03: 轻量级的C++命令行选项解析器。
-* [CLI11](https://github.com/CLIUtils/CLI11) ⭐ 4,437 | 🐛 78 | 🌐 C++ | 📅 2026-09-01: 单文件或多文件的C++11库，用于简单和高级的CLI解析，只有头文件。
-* [linenoise](https://github.com/antirez/linenoise) ⭐ 4,349 | 🐛 154 | 🌐 C | 📅 2026-05-02: readline和libedit的独立小选择。
-* [indicators](https://github.com/p-ranav/indicators/) ⭐ 3,410 | 🐛 49 | 🌐 C++ | 📅 2025-05-09: 现代C++的活动指标。
+* [CLI11](https://github.com/CLIUtils/CLI11) ⭐ 4,439 | 🐛 78 | 🌐 C++ | 📅 2026-09-01: 单文件或多文件的C++11库，用于简单和高级的CLI解析，只有头文件。
+* [linenoise](https://github.com/antirez/linenoise) ⭐ 4,351 | 🐛 154 | 🌐 C | 📅 2026-05-02: readline和libedit的独立小选择。
+* [indicators](https://github.com/p-ranav/indicators/) ⭐ 3,409 | 🐛 49 | 🌐 C++ | 📅 2025-05-09: 现代C++的活动指标。
 * [tabulate](https://github.com/p-ranav/tabulate) ⭐ 2,174 | 🐛 44 | 🌐 C++ | 📅 2025-05-14: 现代C++的表格制作工具。
 * [termbox](https://github.com/nsf/termbox) ⭐ 2,008 | 🐛 20 | 🌐 C | 📅 2020-08-25: 用于编写基于文本的用户界面的C库。
-* [Taywee / args](https://github.com/taywee/args) ⭐ 1,636 | 🐛 15 | 🌐 C++ | 📅 2026-08-03: 简单的只有头文件的C++参数解析库。
+* [Taywee / args](https://github.com/taywee/args) ⭐ 1,637 | 🐛 15 | 🌐 C++ | 📅 2026-08-03: 简单的只有头文件的C++参数解析库。
 * [Argh!](https://github.com/adishavit/argh) ⭐ 1,440 | 🐛 24 | 🌐 C++ | 📅 2025-01-21: 极简的只有头文件的参数处理程序。
 * [cli](https://github.com/daniele77/cli) ⭐ 1,358 | 🐛 39 | 🌐 C++ | 📅 2025-12-22: 用于交互式命令行界面的跨平台的C++14库，只有头文件。
 * [PDCurses](https://github.com/wmcbrine/PDCurses) ⭐ 1,245 | 🐛 44 | 🌐 C | 📅 2026-01-10: 具有源代码和预编译库的公共域curses库。
 * [docopt.cpp](https://github.com/docopt/docopt.cpp) ⭐ 1,090 | 🐛 68 | 🌐 C++ | 📅 2025-10-03: 从文档字符串生成选项解析的库。
-* [replxx](https://github.com/AmokHuginnsson/replxx) ⭐ 763 | 🐛 36 | 🌐 C++ | 📅 2024-04-14: 支持UTF-8、语法高亮、提示的readline和libedit替换，可在Unix和Windows上工作。
+* [replxx](https://github.com/AmokHuginnsson/replxx) ⭐ 764 | 🐛 36 | 🌐 C++ | 📅 2024-04-14: 支持UTF-8、语法高亮、提示的readline和libedit替换，可在Unix和Windows上工作。
 * [Clara](https://github.com/catchorg/Clara) ⚠️ Archived: 用于C++11及更高版本的易于使用、可组合的命令行解析器。
 * [Lyra](https://github.com/bfgroup/Lyra) ⭐ 600 | 🐛 7 | 🌐 C++ | 📅 2026-07-29: 易于使用的、可组合的命令行解析器，适用于C++11及更高版本。
 * [linenoise-ng](https://github.com/arangodb/linenoise-ng) ⚠️ Archived: 用于Linux、Windows和MacOS的小型便携式GNU readline替换，它能够处理UTF-8字符。
@@ -220,14 +220,14 @@ C++通用框架和库
 
 压缩和归档库
 
-* [Brotli](https://github.com/google/brotli) ⭐ 14,862 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-03: Brotli压缩格式，由Google开发。
-* [bit7z](https://github.com/rikyoz/bit7z) ⭐ 854 | 🐛 42 | 🌐 C++ | 📅 2026-08-30: C++静态库，提供与7-zip DLLs的简洁接口。
+* [Brotli](https://github.com/google/brotli) ⭐ 14,862 | 🐛 104 | 🌐 TypeScript | 📅 2026-09-03: Brotli压缩格式，由Google开发。
+* [bit7z](https://github.com/rikyoz/bit7z) ⭐ 854 | 🐛 43 | 🌐 C++ | 📅 2026-08-30: C++静态库，提供与7-zip DLLs的简洁接口。
 
-- [zstd](https://github.com/facebook/zstd) ⭐ 27,691 | 🐛 358 | 🌐 C | 📅 2026-09-01: Zstandard-快速实时压缩算法。由Facebook开发。
-- [libarchive](https://github.com/libarchive/libarchive) ⭐ 3,606 | 🐛 600 | 🌐 C | 📅 2026-09-04: 多格式的存档和压缩库。
+- [zstd](https://github.com/facebook/zstd) ⭐ 27,700 | 🐛 359 | 🌐 C | 📅 2026-09-01: Zstandard-快速实时压缩算法。由Facebook开发。
+- [libarchive](https://github.com/libarchive/libarchive) ⭐ 3,607 | 🐛 598 | 🌐 C | 📅 2026-09-05: 多格式的存档和压缩库。
 - [LZFSE](https://github.com/lzfse/lzfse) ⭐ 1,822 | 🐛 29 | 🌐 C | 📅 2022-09-05: LZFSE压缩库和命令行工具。
-- [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) ⭐ 1,498 | 🐛 22 | 🌐 C | 📅 2024-03-21: 新一代熵编解码器: 有限状态熵和Huff()。
-- [Minizip](https://github.com/nmoinvaz/minizip) ⭐ 1,490 | 🐛 16 | 🌐 C | 📅 2026-09-02: Zlib最新bug修复，支持PKWARE磁盘跨越，AES加密和IO缓冲。
+- [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) ⭐ 1,499 | 🐛 22 | 🌐 C | 📅 2024-03-21: 新一代熵编解码器: 有限状态熵和Huff()。
+- [Minizip](https://github.com/nmoinvaz/minizip) ⭐ 1,490 | 🐛 17 | 🌐 C | 📅 2026-09-04: Zlib最新bug修复，支持PKWARE磁盘跨越，AES加密和IO缓冲。
 - [smaz](https://github.com/antirez/smaz) ⭐ 1,221 | 🐛 13 | 🌐 C | 📅 2019-10-25: 小型字符压缩库。
 - [zlib-ng](https://github.com/Dead2/zlib-ng) ⭐ 14 | 🐛 0 | 📅 2021-05-08: 用于“下一代”系统的zlib，将一些重要的优化进行嵌入式替换。
 - [bzip2](http://www.bzip.org/): 一个完全免费，免费专利和高质量的数据压缩。
@@ -250,16 +250,16 @@ C++通用框架和库
 * [Async++](https://github.com/Amanieu/asyncplusplus) ⭐ 1,414 | 🐛 15 | 🌐 C++ | 📅 2024-10-11: C++ 11 的轻量级并行框架，受Microsoft PPL库和N3428 C++标准提案启发。
 * [alpaka](https://github.com/ComputationalRadiationPhysics/alpaka) ⭐ 4 | 🐛 0 | 📅 2020-04-03: 并行内核加速的抽象库。
 
-- [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,477 | 🐛 77 | 🌐 C++ | 📅 2026-07-11: C++11的快速多生产者、多消费者的无锁并发队列。
-- [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) ⭐ 12,140 | 🐛 34 | 🌐 C++ | 📅 2026-08-06: 具有任务依赖性的快速C++并行编程。
-- [NCCL](https://github.com/NVIDIA/nccl) ⭐ 5,044 | 🐛 420 | 🌐 C++ | 📅 2026-09-03: 用于集体多GPU通信的优化基元。
-- [readerwriterqueue](https://github.com/cameron314/readerwriterqueue) ⭐ 4,620 | 🐛 23 | 🌐 C++ | 📅 2026-08-23: C++的快速单生产者、单消费者的无锁队列。
+- [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,480 | 🐛 77 | 🌐 C++ | 📅 2026-07-11: C++11的快速多生产者、多消费者的无锁并发队列。
+- [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) ⭐ 12,139 | 🐛 34 | 🌐 C++ | 📅 2026-08-06: 具有任务依赖性的快速C++并行编程。
+- [NCCL](https://github.com/NVIDIA/nccl) ⭐ 5,049 | 🐛 422 | 🌐 C++ | 📅 2026-09-04: 用于集体多GPU通信的优化基元。
+- [readerwriterqueue](https://github.com/cameron314/readerwriterqueue) ⭐ 4,619 | 🐛 23 | 🌐 C++ | 📅 2026-08-23: C++的快速单生产者、单消费者的无锁队列。
 - [libmill](https://github.com/sustrik/libmill/) ⭐ 3,175 | 🐛 22 | 🌐 C | 📅 2021-02-09: 在C中引入结构并发性。
 - [libmill](https://github.com/sustrik/libmill/) ⭐ 3,175 | 🐛 22 | 🌐 C | 📅 2021-02-09: 在C中引入Go-style并发性。
-- [HPX](https://github.com/STEllAR-GROUP/hpx/) ⭐ 2,891 | 🐛 138 | 🌐 C++ | 📅 2026-09-01: 适用于任何规模的并行分布式应用的通用C++运行时系统。
+- [HPX](https://github.com/STEllAR-GROUP/hpx/) ⭐ 2,891 | 🐛 140 | 🌐 C++ | 📅 2026-09-04: 适用于任何规模的并行分布式应用的通用C++运行时系统。
 - [libcds](https://github.com/khizmax/libcds) ⭐ 2,745 | 🐛 55 | 🌐 C++ | 📅 2023-10-17: 并行数据结构的C++库。
-- [ck](https://github.com/concurrencykit/ck) ⭐ 2,696 | 🐛 8 | 🌐 C | 📅 2026-09-02: 并发基元，安全内存回收机制和非阻塞数据结构。
-- [Kokkos](https://github.com/kokkos/kokkos) ⭐ 2,672 | 🐛 549 | 🌐 C++ | 📅 2026-09-03: 用于并行运行和内存抽象的便携式编程模型。
+- [ck](https://github.com/concurrencykit/ck) ⭐ 2,697 | 🐛 8 | 🌐 C | 📅 2026-09-04: 并发基元，安全内存回收机制和非阻塞数据结构。
+- [Kokkos](https://github.com/kokkos/kokkos) ⭐ 2,673 | 🐛 553 | 🌐 C++ | 📅 2026-09-03: 用于并行运行和内存抽象的便携式编程模型。
 - [libdispatch](https://github.com/apple/swift-corelibs-libdispatch) ⭐ 2,601 | 🐛 116 | 🌐 C | 📅 2026-09-03: Apple公司开发的Grand Central Dispatch（GCD）是基于线程池模式的任务并行技术。libdispatch库提供了GCD服务的实现。
 - [marl](https://github.com/google/marl) ⚠️ Archived: Marl是用C++11编写的混合线程/纤程的任务调度程序。
 - [moderngpu](https://github.com/moderngpu/moderngpu) ⭐ 1,790 | 🐛 12 | 🌐 C++ | 📅 2026-01-17: moderngpu是用于GPUs通用计算的生产力库，它只有为CUDA编写的C++头文件。该库的独特价值在于其用于解决不规则并行问题的加速基元。
@@ -269,7 +269,7 @@ C++通用框架和库
 - [C++React](https://github.com/schlangster/cpp.react) ⭐ 1,043 | 🐛 19 | 🌐 C++ | 📅 2021-05-17: 用于C++11的反应性编程库。
 - [FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) ⭐ 985 | 🐛 16 | 🌐 C++ | 📅 2025-03-21: 基于任务的多线程库，支持具有任意依赖关系的任务图表。
 - [cuda-api-wrappers](https://github.com/eyalroz/cuda-api-wrappers) ⭐ 903 | 🐛 117 | 🌐 C++ | 📅 2026-07-16: 轻量级的现代C++封装器，用于CUDA GPU的运行时API编程。
-- [Intel Parallel STL](https://github.com/intel/parallelstl) ⭐ 776 | 🐛 213 | 🌐 C++ | 📅 2026-09-03: C++ 17 STL的英特尔实现，适用于C++11及更高版本。
+- [Intel Parallel STL](https://github.com/intel/parallelstl) ⭐ 776 | 🐛 213 | 🌐 C++ | 📅 2026-09-05: C++ 17 STL的英特尔实现，适用于C++11及更高版本。
 - [VexCL](https://github.com/ddemidov/vexcl) ⭐ 721 | 🐛 31 | 🌐 C++ | 📅 2025-07-19: 用于OpenCL/CUDA 的C++向量表达式模板库。
 - [Quantum](https://github.com/bloomberg/quantum) ⭐ 638 | 🐛 7 | 🌐 C++ | 📅 2026-04-08: 建立在[boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html)顶层的强大的C++协同调度程序框架。
 - [Quantum](https://github.com/bloomberg/quantum) ⭐ 638 | 🐛 7 | 🌐 C++ | 📅 2026-04-08: 建立在[boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html)顶层的强大的C++协同调度程序框架。
@@ -293,13 +293,13 @@ C++通用框架和库
 
 * [inih](https://github.com/benhoyt/inih) ⭐ 3,040 | 🐛 6 | 🌐 C++ | 📅 2026-01-30: C语言的简单.INI文件解析器，很适合嵌入式系统。
 
-* [toml++](https://github.com/marzer/tomlplusplus) ⭐ 2,139 | 🐛 28 | 🌐 C++ | 📅 2026-07-21: TOML解析器和串化器，适用于C++17及更高版本，只有头文件。
+* [toml++](https://github.com/marzer/tomlplusplus) ⭐ 2,141 | 🐛 28 | 🌐 C++ | 📅 2026-07-21: TOML解析器和串化器，适用于C++17及更高版本，只有头文件。
 
 * [simpleini](https://github.com/brofield/simpleini) ⭐ 1,325 | 🐛 0 | 🌐 C++ | 📅 2026-09-01: 跨平台的C++库，提供用于读写INI配置文件的简单API。
 
 * [libconfig](https://github.com/hyperrealm/libconfig) ⭐ 1,224 | 🐛 40 | 🌐 C | 📅 2026-02-09: 用于处理结构化配置文件的C、C++库。
 
-* [iniparser](https://github.com/ndevilla/iniparser) ⭐ 1,074 | 🐛 6 | 🌐 C | 📅 2026-07-19: INI文件解析器。
+* [iniparser](https://github.com/ndevilla/iniparser) ⭐ 1,075 | 🐛 6 | 🌐 C | 📅 2026-07-19: INI文件解析器。
 
 * [libconfuse](https://github.com/martinh/libconfuse) ⭐ 519 | 🐛 7 | 🌐 C | 📅 2026-08-21: C的小型配置文件解析库。
 
@@ -308,10 +308,10 @@ C++通用框架和库
 ### 容器
 
 * [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) ⚠️ Archived: 用于C++1的快速、节约内存的哈希表，基于robin hood哈希算法。
-* [robin-map](https://github.com/Tessil/robin-map) ⭐ 1,504 | 🐛 18 | 🌐 C++ | 📅 2026-06-13: 使用robin hood哈希算法的哈希映射和哈希集。
+* [robin-map](https://github.com/Tessil/robin-map) ⭐ 1,505 | 🐛 18 | 🌐 C++ | 📅 2026-06-13: 使用robin hood哈希算法的哈希映射和哈希集。
 * [sparsepp](https://github.com/greg7mdp/sparsepp) ⭐ 1,312 | 🐛 1 | 🌐 C++ | 📅 2026-06-13: 用于C++的快速、节约内存的哈希映射。
 * [PGM-index](https://github.com/gvinciguerra/PGM-index) ⭐ 873 | 🐛 12 | 🌐 C++ | 📅 2024-11-28: 能够快速查找、前导、范围搜索和更新数以亿计项数组的数据结构，其跟传统索引相比，使用梯度的顺序而不是空间。
-* [Hopscotch map](https://github.com/Tessil/hopscotch-map) ⭐ 850 | 🐛 7 | 🌐 C++ | 📅 2025-11-02: 使用hopscotch哈希算法来实现冲突解决的快速哈希映射，只有头文件。
+* [Hopscotch map](https://github.com/Tessil/hopscotch-map) ⭐ 849 | 🐛 7 | 🌐 C++ | 📅 2025-11-02: 使用hopscotch哈希算法来实现冲突解决的快速哈希映射，只有头文件。
 * [Colony](https://github.com/mattreecebentley/plf_colony) ⭐ 506 | 🐛 0 | 🌐 C++ | 📅 2026-08-26: 无序的”bag“型容器，在高度修改的情况下，其性能优于标准容器。同时，无论插入还是擦除，其都能始终保持指向未擦除元素的永久指针。
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) ⭐ 293 | 🐛 6 | 🌐 C++ | 📅 2017-06-29: 局部敏感算法（LSH）的C++工具箱，提供了好几种普遍的LSH算法，也可以支持Python和MATLAB。
 * [Hashmaps](https://github.com/goossaert/hashmap) ⭐ 255 | 🐛 1 | 🌐 C++ | 📅 2022-01-13: C++中开放寻址哈希表算法的实现。
@@ -326,16 +326,16 @@ C++通用框架和库
 
 密码学和加密库
 
-* [BeeCrypt](https://github.com/fffaraz/awesome-cpp/blob/master) ⭐ 73,103 | 🐛 312 | 📅 2026-09-01: 可移植和快速的加密库。
-* [libsodium](https://github.com/jedisct1/libsodium) ⭐ 13,928 | 🐛 1 | 🌐 C | 📅 2026-08-31: 基于NaCI的加密库，固执己见，容易使用。
+* [BeeCrypt](https://github.com/fffaraz/awesome-cpp/blob/master) ⭐ 73,125 | 🐛 311 | 📅 2026-09-01: 可移植和快速的加密库。
+* [libsodium](https://github.com/jedisct1/libsodium) ⭐ 13,931 | 🐛 1 | 🌐 C | 📅 2026-08-31: 基于NaCI的加密库，固执己见，容易使用。
 * [Tink](https://github.com/google/tink) ⚠️ Archived: 多语言、跨平台的库，提供安全、易于正确使用且难以滥用的加密API。
-* [mbedTLS](https://github.com/ARMmbed/mbedtls) ⭐ 6,936 | 🐛 1,721 | 🌐 C | 📅 2026-09-03: 开源的、可移植的、易于使用的、可读的、灵活的SSL库，以前被称为PolarSSL。
+* [mbedTLS](https://github.com/ARMmbed/mbedtls) ⭐ 6,938 | 🐛 1,720 | 🌐 C | 📅 2026-09-03: 开源的、可移植的、易于使用的、可读的、灵活的SSL库，以前被称为PolarSSL。
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) ⭐ 5,006 | 🐛 35 | 🌐 C | 📅 2024-10-04: C中小型可移植的AES128/192/256。
-* [s2n](https://github.com/awslabs/s2n) ⭐ 4,762 | 🐛 317 | 🌐 C | 📅 2026-09-04: TLS/SSL协议的实现。
+* [s2n](https://github.com/awslabs/s2n) ⭐ 4,761 | 🐛 318 | 🌐 C | 📅 2026-09-04: TLS/SSL协议的实现。
 * [Themis](https://github.com/cossacklabs/themis) ⭐ 1,974 | 🐛 31 | 🌐 C | 📅 2026-04-24: 用于无痛数据安全的加密库，为移动和服务器平台提供对称和非对称加密，具有向前保密性的安全套接字。
-* [LibTomCrypt](https://github.com/libtom/libtomcrypt) ⭐ 1,789 | 🐛 54 | 🌐 C | 📅 2026-09-01: 相当全面、模块化和可移植的加密工具包。
-* [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) ⭐ 1,416 | 🐛 17 | 🌐 C | 📅 2025-10-30: 用于检测文件中SHA-1冲突的库和命令行工具。
-* [libhydrogen](https://github.com/jedisct1/libhydrogen) ⭐ 781 | 🐛 0 | 🌐 C | 📅 2026-08-26: 轻量级、安全、易于使用的加密库，适用于受限的环境。
+* [LibTomCrypt](https://github.com/libtom/libtomcrypt) ⭐ 1,789 | 🐛 56 | 🌐 C | 📅 2026-09-01: 相当全面、模块化和可移植的加密工具包。
+* [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) ⭐ 1,417 | 🐛 17 | 🌐 C | 📅 2025-10-30: 用于检测文件中SHA-1冲突的库和命令行工具。
+* [libhydrogen](https://github.com/jedisct1/libhydrogen) ⭐ 780 | 🐛 0 | 🌐 C | 📅 2026-08-26: 轻量级、安全、易于使用的加密库，适用于受限的环境。
 * [digestpp](https://github.com/kerukuro/digestpp) ⭐ 205 | 🐛 4 | 🌐 C++ | 📅 2026-02-14: C++11的信息摘要（哈希）库，只有头文件。
 * [retter](https://github.com/MaciejCzyzewski/retter) ⭐ 118 | 🐛 1 | 🌐 C | 📅 2017-03-06: 与哈希函数、密码、工具、库和材料相关的密码学集合。
 * [Bcrypt](http://bcrypt.sourceforge.net/): 一个跨平台的文件加密工具，加密文件可以移植到所有可支持的操作系统和处理器中。
@@ -353,28 +353,28 @@ C++通用框架和库
 用于解析逗号分隔值（CSV）文件的库
 
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) ⭐ 2,360 | 🐛 27 | 🌐 C++ | 📅 2025-02-02: 用于读取CSV文件的小型、易于使用和快速的库，只包含头文件。
-* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) ⭐ 1,123 | 🐛 2 | 🌐 C++ | 📅 2026-08-23: 快速、独立、流式的C++17 CSV解析器，具有可选的类型转换和统计信息。
+* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) ⭐ 1,124 | 🐛 2 | 🌐 C++ | 📅 2026-08-23: 快速、独立、流式的C++17 CSV解析器，具有可选的类型转换和统计信息。
 * [csv2](https://github.com/p-ranav/csv2) ⭐ 627 | 🐛 21 | 🌐 C++ | 📅 2023-12-23: 现代C++的快速CSV解析器。
 
 ### 数据库
 
 数据库，SQL服务器，ODBC驱动程序和工具
 
-* [LevelDB](https://github.com/google/leveldb) ⭐ 39,374 | 🐛 406 | 🌐 C++ | 📅 2026-03-11: 由Google编写的快速键值存储库，提供了从字符键到字符串值的有序映射。
-* [RocksDB](https://github.com/facebook/rocksdb) ⭐ 32,043 | 🐛 1,629 | 🌐 C++ | 📅 2026-09-03: 来自Facebook的嵌入键值的快速存储。
+* [LevelDB](https://github.com/google/leveldb) ⭐ 39,379 | 🐛 406 | 🌐 C++ | 📅 2026-03-11: 由Google编写的快速键值存储库，提供了从字符键到字符串值的有序映射。
+* [RocksDB](https://github.com/facebook/rocksdb) ⭐ 32,052 | 🐛 1,630 | 🌐 C++ | 📅 2026-09-04: 来自Facebook的嵌入键值的快速存储。
 * [Hiredis](https://github.com/redis/hiredis) ⭐ 6,680 | 🐛 85 | 🌐 C | 📅 2026-08-20: 用于Redis数据库的很简单的C客户端库。
-* [SQLiteC++](https://github.com/SRombauts/SQLiteCpp) ⭐ 2,781 | 🐛 92 | 🌐 C | 📅 2026-08-25: SQLiteC++ (SQLiteCpp)是聪明且易于使用的C++ SQLite3封装器。
-* [sqlite\_orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,694 | 🐛 15 | 🌐 C++ | 📅 2026-09-03: 适用于现代C++的SQLite ORM轻量库，只有头文件。
-* [sqlpp11](https://github.com/rbock/sqlpp11) ⭐ 2,624 | 🐛 3 | 🌐 C++ | 📅 2026-04-24: 用于SQL查询和在C++产生结果的类型安全的嵌入式域特定语言。
-* [UnQLite](https://github.com/symisc/unqlite) ⭐ 2,313 | 🐛 31 | 🌐 C | 📅 2026-05-01: 独立、无服务器、零配置的事物型NoSQL引擎。
+* [SQLiteC++](https://github.com/SRombauts/SQLiteCpp) ⭐ 2,781 | 🐛 92 | 🌐 C | 📅 2026-09-04: SQLiteC++ (SQLiteCpp)是聪明且易于使用的C++ SQLite3封装器。
+* [sqlite\_orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,693 | 🐛 15 | 🌐 C++ | 📅 2026-09-03: 适用于现代C++的SQLite ORM轻量库，只有头文件。
+* [sqlpp11](https://github.com/rbock/sqlpp11) ⭐ 2,625 | 🐛 3 | 🌐 C++ | 📅 2026-04-24: 用于SQL查询和在C++产生结果的类型安全的嵌入式域特定语言。
+* [UnQLite](https://github.com/symisc/unqlite) ⭐ 2,313 | 🐛 32 | 🌐 C | 📅 2026-05-01: 独立、无服务器、零配置的事物型NoSQL引擎。
 * [TileDB](https://github.com/TileDB-Inc/TileDB) ⭐ 2,076 | 🐛 117 | 🌐 C++ | 📅 2026-09-01: 快速密集和稀疏多维数组DBMS。
 * [SOCI](https://github.com/SOCI/soci) ⭐ 1,620 | 🐛 138 | 🌐 C++ | 📅 2026-09-03: C++的数据库抽象层。
-* [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver) ⭐ 1,106 | 🐛 4 | 🌐 C++ | 📅 2026-09-03: MongDB的C++驱动程序。
+* [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver) ⭐ 1,107 | 🐛 1 | 🌐 C++ | 📅 2026-09-04: MongDB的C++驱动程序。
 * [sqlite\_modern\_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp) ⭐ 949 | 🐛 43 | 🌐 C++ | 📅 2024-07-23: sqlite库的C++14封装器，只有头文件。
-* [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) ⭐ 880 | 🐛 11 | 🌐 C | 📅 2026-09-03: C的MongoDB客户端库。
+* [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) ⭐ 881 | 🐛 9 | 🌐 C | 📅 2026-09-04: C的MongoDB客户端库。
 * [hiberlite](https://github.com/paulftw/hiberlite) ⭐ 723 | 🐛 14 | 🌐 C++ | 📅 2023-07-24: 用于Sqlite3的C++对象关系映射。
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) ⭐ 560 | 🐛 8 | 🌐 C++ | 📅 2024-01-05: 高性能、共享内存、无锁、跨平台、单文件、最小依赖的C++11键值存储。
-* [nanodbc](https://github.com/nanodbc/nanodbc) ⭐ 384 | 🐛 2 | 🌐 C++ | 📅 2026-08-31: 用于本机C ODBC API的小型C++封装器。
+* [nanodbc](https://github.com/nanodbc/nanodbc) ⭐ 384 | 🐛 2 | 🌐 C++ | 📅 2026-09-04: 用于本机C ODBC API的小型C++封装器。
 * [MongoDB Libbson](https://github.com/mongodb/libbson) ⚠️ Archived: BSON实用库。
 * [LMDB++](https://github.com/bendiken/lmdbxx) ⭐ 285 | 🐛 23 | 🌐 C++ | 📅 2020-11-12: LMDB嵌入式数据库的C++11封装器。
 * [redis3m](https://github.com/luca3m/redis3m) ⭐ 185 | 🐛 25 | 🌐 C++ | 📅 2019-05-22: 使用干净C++接口的hiredis封装器，支持标记和现成的模式。
@@ -388,17 +388,17 @@ C++通用框架和库
 
 调试库， 内存和资源泄露检测，单元测试
 
-* [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) ⭐ 39,486 | 🐛 500 | 🌐 C++ | 📅 2026-09-03: 编写和使用C++模拟类的库。
-* [Google Test](https://github.com/google/googletest) ⭐ 39,486 | 🐛 500 | 🌐 C++ | 📅 2026-09-03: Google的C++测试框架。
-* [Catch](https://github.com/philsquared/Catch) ⭐ 21,464 | 🐛 438 | 🌐 C++ | 📅 2026-09-03: 一个很时尚的，C++原生的框架，只包含头文件，用于单元测试，测试驱动开发和行为驱动开发。
-* [Catch2](https://github.com/catchorg/Catch2) ⭐ 21,464 | 🐛 438 | 🌐 C++ | 📅 2026-09-03: 一个很时尚的，C++原生的框架，只包含头文件，用于单元测试，测试驱动开发和行为驱动开发。
-* [benchmark](https://github.com/google/benchmark) ⭐ 10,383 | 🐛 175 | 🌐 C++ | 📅 2026-08-28: Google提供的小型微基准支持库。
+* [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) ⭐ 39,490 | 🐛 500 | 🌐 C++ | 📅 2026-09-03: 编写和使用C++模拟类的库。
+* [Google Test](https://github.com/google/googletest) ⭐ 39,490 | 🐛 500 | 🌐 C++ | 📅 2026-09-03: Google的C++测试框架。
+* [Catch](https://github.com/philsquared/Catch) ⭐ 21,465 | 🐛 438 | 🌐 C++ | 📅 2026-09-04: 一个很时尚的，C++原生的框架，只包含头文件，用于单元测试，测试驱动开发和行为驱动开发。
+* [Catch2](https://github.com/catchorg/Catch2) ⭐ 21,465 | 🐛 438 | 🌐 C++ | 📅 2026-09-04: 一个很时尚的，C++原生的框架，只包含头文件，用于单元测试，测试驱动开发和行为驱动开发。
+* [benchmark](https://github.com/google/benchmark) ⭐ 10,385 | 🐛 175 | 🌐 C++ | 📅 2026-08-28: Google提供的小型微基准支持库。
 * [doctest](https://github.com/onqtam/doctest) ⭐ 6,858 | 🐛 140 | 🌐 C++ | 📅 2026-08-29: 功能最轻便的单个C++头文件的测试框架。
-* [Unity](https://github.com/ThrowTheSwitch/Unity) ⭐ 5,365 | 🐛 85 | 🌐 C | 📅 2026-08-25: C的简单单元测试。
-* [backward-cpp](https://github.com/bombela/backward-cpp) ⭐ 4,298 | 🐛 126 | 🌐 C++ | 📅 2025-04-14: C++的漂亮堆栈轨迹打印机。
+* [Unity](https://github.com/ThrowTheSwitch/Unity) ⭐ 5,366 | 🐛 85 | 🌐 C | 📅 2026-08-25: C的简单单元测试。
+* [backward-cpp](https://github.com/bombela/backward-cpp) ⭐ 4,299 | 🐛 126 | 🌐 C++ | 📅 2025-04-14: C++的漂亮堆栈轨迹打印机。
 * [Remotery](https://github.com/Celtoys/Remotery) ⭐ 3,311 | 🐛 38 | 🌐 C | 📅 2024-08-28: 用于Web视图的单一C文件分析器。
 * [dbg-macro](https://github.com/sharkdp/dbg-macro) ⭐ 3,234 | 🐛 9 | 🌐 C++ | 📅 2026-02-14: C++的dbg（……）宏。
-* [CppUTest](https://github.com/cpputest/cpputest) ⭐ 1,481 | 🐛 190 | 🌐 C++ | 📅 2026-07-30: C/C++的单元测试和模拟框架。
+* [CppUTest](https://github.com/cpputest/cpputest) ⭐ 1,482 | 🐛 190 | 🌐 C++ | 📅 2026-07-30: C/C++的单元测试和模拟框架。
 * [μt](https://github.com/boost-experimental/ut) ⭐ 1,437 | 🐛 96 | 🌐 C++ | 📅 2026-02-14: C++20的单头文件/单模块、无宏的μ（微型）/单元测试框架。
 * [check](https://github.com/libcheck/check) ⭐ 1,174 | 🐛 104 | 🌐 C | 📅 2026-07-13: C的单元测试框架。
 * [utest.h](https://github.com/sheredom/utest.h) ⭐ 992 | 🐛 7 | 🌐 C++ | 📅 2026-08-23: C和C++的单个头文件测试框架。
@@ -431,19 +431,19 @@ C++通用框架和库
 
 ### 游戏引擎
 
-* [Godot](https://github.com/godotengine/godot) ⭐ 116,567 | 🐛 18,823 | 🌐 C++ | 📅 2026-09-03: 功能齐全、开源、有MIT许可的游戏引擎。
-* [raylib](https://github.com/raysan5/raylib) ⭐ 34,575 | 🐛 19 | 🌐 C | 📅 2026-09-03: 简单、易于使用的库，用于享受视频游戏编程的乐趣。
+* [Godot](https://github.com/godotengine/godot) ⭐ 116,604 | 🐛 18,839 | 🌐 C++ | 📅 2026-09-04: 功能齐全、开源、有MIT许可的游戏引擎。
+* [raylib](https://github.com/raysan5/raylib) ⭐ 34,590 | 🐛 17 | 🌐 C | 📅 2026-09-04: 简单、易于使用的库，用于享受视频游戏编程的乐趣。
 * [EnTT](https://github.com/skypjack/entt) ⭐ 13,078 | 🐛 11 | 🌐 C++ | 📅 2026-09-02: 游戏与现代C++的碰撞。
-* [Panda3D](https://github.com/panda3d/panda3d) ⭐ 5,218 | 🐛 368 | 🌐 C++ | 📅 2026-07-28: 游戏引擎，用于Python和C++程序的3D渲染和游戏开发的框架。
-* [GamePlay](https://github.com/gameplay3d/GamePlay) ⭐ 4,902 | 🐛 9 | 🌐 C++ | 📅 2025-02-25: 用于创建2D/3D移动和桌面游戏的跨平台本机C++游戏框架。
-* [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) ⭐ 4,240 | 🐛 141 | 🌐 C++ | 📅 2025-09-26: olcPixelGameEngine的官方发行版，该工具用于javidx9的YouTube视频和项目。
+* [Panda3D](https://github.com/panda3d/panda3d) ⭐ 5,217 | 🐛 368 | 🌐 C++ | 📅 2026-07-28: 游戏引擎，用于Python和C++程序的3D渲染和游戏开发的框架。
+* [GamePlay](https://github.com/gameplay3d/GamePlay) ⭐ 4,903 | 🐛 9 | 🌐 C++ | 📅 2025-02-25: 用于创建2D/3D移动和桌面游戏的跨平台本机C++游戏框架。
+* [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) ⭐ 4,241 | 🐛 141 | 🌐 C++ | 📅 2025-09-26: olcPixelGameEngine的官方发行版，该工具用于javidx9的YouTube视频和项目。
 * [Spring](https://github.com/spring/spring) ⭐ 3,981 | 🐛 2 | 🌐 C++ | 📅 2024-03-31: 强大、免费、跨平台的RTS游戏引擎。
-* [Halley](https://github.com/amzeratul/halley) ⭐ 3,855 | 🐛 47 | 🌐 C | 📅 2026-09-03: 用C++14编写的轻量级游戏引擎，带有“真实的”实体组件系统。
-* [OpenXRay](https://github.com/OpenXRay/xray-16) ⭐ 3,553 | 🐛 294 | 🌐 C++ | 📅 2026-07-30: 在S.T.A.L.K.E.R.游戏系列中使用的社群修改的X射线引擎。
-* [Torque3D](https://github.com/GarageGames/Torque3D) ⭐ 3,365 | 🐛 372 | 🌐 C++ | 📅 2022-04-03: 为3D游戏开发构建的开源C++引擎。
+* [Halley](https://github.com/amzeratul/halley) ⭐ 3,856 | 🐛 47 | 🌐 C | 📅 2026-09-03: 用C++14编写的轻量级游戏引擎，带有“真实的”实体组件系统。
+* [OpenXRay](https://github.com/OpenXRay/xray-16) ⭐ 3,554 | 🐛 294 | 🌐 C++ | 📅 2026-07-30: 在S.T.A.L.K.E.R.游戏系列中使用的社群修改的X射线引擎。
+* [Torque3D](https://github.com/GarageGames/Torque3D) ⭐ 3,364 | 🐛 372 | 🌐 C++ | 📅 2022-04-03: 为3D游戏开发构建的开源C++引擎。
 * [KlayGE](https://github.com/gongminmin/KlayGE) ⭐ 2,175 | 🐛 41 | 🌐 C++ | 📅 2026-07-17: 具有基于插件架构的跨平台、开源的游戏引擎。
-* [Acid](https://github.com/Equilibrium-Games/Acid) ⭐ 2,021 | 🐛 21 | 🌐 C++ | 📅 2023-09-21: 高速的C++17 Vulkan游戏引擎。
-* [Corange](https://github.com/orangeduck/Corange) ⭐ 1,988 | 🐛 22 | 🌐 C | 📅 2024-06-03: 用纯C、SDL、OpenGL编写的游戏引擎。
+* [Acid](https://github.com/Equilibrium-Games/Acid) ⭐ 2,022 | 🐛 21 | 🌐 C++ | 📅 2023-09-21: 高速的C++17 Vulkan游戏引擎。
+* [Corange](https://github.com/orangeduck/Corange) ⭐ 1,989 | 🐛 22 | 🌐 C | 📅 2024-06-03: 用纯C、SDL、OpenGL编写的游戏引擎。
 * [Torque2D](https://github.com/GarageGames/Torque2D) ⭐ 1,664 | 🐛 31 | 🌐 C++ | 📅 2020-06-01: 为2D游戏开发构建的开源、跨平台C++引擎。
 * [toy engine](https://github.com/hugoam/toy) ⭐ 1,593 | 🐛 13 | 🌐 C++ | 📅 2021-04-25: toy是一个轻量的模块化的 C++ 游戏引擎，并提供简单的、有表现力的C++惯用法来快速迭代设计功能齐全的2D和3D游戏。
 * [nCine](https://github.com/nCine/nCine) ⭐ 1,328 | 🐛 1 | 🌐 C++ | 📅 2026-08-24: 注重性能的跨平台2D游戏引擎，用C++11编写，还可以选择使用Lua编写脚本。
@@ -460,15 +460,15 @@ C++通用框架和库
 
 图形用户界面
 
-* [imgui](https://github.com/ocornut/imgui) ⭐ 76,049 | 🐛 1,231 | 🌐 C++ | 📅 2026-09-03: 拥有最小依赖关系的即时模式图形用户界面。
-* [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,373 | 🐛 319 | 🌐 C | 📅 2026-09-02: 单个头文件的ANSI C gui库。
+* [imgui](https://github.com/ocornut/imgui) ⭐ 76,069 | 🐛 1,231 | 🌐 C++ | 📅 2026-09-04: 拥有最小依赖关系的即时模式图形用户界面。
+* [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,375 | 🐛 319 | 🌐 C | 📅 2026-09-02: 单个头文件的ANSI C gui库。
 * [libui](https://github.com/andlabs/libui) ⭐ 10,897 | 🐛 249 | 🌐 C | 📅 2024-05-29: C中简单、可移植（但是不灵活）的GUI库，使用其支持的每一种平台的本机GUI技术。
 * [implot](https://github.com/epezent/implot) ⭐ 6,216 | 🐛 130 | 🌐 C++ | 📅 2026-08-06: imgui的即时模式绘图控件。
-* [RmlUi](https://github.com/mikke89/RmlUi) ⭐ 4,405 | 🐛 57 | 🌐 C++ | 📅 2026-08-29: 进化的HTML/CSS用户界面库，libRocket的分支。
-* [Elements](https://github.com/cycfi/elements) ⭐ 3,718 | 🐛 41 | 🌐 C++ | 📅 2026-06-13: 轻量级、细粒度、分辨率无关的模块化GUI库。
+* [RmlUi](https://github.com/mikke89/RmlUi) ⭐ 4,407 | 🐛 57 | 🌐 C++ | 📅 2026-08-29: 进化的HTML/CSS用户界面库，libRocket的分支。
+* [Elements](https://github.com/cycfi/elements) ⭐ 3,716 | 🐛 41 | 🌐 C++ | 📅 2026-06-13: 轻量级、细粒度、分辨率无关的模块化GUI库。
 * [Yue](https://github.com/yue/yue) ⭐ 3,612 | 🐛 13 | 🌐 C++ | 📅 2025-01-24: 创建本机跨平台GUI应用的库。
-* [GacUI](https://github.com/vczh-libraries/GacUI) ⭐ 2,685 | 🐛 8 | 🌐 C++ | 📅 2026-09-03: GPU加速的C++用户界面，具有所见即所得的开发工具，支持XML，具有内置数据绑定和MVVM功能。
-* [NanoGui](https://github.com/mitsuba-renderer/nanogui) ⭐ 1,813 | 🐛 92 | 🌐 C++ | 📅 2026-09-02: 简约、跨平台的控件库，用于OpenGL 3.x及更高版本。
+* [GacUI](https://github.com/vczh-libraries/GacUI) ⭐ 2,685 | 🐛 8 | 🌐 C++ | 📅 2026-09-05: GPU加速的C++用户界面，具有所见即所得的开发工具，支持XML，具有内置数据绑定和MVVM功能。
+* [NanoGui](https://github.com/mitsuba-renderer/nanogui) ⭐ 1,813 | 🐛 92 | 🌐 C++ | 📅 2026-09-04: 简约、跨平台的控件库，用于OpenGL 3.x及更高版本。
 * [Boden](https://github.com/AshampooSystems/boden) ⭐ 1,747 | 🐛 29 | 🌐 C++ | 📅 2021-12-17: 本机、移动、跨平台的GUI框架。
 * [CEGUI](http://cegui.org.uk/):  灵活的跨平台GUI库。
 * [FLTK](http://www.fltk.org/index.php): 快速，轻量级的跨平台的C++GUI工具包。
@@ -485,23 +485,23 @@ C++通用框架和库
 
 ### 图形
 
-* [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,455 | 🐛 287 | 🌐 C++ | 📅 2026-09-03: 跨平台的渲染库。
+* [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,459 | 🐛 288 | 🌐 C++ | 📅 2026-09-05: 跨平台的渲染库。
 * [GLFW](https://github.com/glfw/glfw) ⭐ 15,309 | 🐛 766 | 🌐 C | 📅 2026-08-04: 简单、跨平台的OpenGL处理库。
-* [assimp](https://github.com/assimp/assimp) ⭐ 13,175 | 🐛 535 | 🌐 C++ | 📅 2026-09-03: 开放资产导入库（assimp）是跨平台的3D模型导入库，旨在为不同的3D资产文件格式提供通用的API。
-* [Skia](https://github.com/google/skia) ⭐ 10,913 | 🐛 50 | 🌐 C++ | 📅 2026-09-04 用于绘制文字，图形和图像的完整的2D图形库。
-* [NanoVG](https://github.com/memononen/nanovg) ⭐ 5,704 | 🐛 321 | 🌐 C | 📅 2026-02-19: OpenGL之上的抗锯齿2D矢量图形库，用于UI和可视化。
-* [magnum](https://github.com/mosra/magnum) ⭐ 5,204 | 🐛 76 | 🌐 C++ | 📅 2026-08-23: 用于游戏和数据可视化的轻量级和模块化的 C++ 11 /C++ 14图形中间件。
-* [libigl](https://github.com/libigl/libigl) ⭐ 5,081 | 🐛 157 | 🌐 C++ | 📅 2026-09-02: 简单的C++几何处理库。
+* [assimp](https://github.com/assimp/assimp) ⭐ 13,177 | 🐛 534 | 🌐 C++ | 📅 2026-09-04: 开放资产导入库（assimp）是跨平台的3D模型导入库，旨在为不同的3D资产文件格式提供通用的API。
+* [Skia](https://github.com/google/skia) ⭐ 10,918 | 🐛 50 | 🌐 C++ | 📅 2026-09-05 用于绘制文字，图形和图像的完整的2D图形库。
+* [NanoVG](https://github.com/memononen/nanovg) ⭐ 5,705 | 🐛 321 | 🌐 C | 📅 2026-02-19: OpenGL之上的抗锯齿2D矢量图形库，用于UI和可视化。
+* [magnum](https://github.com/mosra/magnum) ⭐ 5,205 | 🐛 76 | 🌐 C++ | 📅 2026-08-23: 用于游戏和数据可视化的轻量级和模块化的 C++ 11 /C++ 14图形中间件。
+* [libigl](https://github.com/libigl/libigl) ⭐ 5,081 | 🐛 153 | 🌐 C++ | 📅 2026-09-04: 简单的C++几何处理库。
 * [urho3d](https://github.com/urho3d/Urho3D) ⚠️ Archived 跨平台的渲染和游戏引擎。
-* [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,425 | 🐛 24 | 🌐 Batchfile | 📅 2026-09-01: 现代、跨平台、低阶的3D图形库。
+* [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,423 | 🐛 24 | 🌐 Batchfile | 📅 2026-09-01: 现代、跨平台、低阶的3D图形库。
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) ⭐ 3,071 | 🐛 58 | 🌐 C++ | 📅 2026-08-19: Pixar的库，用于评估和渲染CPU和GPU上的细分曲面。
 * [Yocto/GL](https://github.com/xelatihy/yocto-gl) ⭐ 2,925 | 🐛 14 | 🌐 C++ | 📅 2024-02-21: 用于数据驱动的基于物理图形的微型C++库。
 * [DirectXTK](https://github.com/Microsoft/DirectXTK) ⭐ 2,853 | 🐛 33 | 🌐 C++ | 📅 2026-09-01: 用于在C++中编写DirectX 11.x代码的帮助类的集合。
 * [LLGL](https://github.com/LukasBanana/LLGL) ⭐ 2,630 | 🐛 8 | 🌐 C++ | 📅 2026-09-04: 低水平图形库（LLGL）是现代图形API的薄抽象层。
-* [Blend2D](https://github.com/blend2d/blend2d) ⭐ 1,984 | 🐛 39 | 🌐 C++ | 📅 2025-11-29: 由JIT编译器提供技术支持的2D矢量图形引擎。
-* [bs::framework](https://github.com/GameFoundry/bsf) ⭐ 1,922 | 🐛 2 | 🌐 C++ | 📅 2026-09-02: 用于实时图形应用开发的现代C++14库。
-* [herebedragons](https://github.com/kosua20/herebedragons) ⭐ 1,795 | 🐛 3 | 🌐 C | 📅 2025-07-11: 使用各种引擎、框架或者API实现的基本3D场景。
-* [Horde3D](https://github.com/horde3d/Horde3D) ⭐ 1,586 | 🐛 22 | 🌐 C++ | 📅 2026-07-30 一个小型的3D渲染和动画引擎。
+* [Blend2D](https://github.com/blend2d/blend2d) ⭐ 1,984 | 🐛 39 | 🌐 C++ | 📅 2026-09-04: 由JIT编译器提供技术支持的2D矢量图形引擎。
+* [bs::framework](https://github.com/GameFoundry/bsf) ⭐ 1,922 | 🐛 3 | 🌐 C++ | 📅 2026-09-04: 用于实时图形应用开发的现代C++14库。
+* [herebedragons](https://github.com/kosua20/herebedragons) ⭐ 1,796 | 🐛 3 | 🌐 C | 📅 2025-07-11: 使用各种引擎、框架或者API实现的基本3D场景。
+* [Horde3D](https://github.com/horde3d/Horde3D) ⭐ 1,586 | 🐛 23 | 🌐 C++ | 📅 2026-07-30 一个小型的3D渲染和动画引擎。
 * [Ion](https://github.com/google/ion) ⚠️ Archived: 小型高效的库集合，用于构建使用3D图形的跨平台客户端或服务器应用程序。
 * [TinySpline](https://github.com/msteinbeck/tinyspline) ⭐ 1,350 | 🐛 26 | 🌐 C | 📅 2024-09-03: 小型但强大的ANSI C库，用于差值、转换和查询任意NURBS、B-样条函数和贝赛尔曲线。
 * [Partio](https://github.com/wdas/partio) ⭐ 496 | 🐛 3 | 🌐 C | 📅 2026-04-22: 用于处理粒子数据的库，支持大多数常见文件形式。
@@ -515,13 +515,13 @@ C++通用框架和库
 
 ### 图像处理
 
-* [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h) ⭐ 34,585 | 🐛 418 | 🌐 C | 📅 2026-08-02: STB单个头文件的图像加载库。
-* [Dlib](https://github.com/davisking/dlib) ⭐ 14,436 | 🐛 39 | 🌐 C++ | 📅 2026-08-11: 现代C++11的机器学习、计算机视觉、数值优化和深度学习工具包。
-* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) ⭐ 12,783 | 🐛 56 | 🌐 C++ | 📅 2026-06-28: 用于图像中人脸检测的开源库，其人脸检测的速度能达到1500FPS。
-* [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) ⭐ 4,415 | 🐛 16 | 🌐 C | 📅 2026-08-27: 使用SIMD指令来加速基线JPEG编码和解码的JPEG图像编解码器。
-* [OpenImageIO](https://github.com/OpenImageIO/oiio) ⭐ 2,354 | 🐛 183 | 🌐 C++ | 📅 2026-09-02: 强大的图像和纹理处理库，支持多种常见的有损和RAW格式。
-* [Simd](https://github.com/ermig1979/Simd) ⭐ 2,266 | 🐛 25 | 🌐 C++ | 📅 2026-09-03: 使用SIMD的C++图像处理库: SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON for ARM。
-* [Leptonica](https://github.com/DanBloomberg/leptonica) ⭐ 2,078 | 🐛 68 | 🌐 C | 📅 2026-09-02: Leptonica是一个包含软件的开源库，其广泛应用于图像处理和图形分析应用程序。
+* [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h) ⭐ 34,592 | 🐛 418 | 🌐 C | 📅 2026-08-02: STB单个头文件的图像加载库。
+* [Dlib](https://github.com/davisking/dlib) ⭐ 14,435 | 🐛 39 | 🌐 C++ | 📅 2026-08-11: 现代C++11的机器学习、计算机视觉、数值优化和深度学习工具包。
+* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) ⭐ 12,784 | 🐛 56 | 🌐 C++ | 📅 2026-06-28: 用于图像中人脸检测的开源库，其人脸检测的速度能达到1500FPS。
+* [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) ⭐ 4,419 | 🐛 16 | 🌐 C | 📅 2026-08-27: 使用SIMD指令来加速基线JPEG编码和解码的JPEG图像编解码器。
+* [OpenImageIO](https://github.com/OpenImageIO/oiio) ⭐ 2,358 | 🐛 183 | 🌐 C++ | 📅 2026-09-04: 强大的图像和纹理处理库，支持多种常见的有损和RAW格式。
+* [Simd](https://github.com/ermig1979/Simd) ⭐ 2,268 | 🐛 25 | 🌐 C++ | 📅 2026-09-04: 使用SIMD的C++图像处理库: SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON for ARM。
+* [Leptonica](https://github.com/DanBloomberg/leptonica) ⭐ 2,079 | 🐛 68 | 🌐 C | 📅 2026-09-02: Leptonica是一个包含软件的开源库，其广泛应用于图像处理和图形分析应用程序。
 * [GD](https://github.com/libgd/libgd) ⭐ 985 | 🐛 107 | 🌐 C | 📅 2026-08-25: GD图形库，有名的用于PHP中图形加载/操作和缩略图生成。
 * [Video++](https://github.com/matt-42/vpp) ⭐ 740 | 🐛 4 | 🌐 C++ | 📅 2019-02-07: C++ 14高性能的视频和图像处理库。
 * [VIGRA](https://github.com/ukoethe/vigra) ⭐ 442 | 🐛 99 | 🌐 C++ | 📅 2026-04-25: 用于图像分析通用C++计算机视觉库。
@@ -544,19 +544,19 @@ C++通用框架和库
 ### 国际化
 
 * [utf8.h](https://github.com/sheredom/utf8.h) ⭐ 1,980 | 🐛 8 | 🌐 C++ | 📅 2026-08-26: C和C++的单个头文件的utf8字符串函数。
-* [utf8proc](https://github.com/JuliaStrings/utf8proc) ⭐ 1,294 | 🐛 35 | 🌐 C | 📅 2026-07-22: 干净的C库，用于处理UTF-8 Unicode数据。
+* [utf8proc](https://github.com/JuliaStrings/utf8proc) ⭐ 1,295 | 🐛 35 | 🌐 C | 📅 2026-07-22: 干净的C库，用于处理UTF-8 Unicode数据。
 * [gettext](http://www.gnu.org/software/gettext/): GNU \`gettext'。
 * [IBM ICU](http://site.icu-project.org/): 提供Unicode 和全球化支持的C、C++ 和Java库。
 * [libiconv](http://www.gnu.org/software/libiconv/): 用于不同字符编码之间的编码转换库。
 
 ## 进程间通信
 
-* [gRPC](https://github.com/grpc/grpc) ⭐ 45,290 | 🐛 1,350 | 🌐 C++ | 📅 2026-09-03: 高性能、开源、通用的RPC框架。
-* [Cap'n Proto](https://github.com/capnproto/capnproto) ⭐ 13,171 | 🐛 325 | 🌐 C++ | 📅 2026-09-03: 快速的数据交换格式和基于功能的RPC系统。
+* [gRPC](https://github.com/grpc/grpc) ⭐ 45,294 | 🐛 1,354 | 🌐 C++ | 📅 2026-09-05: 高性能、开源、通用的RPC框架。
+* [Cap'n Proto](https://github.com/capnproto/capnproto) ⭐ 13,170 | 🐛 324 | 🌐 C++ | 📅 2026-09-03: 快速的数据交换格式和基于功能的RPC系统。
 * [nanomsg](https://github.com/nanomsg/nanomsg) ⭐ 6,295 | 🐛 0 | 🌐 C | 📅 2026-08-02: 好几个“可扩展协议”的简单高性能实现。
 * [nng](https://github.com/nanomsg/nng) ⭐ 4,663 | 🐛 57 | 🌐 C | 📅 2026-09-02: nanomsg的下一代，轻量级、无代理消息的传递库。
-* [Ice](https://github.com/zeroc-ice/ice) ⭐ 2,191 | 🐛 150 | 🌐 C++ | 📅 2026-09-03: 全面的RPC框架，支持C++、C＃、Java、JavaScript、Python等。
-* [rpclib](https://github.com/rpclib/rpclib) ⭐ 1,840 | 🐛 108 | 🌐 C++ | 📅 2024-04-09: 现代C++的msgpack-RPC服务器和客户端库。
+* [Ice](https://github.com/zeroc-ice/ice) ⭐ 2,192 | 🐛 158 | 🌐 C++ | 📅 2026-09-04: 全面的RPC框架，支持C++、C＃、Java、JavaScript、Python等。
+* [rpclib](https://github.com/rpclib/rpclib) ⭐ 1,841 | 🐛 108 | 🌐 C++ | 📅 2024-04-09: 现代C++的msgpack-RPC服务器和客户端库。
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) ⭐ 985 | 🐛 20 | 🌐 C++ | 📅 2024-01-02: 用于C++服务器和客户端的JSON-RPC框架。
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2015-08-05: C / C++函数的简单RPC封装生成器。
 * [eCAL](https://github.com/continental/ecal) ⚠️ Archived: 发布/订阅，客户端/服务器，C++/Python/C#，各种消息协议（protobuf, capnproto ..）。
@@ -566,20 +566,20 @@ C++通用框架和库
 
 ### Json
 
-* [json](https://github.com/nlohmann/json) ⭐ 50,525 | 🐛 144 | 🌐 C++ | 📅 2026-09-03: 用于现代C++的JSON。
-* [simdjson](https://github.com/lemire/simdjson) ⭐ 24,235 | 🐛 132 | 🌐 C++ | 📅 2026-09-03: 极快的JSON库，可以千兆字节每秒的速度解析JSON。
+* [json](https://github.com/nlohmann/json) ⭐ 50,539 | 🐛 147 | 🌐 C++ | 📅 2026-09-03: 用于现代C++的JSON。
+* [simdjson](https://github.com/lemire/simdjson) ⭐ 24,236 | 🐛 135 | 🌐 C++ | 📅 2026-09-04: 极快的JSON库，可以千兆字节每秒的速度解析JSON。
 * [RapidJSON](https://github.com/miloyip/rapidjson) ⭐ 15,121 | 🐛 792 | 🌐 C++ | 📅 2025-02-05: 用于C++的快速JSON 解析生成器，包含SAX和DOM两种风格的API。
-* [cJSON](https://github.com/DaveGamble/cJSON) ⭐ 12,970 | 🐛 359 | 🌐 C | 📅 2026-04-09: ANSI C的超轻量级JSON解析器。
-* [JsonCpp](https://github.com/open-source-parsers/jsoncpp) ⭐ 8,887 | 🐛 111 | 🌐 C++ | 📅 2026-08-20: 可与JSON交互的C++库。
-* [Jsmn](https://github.com/zserge/jsmn) ⭐ 4,183 | 🐛 98 | 🌐 C | 📅 2024-06-09: C语言中的简约JSON解析器。
-* [Jansson](https://github.com/akheron/jansson) ⭐ 3,360 | 🐛 128 | 🌐 C | 📅 2026-07-09: 进行编解码和处理Json数据的C语言库。
+* [cJSON](https://github.com/DaveGamble/cJSON) ⭐ 12,972 | 🐛 359 | 🌐 C | 📅 2026-04-09: ANSI C的超轻量级JSON解析器。
+* [JsonCpp](https://github.com/open-source-parsers/jsoncpp) ⭐ 8,888 | 🐛 111 | 🌐 C++ | 📅 2026-08-20: 可与JSON交互的C++库。
+* [Jsmn](https://github.com/zserge/jsmn) ⭐ 4,185 | 🐛 98 | 🌐 C | 📅 2024-06-09: C语言中的简约JSON解析器。
+* [Jansson](https://github.com/akheron/jansson) ⭐ 3,362 | 🐛 128 | 🌐 C | 📅 2026-07-09: 进行编解码和处理Json数据的C语言库。
 * [json-c](https://github.com/json-c/json-c) ⭐ 3,288 | 🐛 20 | 🌐 C | 📅 2026-09-02: C中的JSON实现。
 * [json11](https://github.com/dropbox/json11) ⚠️ Archived: 一个迷你的C++11 JSON库。
 * [YAJL](https://github.com/lloyd/yajl) ⭐ 2,227 | 🐛 164 | 🌐 C | 📅 2026-08-24: C语言中快速流JSON解析库。
-* [LIBUCL](https://github.com/vstakhov/libucl) ⭐ 1,743 | 🐛 115 | 🌐 C | 📅 2026-08-24: 通用配置库解析器。
+* [LIBUCL](https://github.com/vstakhov/libucl) ⭐ 1,743 | 🐛 116 | 🌐 C | 📅 2026-08-24: 通用配置库解析器。
 * [parson](https://github.com/kgabis/parson) ⭐ 1,467 | 🐛 29 | 🌐 C | 📅 2024-05-11: 用C编写的轻量级的JSON库。
-* [json-parser](https://github.com/udp/json-parser) ⭐ 1,337 | 🐛 34 | 🌐 C | 📅 2026-09-04: 用可移植的ANSI C编写的JSON解析器，占用内存非常少。
-* [PicoJSON](https://github.com/kazuho/picojson) ⭐ 1,157 | 🐛 61 | 🌐 C++ | 📅 2024-07-13: C++中JSON解析序列化，只包含头文件。
+* [json-parser](https://github.com/udp/json-parser) ⭐ 1,337 | 🐛 33 | 🌐 C | 📅 2026-09-04: 用可移植的ANSI C编写的JSON解析器，占用内存非常少。
+* [PicoJSON](https://github.com/kazuho/picojson) ⭐ 1,158 | 🐛 61 | 🌐 C++ | 📅 2024-07-13: C++中JSON解析序列化，只包含头文件。
 * [jsoncons](https://github.com/danielaparker/jsoncons) ⭐ 854 | 🐛 17 | 🌐 C++ | 📅 2026-08-15: 使用JSONPointer、JSONPatch、JSONPath和JMESPath的JSON和类似JSON二进制格式的C++库，只有头文件。
 * [json.h](https://github.com/sheredom/json.h) ⭐ 839 | 🐛 3 | 🌐 C | 📅 2026-09-02: 在C和C++中解析JSON的简单的单头文件/单源文件的解决方案。
 * [frozen](https://github.com/cesanta/frozen) ⭐ 775 | 🐛 34 | 🌐 C | 📅 2026-01-05:  C/C++的Json解析生成器。
@@ -599,14 +599,14 @@ C++通用框架和库
 
 ### 日志
 
-* [spdlog](https://github.com/gabime/spdlog) ⭐ 29,568 | 🐛 51 | 🌐 C++ | 📅 2026-08-08: 超级快的C++日志库，只包含头文件。
+* [spdlog](https://github.com/gabime/spdlog) ⭐ 29,572 | 🐛 48 | 🌐 C++ | 📅 2026-09-04: 超级快的C++日志库，只包含头文件。
 * [glog](https://github.com/google/glog) ⚠️ Archived: Google日志模块的C++实现。
 * [Easylogging++](https://github.com/easylogging/easyloggingpp) ⚠️ Archived: 适用于C++ 11（或更高版本）应用程序的超轻量级、高性能的日志库。
-* [Quill](https://github.com/odygrd/quill) ⭐ 3,017 | 🐛 7 | 🌐 C++ | 📅 2026-08-31: 异步、跨平台、低时延的日志库。
+* [Quill](https://github.com/odygrd/quill) ⭐ 3,021 | 🐛 8 | 🌐 C++ | 📅 2026-08-31: 异步、跨平台、低时延的日志库。
 * [plog](https://github.com/SergiusTheBest/plog) ⭐ 2,584 | 🐛 58 | 🌐 C++ | 📅 2026-08-07: C++可移植且简单的日志，少于1000行代码。
 * [loguru](https://github.com/emilk/loguru) ⭐ 1,908 | 🐛 92 | 🌐 C++ | 📅 2026-07-31: 轻量级的C++日志库。
 * [log4cplus](https://github.com/log4cplus/log4cplus) ⭐ 1,729 | 🐛 62 | 🌐 C++ | 📅 2026-07-11: 易于使用的C++日志API，可提供对日志管理和配置的线程安全、灵活且任意粒度的控制。
-* [G3log](https://github.com/KjellKod/g3log) ⭐ 961 | 🐛 1 | 🌐 C++ | 📅 2026-09-01: 具有动态接收模块的异步记录器。
+* [G3log](https://github.com/KjellKod/g3log) ⭐ 961 | 🐛 0 | 🌐 C++ | 📅 2026-09-04: 具有动态接收模块的异步记录器。
 * [reckless](https://github.com/mattiasflodin/reckless) ⭐ 510 | 🐛 14 | 🌐 C++ | 📅 2023-10-22: C++低延迟、高吞吐量、异步的日志库。
 * [Blackhole](https://github.com/3Hren/blackhole) ⭐ 204 | 🐛 24 | 🌐 C++ | 📅 2018-12-12: 基于属性的日志框架，旨在快速、模块化和高度可定制。
 * [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html): 设计非常模块化，并且具有扩展性。
@@ -616,14 +616,14 @@ C++通用框架和库
 
 ### 机器学习
 
-* [OpenCV](https://github.com/Itseez/opencv) ⭐ 90,708 | 🐛 2,763 | 🌐 C++ | 📅 2026-09-03: 开源计算机视觉库。
+* [OpenCV](https://github.com/Itseez/opencv) ⭐ 90,714 | 🐛 2,768 | 🌐 C++ | 📅 2026-09-04: 开源计算机视觉库。
 * [Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31: 快速的神经网络框架。
-* [xgboost](https://github.com/dmlc/xgboost) ⭐ 28,730 | 🐛 428 | 🌐 C++ | 📅 2026-09-03: 用于Python、R、Java、Scala、C++等的可扩展、便携式和分布式梯度增强（GBDT，GBRT或GBM）的库。在单机、Hadoop、Spark、Flink和DataFlow上运行。
+* [xgboost](https://github.com/dmlc/xgboost) ⭐ 28,733 | 🐛 429 | 🌐 C++ | 📅 2026-09-04: 用于Python、R、Java、Scala、C++等的可扩展、便携式和分布式梯度增强（GBDT，GBRT或GBM）的库。在单机、Hadoop、Spark、Flink和DataFlow上运行。
 * [darknet](https://github.com/pjreddie/darknet) ⭐ 26,499 | 🐛 1,976 | 🌐 C | 📅 2024-05-03: 用C和CUDA编写的开源神经网络框架。
-* [Dlib](https://github.com/davisking/dlib) ⭐ 14,436 | 🐛 39 | 🌐 C++ | 📅 2026-08-11: 现代C++ 11的机器学习、计算机视觉、数值优化和深度学习的工具包。
-* [CCV](https://github.com/liuliu/ccv) ⭐ 7,242 | 🐛 80 | 🌐 C++ | 📅 2026-09-03: 基于C /缓存/核心的计算机视觉库，现代计算机视觉库。
-* [flashlight](https://github.com/facebookresearch/flashlight) ⭐ 5,467 | 🐛 126 | 🌐 C++ | 📅 2026-06-22: 来自Facebook AI研究中心的快速、灵活的机器学习库，其完全用C++编写，基于ArrayFire张量库。
-* [libsvm](https://github.com/cjlin1/libsvm) ⭐ 4,709 | 🐛 112 | 🌐 Java | 📅 2025-12-29: 支持向量机的简单、易用、高效的库。
+* [Dlib](https://github.com/davisking/dlib) ⭐ 14,435 | 🐛 39 | 🌐 C++ | 📅 2026-08-11: 现代C++ 11的机器学习、计算机视觉、数值优化和深度学习的工具包。
+* [CCV](https://github.com/liuliu/ccv) ⭐ 7,242 | 🐛 80 | 🌐 C++ | 📅 2026-09-04: 基于C /缓存/核心的计算机视觉库，现代计算机视觉库。
+* [flashlight](https://github.com/facebookresearch/flashlight) ⭐ 5,468 | 🐛 126 | 🌐 C++ | 📅 2026-06-22: 来自Facebook AI研究中心的快速、灵活的机器学习库，其完全用C++编写，基于ArrayFire张量库。
+* [libsvm](https://github.com/cjlin1/libsvm) ⭐ 4,709 | 🐛 113 | 🌐 Java | 📅 2025-12-29: 支持向量机的简单、易用、高效的库。
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) ⭐ 3,080 | 🐛 423 | 🌐 C++ | 📅 2023-12-19: Shogun 机器学习工具。
 * [VLFeat](https://github.com/vlfeat/vlfeat) ⭐ 1,647 | 🐛 149 | 🌐 C | 📅 2022-08-25: VLFeat开源库实现了流行的计算机视觉算法，这些算法专门用于图像理解以及局部特征提取和匹配。
 * [RNNLIB](https://github.com/szcom/rnnlib) ⭐ 902 | 🐛 31 | 🌐 C | 📅 2020-02-10: RNNLIB是用于序列学习问题的递归神经网络库。
@@ -636,16 +636,16 @@ C++通用框架和库
 
 ### 数学
 
-* [Dlib](https://github.com/davisking/dlib) ⭐ 14,436 | 🐛 39 | 🌐 C++ | 📅 2026-08-11: 现代C++11的机器学习、计算机视觉、数值优化和深度学习工具包。
-* [GLM](https://github.com/g-truc/glm) ⭐ 11,198 | 🐛 126 | 🌐 C++ | 📅 2026-04-07: 只包含头文件的C++数学库，可与OpenGL的GLSL数学匹配并互操作。
-* [QuantLib](https://github.com/lballabio/quantlib) ⭐ 7,573 | 🐛 54 | 🌐 C++ | 📅 2026-09-03v: 用于计量金融的免费/开源库。
-* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,569 | 🐛 113 | 🌐 C | 📅 2026-09-03: 基于GotoBLAS2 1.13 BSD版本的优化BLAS库。
-* [CGAL](https://github.com/CGAL/cgal) ⭐ 6,031 | 🐛 682 | 🌐 C++ | 📅 2026-09-03: 高效，可靠的几何算法集合。
-* [xtensor](https://github.com/QuantStack/xtensor) ⭐ 3,762 | 🐛 425 | 🌐 C++ | 📅 2026-08-27: 受NumPy语法启发的C++ 14库，用于使用多维数组表达式进行数值分析。
+* [Dlib](https://github.com/davisking/dlib) ⭐ 14,435 | 🐛 39 | 🌐 C++ | 📅 2026-08-11: 现代C++11的机器学习、计算机视觉、数值优化和深度学习工具包。
+* [GLM](https://github.com/g-truc/glm) ⭐ 11,194 | 🐛 126 | 🌐 C++ | 📅 2026-04-07: 只包含头文件的C++数学库，可与OpenGL的GLSL数学匹配并互操作。
+* [QuantLib](https://github.com/lballabio/quantlib) ⭐ 7,575 | 🐛 54 | 🌐 C++ | 📅 2026-09-03v: 用于计量金融的免费/开源库。
+* [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,572 | 🐛 114 | 🌐 C | 📅 2026-09-03: 基于GotoBLAS2 1.13 BSD版本的优化BLAS库。
+* [CGAL](https://github.com/CGAL/cgal) ⭐ 6,033 | 🐛 685 | 🌐 C++ | 📅 2026-09-04: 高效，可靠的几何算法集合。
+* [xtensor](https://github.com/QuantStack/xtensor) ⭐ 3,763 | 🐛 425 | 🌐 C++ | 📅 2026-08-27: 受NumPy语法启发的C++ 14库，用于使用多维数组表达式进行数值分析。
 * [autodiff](https://github.com/autodiff/autodiff) ⭐ 1,955 | 🐛 109 | 🌐 C++ | 📅 2025-01-27: 用于自动微分的现代、快速且富有表现力的C++库。
 * [TinyExpr](https://github.com/codeplea/tinyexpr) ⭐ 1,921 | 🐛 0 | 🌐 C | 📅 2026-08-31: 用于解析和评估字符串中的数学表达式的C库。
 * [Vc](https://github.com/VcDevel/Vc) ⭐ 1,541 | 🐛 88 | 🌐 C++ | 📅 2026-07-07: C++的SIMD矢量类。
-* [SymEngine](https://github.com/symengine/symengine) ⭐ 1,406 | 🐛 253 | 🌐 C++ | 📅 2026-09-01: 快速符号处理库，用C++重写了SymPy的核心。
+* [SymEngine](https://github.com/symengine/symengine) ⭐ 1,406 | 🐛 252 | 🌐 C++ | 📅 2026-09-04: 快速符号处理库，用C++重写了SymPy的核心。
 * [linmath.h](https://github.com/datenwolf/linmath.h) ⭐ 1,061 | 🐛 20 | 🌐 C | 📅 2023-05-31: 精益线性数学库，主要用于图形编程。
 * [linalg.h](https://github.com/sgorsten/linalg) ⭐ 961 | 🐛 6 | 🌐 C++ | 📅 2023-07-02: C++的单头文件、公共域、短向量数学库。
 * [Klein](https://github.com/jeremyong/klein) ⚠️ Archived: 快速、SIMD优化的C++ 17几何代数库，用于点、线和平面投影、相交、连接、刚体运动等。
@@ -653,7 +653,7 @@ C++通用框架和库
 * [MIRACL](https://github.com/CertiVox/MIRACL) ⭐ 702 | 🐛 75 | 🌐 C | 📅 2021-05-07: 多精度整数和有理数算法加密库。
 * [StatsLib](https://github.com/kthohr/stats) ⭐ 558 | 🐛 2 | 🌐 C++ | 📅 2023-05-14: 统计分布函数的C++库，只包含头文件。
 * [universal](https://github.com/stillwater-sc/universal) ⭐ 500 | 🐛 25 | 🌐 C++ | 📅 2026-08-31: 只包含头文件的C++ 14库，实现任意假定算数。假定数值系统是一个锥形浮点，比IEEE浮点更有效。假定数使可复现的计算科学成为可能。
-* [Apophenia](https://github.com/b-k/apophenia) ⭐ 209 | 🐛 13 | 🌐 C | 📅 2025-01-22: 用于统计和科学计算的C库。
+* [Apophenia](https://github.com/b-k/apophenia) ⭐ 208 | 🐛 13 | 🌐 C | 📅 2025-01-22: 用于统计和科学计算的C库。
 * [Armadillo](http://arma.sourceforge.net/): 用于线性代数和科学计算的快速C++库。
 * [blaze](https://code.google.com/p/blaze-lib/): 高性能的C++数学库，用于密集和稀疏算法。
 * [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html): 在C++中提供更高范围/精度的整数、有理数和浮点数类型，只包含头文件或者在GMP / MPFR / LibTomMath后端。
@@ -671,22 +671,22 @@ C++通用框架和库
 
 ## 内存分配
 
-* [mimalloc](https://github.com/microsoft/mimalloc) ⭐ 13,347 | 🐛 307 | 🌐 C | 📅 2026-09-03: 具有出色性能的紧凑型通用分配器。
-* [jemalloc](https://github.com/jemalloc/jemalloc) ⭐ 11,092 | 🐛 365 | 🌐 C | 📅 2026-09-02: 通用的malloc（3）实现，强调避免存储碎片和可扩展的并发支持。
+* [mimalloc](https://github.com/microsoft/mimalloc) ⭐ 13,348 | 🐛 307 | 🌐 C | 📅 2026-09-04: 具有出色性能的紧凑型通用分配器。
+* [jemalloc](https://github.com/jemalloc/jemalloc) ⭐ 11,094 | 🐛 365 | 🌐 C | 📅 2026-09-02: 通用的malloc（3）实现，强调避免存储碎片和可扩展的并发支持。
 * [Boehm GC](https://github.com/ivmai/bdwgc) ⭐ 3,536 | 🐛 188 | 🌐 C | 📅 2026-09-02: C和C++的保守的垃圾回收器。
 * [memory-allocators](https://github.com/mtrebi/memory-allocators) ⭐ 1,992 | 🐛 17 | 🌐 C++ | 📅 2026-08-20: 自定义内存分配器，可提高动态内存分配的性能。
-* [C Smart Pointers](https://github.com/Snaipe/libcsptr) ⭐ 1,729 | 🐛 13 | 🌐 CMake | 📅 2022-11-02: （GNU）C编程语言的智能指针。
+* [C Smart Pointers](https://github.com/Snaipe/libcsptr) ⭐ 1,730 | 🐛 13 | 🌐 CMake | 📅 2022-11-02: （GNU）C编程语言的智能指针。
 * [memory](https://github.com/foonathan/memory) ⭐ 1,619 | 🐛 10 | 🌐 C++ | 📅 2025-05-29: 兼容STL的C++内存分配器库。
 * [Hoard](https://github.com/emeryberger/Hoard) ⭐ 1,250 | 🐛 1 | 🌐 C++ | 📅 2026-07-19: 快速、可扩展和节约内存的Malloc，支持Linux、Windows和Mac。
-* [tgc](https://github.com/orangeduck/tgc) ⭐ 1,098 | 🐛 7 | 🌐 C | 📅 2023-06-26: 用 \~500 LOC编写的C语言微型垃圾回收器。
+* [tgc](https://github.com/orangeduck/tgc) ⭐ 1,099 | 🐛 7 | 🌐 C | 📅 2023-06-26: 用 \~500 LOC编写的C语言微型垃圾回收器。
 
 ### 多媒体
 
-* [QtAv](https://github.com/wang-bin/QtAV) ⭐ 4,255 | 🐛 523 | 🌐 C++ | 📅 2025-08-15: 基于Qt和FFmpeg的多媒体播放框架，能够帮助你轻而易举地编写出一个播放器。
-* [TagLib](https://github.com/taglib/taglib) ⭐ 1,449 | 🐛 40 | 🌐 C++ | 📅 2026-08-30: 用于读取和编辑几种流行音频格式的元数据的库。
+* [QtAv](https://github.com/wang-bin/QtAV) ⭐ 4,256 | 🐛 523 | 🌐 C++ | 📅 2025-08-15: 基于Qt和FFmpeg的多媒体播放框架，能够帮助你轻而易举地编写出一个播放器。
+* [TagLib](https://github.com/taglib/taglib) ⭐ 1,450 | 🐛 40 | 🌐 C++ | 📅 2026-08-30: 用于读取和编辑几种流行音频格式的元数据的库。
 * [libass](https://github.com/libass/libass) ⭐ 1,164 | 🐛 168 | 🌐 C | 📅 2026-08-22: ASS / SSA字幕格式的便携式字幕渲染器。
 * [libass](https://github.com/libass/libass) ⭐ 1,164 | 🐛 168 | 🌐 C | 📅 2026-08-22: 处理多媒体内容（例如音频、视频、字幕和相关元数据）的库和工具的集合。
-* [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) ⭐ 791 | 🐛 350 | 🌐 C++ | 📅 2026-08-28: 用于视频和音频文件中最相关的技术和标签数据的方便统一显示。
+* [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) ⭐ 793 | 🐛 350 | 🌐 C++ | 📅 2026-08-28: 用于视频和音频文件中最相关的技术和标签数据的方便统一显示。
 * [GStreamer](http://gstreamer.freedesktop.org/): 构建媒体处理组件图形的库。
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/): 使用开放标准协议(RTP/RTCP, RTSP, SIP) 的多媒体流库。
 * [libVLC](https://wiki.videolan.org/LibVLC): libVLC (VLC SDK)媒体框架。
@@ -697,29 +697,29 @@ C++通用框架和库
 
 * [uWebSockets](https://github.com/uNetworking/uWebSockets) ⭐ 18,980 | 🐛 48 | 🌐 C++ | 📅 2026-09-03: µWS是最轻量级、高效和可伸缩的WebSocket和HTTP服务器的实现之一。
 * [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md) ⭐ 16,895 | 🐛 196 | 🌐 C | 📅 2026-06-23: 快速、可靠的ARQ协议，可帮助应用程序减少网络延迟。
-* [cpp-httplib](https://github.com/yhirose/cpp-httplib) ⭐ 16,808 | 🐛 2 | 🌐 C++ | 📅 2026-09-03: 单文件的C++ 11 HTTP / HTTPS服务器库，只包含头文件。
-* [Muduo](https://github.com/chenshuo/muduo) ⭐ 16,229 | 🐛 86 | 🌐 C++ | 📅 2025-12-23: 用于Linux多线程服务器的C++非阻塞网络库。
-* [Mongoose](https://github.com/cesanta/mongoose) ⭐ 13,025 | 🐛 0 | 🌐 C | 📅 2026-09-03<span style="text-decoration: underline;">: </span>非常轻量级的网络服务器。
-* [H2O](https://github.com/h2o/h2o) ⭐ 11,540 | 🐛 732 | 🌐 C | 📅 2026-08-04: 优化的HTTP服务器，支持HTTP / 1.x和HTTP / 2。它也可以用作库。
-* [Proxygen](https://github.com/facebook/proxygen) ⭐ 8,375 | 🐛 39 | 🌐 C++ | 📅 2026-09-03: Facebook的C++ HTTP库集合，包括易于使用的HTTP服务器。
+* [cpp-httplib](https://github.com/yhirose/cpp-httplib) ⭐ 16,809 | 🐛 2 | 🌐 C++ | 📅 2026-09-03: 单文件的C++ 11 HTTP / HTTPS服务器库，只包含头文件。
+* [Muduo](https://github.com/chenshuo/muduo) ⭐ 16,228 | 🐛 86 | 🌐 C++ | 📅 2025-12-23: 用于Linux多线程服务器的C++非阻塞网络库。
+* [Mongoose](https://github.com/cesanta/mongoose) ⭐ 13,027 | 🐛 0 | 🌐 C | 📅 2026-09-04<span style="text-decoration: underline;">: </span>非常轻量级的网络服务器。
+* [H2O](https://github.com/h2o/h2o) ⭐ 11,541 | 🐛 732 | 🌐 C | 📅 2026-08-04: 优化的HTTP服务器，支持HTTP / 1.x和HTTP / 2。它也可以用作库。
+* [Proxygen](https://github.com/facebook/proxygen) ⭐ 8,376 | 🐛 39 | 🌐 C++ | 📅 2026-09-04: Facebook的C++ HTTP库集合，包括易于使用的HTTP服务器。
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) ⚠️ Archived: C++ REST SDK（以前称为Casablanca）。
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) ⭐ 7,718 | 🐛 483 | 🌐 C++ | 📅 2026-05-04: 基于C++/Boost Aiso的websocket 客户端/服务器库。
-* [cpr](https://github.com/whoshuu/cpr) ⭐ 7,424 | 🐛 87 | 🌐 C++ | 📅 2026-08-28: 现代C++ HTTP请求库，具有简单但功能强大的接口。模仿Python Requests模块。
+* [cpr](https://github.com/whoshuu/cpr) ⭐ 7,425 | 🐛 87 | 🌐 C++ | 📅 2026-08-28: 现代C++ HTTP请求库，具有简单但功能强大的接口。模仿Python Requests模块。
 * [HTTP Parser](https://github.com/nodejs/http-parser) ⚠️ Archived: C的http请求/响应解析器。
-* [libwebsockets](https://github.com/warmcat/libwebsockets) ⭐ 5,323 | 🐛 229 | 🌐 C | 📅 2026-09-03: 提供客户端和服务器库的轻量级纯C WebSocket实现。
+* [libwebsockets](https://github.com/warmcat/libwebsockets) ⭐ 5,324 | 🐛 229 | 🌐 C | 📅 2026-09-04: 提供客户端和服务器库的轻量级纯C WebSocket实现。
 * [nghttp2](https://github.com/nghttp2/nghttp2) ⭐ 5,046 | 🐛 46 | 🌐 C++ | 📅 2026-08-24: HTTP / 2 C库。
 * [Boost.Beast](https://github.com/boostorg/beast) ⭐ 4,821 | 🐛 105 | 🌐 C++ | 📅 2026-09-01: 在C++ 11中基于Boost.Asio构建的HTTP和WebSocket。
-* [DPDK](https://github.com/DPDK/dpdk) ⭐ 4,406 | 🐛 24 | 🌐 C | 📅 2026-09-03: 用于快速打包处理的数据平面开发工具、库和驱动程序。
+* [DPDK](https://github.com/DPDK/dpdk) ⭐ 4,408 | 🐛 24 | 🌐 C | 📅 2026-09-04: 用于快速打包处理的数据平面开发工具、库和驱动程序。
 * [evpp](https://github.com/Qihoo360/evpp) ⭐ 3,773 | 🐛 150 | 🌐 C++ | 📅 2024-04-10: 具有TCP / UDP / HTTP协议的C++高性能网络。
 * [RakNet](https://github.com/OculusVR/RakNet) ⚠️ Archived: 为游戏开发人员提供的跨平台的开源C++网络引擎。
-* [ENet](https://github.com/lsalzman/enet) ⭐ 3,260 | 🐛 98 | 🌐 C | 📅 2026-06-23: 可靠的UDP网络库。
-* [libpcap](https://github.com/the-tcpdump-group/libpcap) ⭐ 3,166 | 🐛 178 | 🌐 C | 📅 2026-09-02: 用于网络流量捕获的可移植C / C++库。
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,133 | 🐛 59 | 🌐 C++ | 📅 2026-09-03: 跨平台的C++网络嗅探以及数据包解析和构建的框架。
-* [Wangle](https://github.com/facebook/wangle) ⭐ 3,093 | 🐛 48 | 🌐 C++ | 📅 2026-09-03: 客户端/服务器应用程序框架，用于构建异步的、事件驱动的现代C++服务。
-* [PF\_RING™](https://github.com/ntop/PF_RING) ⭐ 2,965 | 🐛 44 | 🌐 C | 📅 2026-08-31: 高速打包处理框架。
+* [ENet](https://github.com/lsalzman/enet) ⭐ 3,261 | 🐛 98 | 🌐 C | 📅 2026-06-23: 可靠的UDP网络库。
+* [libpcap](https://github.com/the-tcpdump-group/libpcap) ⭐ 3,166 | 🐛 178 | 🌐 C | 📅 2026-09-04: 用于网络流量捕获的可移植C / C++库。
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,133 | 🐛 59 | 🌐 C++ | 📅 2026-09-04: 跨平台的C++网络嗅探以及数据包解析和构建的框架。
+* [Wangle](https://github.com/facebook/wangle) ⭐ 3,093 | 🐛 48 | 🌐 C++ | 📅 2026-09-04: 客户端/服务器应用程序框架，用于构建异步的、事件驱动的现代C++服务。
+* [PF\_RING™](https://github.com/ntop/PF_RING) ⭐ 2,966 | 🐛 44 | 🌐 C | 📅 2026-09-04: 高速打包处理框架。
 * [wdt](https://github.com/facebook/wdt) ⭐ 2,956 | 🐛 82 | 🌐 C++ | 📅 2026-06-26: 可嵌入式库（和命令行工具），旨在通过多个TCP路径尽可能快地在2个系统之间传输数据。
 * [c-ares](https://github.com/c-ares/c-ares) ⭐ 2,188 | 🐛 73 | 🌐 C | 📅 2026-09-01: 用于异步DNS请求的C库。
-* [mTCP](https://github.com/mtcp-stack/mtcp) ⭐ 2,138 | 🐛 97 | 🌐 C | 📅 2024-07-04: 用于多核系统的高度可扩展的用户级TCP堆栈。
+* [mTCP](https://github.com/mtcp-stack/mtcp) ⭐ 2,137 | 🐛 97 | 🌐 C | 📅 2024-07-04: 用于多核系统的高度可扩展的用户级TCP堆栈。
 * [PicoHTTPParser](https://github.com/h2o/picohttpparser) ⭐ 2,106 | 🐛 22 | 🌐 C | 📅 2026-04-06: 微小、原始、快速的HTTP请求/响应解析器。
 * [Onion](https://github.com/davidmoreno/onion) ⭐ 2,090 | 🐛 62 | 🌐 C | 📅 2022-10-17: C语言HTTP服务器库，其设计为轻量级，易使用。
 * [Restbed](https://github.com/corvusoft/restbed) ⭐ 1,999 | 🐛 4 | 🌐 C++ | 📅 2026-06-23: C++ 11异步RESTful框架。
@@ -727,12 +727,12 @@ C++通用框架和库
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp) ⭐ 1,613 | 🐛 35 | 🌐 C++ | 📅 2025-01-03: 用于C++的简单REST客户端。它包装libcurl用于HTTP请求。
 * [Dyad.c](https://github.com/rxi/dyad) ⚠️ Archived: C的异步网络。
 * [Restinio](https://github.com/Stiffstream/restinio) ⭐ 1,302 | 🐛 41 | 🌐 C++ | 📅 2026-09-03: 只有头文件的C++ 14库，为您提供嵌入式HTTP / Websocket服务器。
-* [librdkafka](https://github.com/edenhill/librdkafka) ⭐ 1,041 | 🐛 584 | 🌐 C | 📅 2026-09-01: 用于C和C++的Apache Kafka客户端库。
+* [librdkafka](https://github.com/edenhill/librdkafka) ⭐ 1,040 | 🐛 585 | 🌐 C | 📅 2026-09-04: 用于C和C++的Apache Kafka客户端库。
 * [libhttpserver](https://github.com/etr/libhttpserver) ⭐ 951 | 🐛 9 | 🌐 C++ | 📅 2026-09-02: 用于创建嵌入式Rest HTTP服务器（以及更多）的C++库。
 * [MQTT-C](https://github.com/LiamBindle/MQTT-C) ⭐ 897 | 🐛 42 | 🌐 C | 📅 2024-05-12: 适用于嵌入式系统和类PC机的便携式MQTT C客户端。
 * [Seasocks](https://github.com/mattgodbolt/seasocks) ⭐ 787 | 🐛 43 | 🌐 C++ | 📅 2026-07-17: 具有WebSockets支持的简单、小型的C++嵌入式Web服务器。
 * [WAFer](https://github.com/riolet/WAFer) ⭐ 697 | 🐛 18 | 🌐 C | 📅 2017-12-07: 基于C语言的超轻型软件平台，用于可扩展的服务器端和网络应用。为C程序员考虑了node.js。
-* [tlse](https://github.com/eduardsui/tlse) ⭐ 685 | 🐛 36 | 🌐 C | 📅 2026-08-07: 单个C文件的TLS 1.2 / 1.3实现，使用tomcrypt作为加密库。
+* [tlse](https://github.com/eduardsui/tlse) ⭐ 686 | 🐛 36 | 🌐 C | 📅 2026-08-07: 单个C文件的TLS 1.2 / 1.3实现，使用tomcrypt作为加密库。
 * [curlcpp](https://github.com/JosephP91/curlcpp) ⭐ 674 | 🐛 11 | 🌐 C++ | 📅 2026-06-28: CURL（libcurl）的面向对象C++封装器。
 * [Tufão](https://github.com/vinipsmaker/tufao) ⭐ 595 | 🐛 35 | 🌐 C++ | 📅 2022-02-10: 基于Qt构建的C++异步Web框架。
 * [uriparser](https://github.com/uriparser/uriparser) ⭐ 417 | 🐛 13 | 🌐 C | 📅 2026-08-10: 严格符合RFC 3986的URI解析和处理库。
@@ -766,11 +766,11 @@ C++通用框架和库
 
 * [Bullet](https://github.com/bulletphysics/bullet3) ⭐ 14,713 | 🐛 424 | 🌐 C++ | 📅 2025-10-22: 3D的游戏物理引擎。
 * [LiquidFun](https://github.com/google/liquidfun) ⚠️ Archived: 2D的游戏物理引擎。
-* [Project Chrono](https://github.com/projectchrono/chrono) ⭐ 3,011 | 🐛 21 | 🌐 C++ | 📅 2026-09-03: 开源的多物理场仿真引擎。
+* [Project Chrono](https://github.com/projectchrono/chrono) ⭐ 3,013 | 🐛 23 | 🌐 C++ | 📅 2026-09-04: 开源的多物理场仿真引擎。
 * [Simbody](https://github.com/simbody/simbody) ⭐ 2,548 | 🐛 161 | 🌐 C++ | 📅 2026-09-03: 高性能C++多体动力学/物理库，模拟关节生物力学和机械系统，像车辆，机器人和人体骨骼。
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4) ⭐ 2,415 | 🐛 59 | 🌐 C++ | 📅 2022-11-15: Nvidia开发的开源的实时物理引擎中间件SDK，作为Nvidia GameWorks软件套件的一部分。
-* [Chipmunk](https://github.com/slembcke/Chipmunk2D) ⭐ 2,404 | 🐛 69 | 🌐 C | 📅 2026-05-05: 快速、轻量级的2D游戏物理库。
-* [SOFA](https://github.com/sofa-framework/sofa) ⭐ 1,253 | 🐛 469 | 🌐 C++ | 📅 2026-09-03: SOFA是一个针对实时仿真的开源框架，其着重于医学仿真。
+* [Chipmunk](https://github.com/slembcke/Chipmunk2D) ⭐ 2,405 | 🐛 69 | 🌐 C | 📅 2026-05-05: 快速、轻量级的2D游戏物理库。
+* [SOFA](https://github.com/sofa-framework/sofa) ⭐ 1,253 | 🐛 465 | 🌐 C++ | 📅 2026-09-04: SOFA是一个针对实时仿真的开源框架，其着重于医学仿真。
 * [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics) ⭐ 1,023 | 🐛 1 | 🌐 HTML | 📅 2026-01-17: 用于物理环境实时仿真的集成解决方案。
 * [Quantum++](https://github.com/vsoftco/qpp) ⭐ 674 | 🐛 2 | 🌐 C++ | 📅 2026-07-20: 现代的C++ 11量子计算库。
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) ⭐ 328 | 🐛 10 | 🌐 C++ | 📅 2023-10-09: Box2D开源框架包装器。
@@ -779,10 +779,10 @@ C++通用框架和库
 
 ## 映射
 
-* [Magic Enum](https://github.com/Neargye/magic_enum) ⭐ 6,182 | 🐛 16 | 🌐 C++ | 📅 2026-09-02: 只包含头文件的的C++ 17库，为枚举类型（字符串、迭代）提供静态映射，可与任何枚举类型一起使用，无需任何宏或样板代码。
+* [Magic Enum](https://github.com/Neargye/magic_enum) ⭐ 6,183 | 🐛 16 | 🌐 C++ | 📅 2026-09-02: 只包含头文件的的C++ 17库，为枚举类型（字符串、迭代）提供静态映射，可与任何枚举类型一起使用，无需任何宏或样板代码。
 * [RTTR](https://github.com/rttrorg/rttr) ⭐ 3,485 | 🐛 150 | 🌐 C++ | 📅 2024-04-25: C++11的映射库。
 * [Nameof](https://github.com/Neargye/nameof) ⭐ 2,358 | 🐛 0 | 🌐 C++ | 📅 2026-08-28: 只包含头文件的的C++ 17库，提供名称宏和函数以获取变量、类型、函数、宏和枚举的简单名称。
-* [Better Enums](https://github.com/aantron/better-enums) ⭐ 1,828 | 🐛 52 | 🌐 C++ | 📅 2024-02-10: 映射的枚举类型（字符串、迭代）。单个头文件。
+* [Better Enums](https://github.com/aantron/better-enums) ⭐ 1,827 | 🐛 52 | 🌐 C++ | 📅 2024-02-10: 映射的枚举类型（字符串、迭代）。单个头文件。
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) ⭐ 706 | 🐛 1 | 🌐 C++ | 📅 2019-10-28: 使用clang的C++映射。
 * [Ponder](https://github.com/billyquith/ponder) ⚠️ Archived: C++11的映射库。
 * [visit\_struct](https://github.com/cbeck88/visit_struct) ⭐ 656 | 🐛 16 | 🌐 C++ | 📅 2025-10-31: C++中用于结构域映射的微型库。
@@ -793,7 +793,7 @@ C++通用框架和库
 
 ## 正则表达式
 
-* [RE2](https://github.com/google/re2) ⭐ 9,793 | 🐛 63 | 🌐 C++ | 📅 2026-01-22: 使用自动机理论、通过有限状态机进行的正则表达式软件库。
+* [RE2](https://github.com/google/re2) ⭐ 9,795 | 🐛 63 | 🌐 C++ | 📅 2026-01-22: 使用自动机理论、通过有限状态机进行的正则表达式软件库。
 * [Hyperscan](https://github.com/intel/hyperscan) ⭐ 5,477 | 🐛 200 | 🌐 C++ | 📅 2026-08-26: Hyperscan是Intel的高性能、多种正则表达式匹配库，提供大量正则表达式（多达数万个）的同时匹配，通常在DPI库堆栈中使用。
 * [CTRE](https://github.com/hanickadot/compile-time-regular-expressions) ⭐ 3,844 | 🐛 104 | 🌐 C++ | 📅 2026-07-11: 编译时PCRE（几乎）兼容的正则表达式匹配器。
 * [Oniguruma](https://github.com/kkos/oniguruma) ⚠️ Archived: 现代且灵活的正则表达式库，支持多种字符编码。
@@ -805,7 +805,7 @@ C++通用框架和库
 
 ### 机器人学
 
-* [PCL](https://github.com/PointCloudLibrary/pcl) ⭐ 11,105 | 🐛 580 | 🌐 C++ | 📅 2026-08-29: 点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理。
+* [PCL](https://github.com/PointCloudLibrary/pcl) ⭐ 11,106 | 🐛 579 | 🌐 C++ | 📅 2026-09-04: 点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理。
 * [MOOS-IvP](http://moos-ivp.org/): 一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆。
 * [MRPT](http://www.mrpt.org/): 移动机器人编程工具包。
 * [Robotics Library (RL)](http://www.roboticslibrary.org/): 一个独立的C++库，包括机器人动力学，运动规划和控制。
@@ -814,9 +814,9 @@ C++通用框架和库
 
 ### 科学计算
 
-* [Torch](https://github.com/torch/torch7) ⭐ 9,141 | 🐛 298 | 🌐 C | 📅 2025-03-31: 科学的计算框架，广泛支持将GPU放在首位的机器学习算法。
+* [Torch](https://github.com/torch/torch7) ⭐ 9,141 | 🐛 299 | 🌐 C | 📅 2025-03-31: 科学的计算框架，广泛支持将GPU放在首位的机器学习算法。
 * [TileDB](https://github.com/TileDB-Inc/TileDB) ⭐ 2,076 | 🐛 117 | 🌐 C++ | 📅 2026-09-01: 快速密集和稀疏多维数组的DBMS。
-* [Trilinos](https://github.com/trilinos/Trilinos) ⭐ 1,421 | 🐛 332 | 🌐 C++ | 📅 2026-09-03: 高性能的PDE解算器。
+* [Trilinos](https://github.com/trilinos/Trilinos) ⭐ 1,420 | 🐛 330 | 🌐 C++ | 📅 2026-09-04: 高性能的PDE解算器。
 * [AMGCL](https://github.com/ddemidov/amgcl) ⭐ 877 | 🐛 60 | 🌐 C++ | 📅 2026-08-03: 只包含头文件的C++库，用于解决具有代数多重网格的大型稀疏线性系统。
 * [FFTW](http://www.fftw.org/): 用一维或者多维计算DFT的C语言库。
 * [GSL](http://www.gnu.org/software/gsl/): GNU科学库。
@@ -824,18 +824,18 @@ C++通用框架和库
 ### 脚本
 
 * [pybind11](https://github.com/pybind/pybind11) ⭐ 18,010 | 🐛 726 | 🌐 C++ | 📅 2026-09-01: C++ 11和Python之间的无缝可操作性。
-* [Cython](https://github.com/cython/cython) ⭐ 10,842 | 🐛 1,518 | 🌐 Cython | 📅 2026-09-03: Cython是用于Python编程语言和扩展的Cython编程语言（基于Pyrex）的优化静态编译器。它使得为Python编写C扩展就像Python本身一样容易。
-* [ChakraCore](https://github.com/Microsoft/ChakraCore) ⭐ 9,257 | 🐛 615 | 🌐 JavaScript | 📅 2026-02-19: Microsoft的JavaScript引擎，可以嵌入到nodejs中。
-* [Duktape](https://github.com/svaarala/duktape) ⭐ 6,208 | 🐛 474 | 🌐 JavaScript | 📅 2024-03-22: 具有紧凑脚本的嵌入式Javascript引擎。
-* [sol2](https://github.com/ThePhD/sol2) ⭐ 5,134 | 🐛 308 | 🌐 C++ | 📅 2025-03-07: 具有高级功能和一流性能的C++ <-> Lua API封装器。
+* [Cython](https://github.com/cython/cython) ⭐ 10,842 | 🐛 1,522 | 🌐 Cython | 📅 2026-09-04: Cython是用于Python编程语言和扩展的Cython编程语言（基于Pyrex）的优化静态编译器。它使得为Python编写C扩展就像Python本身一样容易。
+* [ChakraCore](https://github.com/Microsoft/ChakraCore) ⭐ 9,258 | 🐛 615 | 🌐 JavaScript | 📅 2026-02-19: Microsoft的JavaScript引擎，可以嵌入到nodejs中。
+* [Duktape](https://github.com/svaarala/duktape) ⭐ 6,209 | 🐛 473 | 🌐 JavaScript | 📅 2026-09-04: 具有紧凑脚本的嵌入式Javascript引擎。
+* [sol2](https://github.com/ThePhD/sol2) ⭐ 5,135 | 🐛 308 | 🌐 C++ | 📅 2025-03-07: 具有高级功能和一流性能的C++ <-> Lua API封装器。
 * [JavaCpp](https://github.com/bytedeco/javacpp) ⭐ 4,707 | 🐛 113 | 🌐 Java | 📅 2026-08-10: Java和本机C++之间缺少的桥梁。
-* [libffi](https://github.com/libffi/libffi) ⭐ 4,362 | 🐛 198 | 🌐 C | 📅 2026-08-19: 可移植的外部功能接口库。
-* [CppSharp](https://github.com/mono/CppSharp) ⭐ 3,407 | 🐛 346 | 🌐 C# | 📅 2026-05-18: 用于将C / C++ API融合到高级语言中的工具和库。
+* [libffi](https://github.com/libffi/libffi) ⭐ 4,362 | 🐛 195 | 🌐 C | 📅 2026-09-04: 可移植的外部功能接口库。
+* [CppSharp](https://github.com/mono/CppSharp) ⭐ 3,406 | 🐛 346 | 🌐 C# | 📅 2026-05-18: 用于将C / C++ API融合到高级语言中的工具和库。
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/) ⭐ 3,126 | 🐛 73 | 🌐 C++ | 📅 2026-05-02: 用于C++的易于使用的嵌入式脚本语言。
 * [djinni](https://github.com/dropbox/djinni) ⚠️ Archived: 生成跨语言类型声明和接口绑定的工具。
 * [ctypes.sh](https://github.com/taviso/ctypes.sh) ⭐ 2,177 | 🐛 20 | 🌐 C | 📅 2026-07-21: bash的外部函数接口。
 * [nbind](https://github.com/charto/nbind) ⭐ 2,001 | 🐛 63 | 🌐 C++ | 📅 2019-05-04: 神奇的头文件，使您的C++库可从JavaScript进行访问。
-* [LuaBridge](https://github.com/vinniefalco/LuaBridge) ⭐ 1,779 | 🐛 48 | 🌐 C | 📅 2025-10-13: 轻量级、无依赖的库，用于将Lua绑定到C++。
+* [LuaBridge](https://github.com/vinniefalco/LuaBridge) ⭐ 1,780 | 🐛 48 | 🌐 C | 📅 2025-10-13: 轻量级、无依赖的库，用于将Lua绑定到C++。
 * [V7](https://github.com/cesanta/v7) ⭐ 1,454 | 🐛 51 | 🌐 C | 📅 2020-11-30: 嵌入式的JavaScript 引擎。
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) ⭐ 1,452 | 🐛 119 | 🌐 C++ | 📅 2026-07-06: 使用C++构建PHP扩展的库。
 * [cppimport](https://github.com/tbenthompson/cppimport) ⭐ 1,228 | 🐛 11 | 🌐 Python | 📅 2026-04-17: 直接从Python导入C++文件！
@@ -849,16 +849,16 @@ C++通用框架和库
 
 ### 序列化
 
-* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,425 | 🐛 278 | 🌐 C++ | 📅 2026-08-11: 内存高效的序列化库。
-* [nanopb](https://github.com/nanopb/nanopb) ⭐ 5,548 | 🐛 79 | 🌐 C | 📅 2026-09-01: ANSI C中的小型代码大小的协议缓冲区实现。
+* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,431 | 🐛 279 | 🌐 C++ | 📅 2026-08-11: 内存高效的序列化库。
+* [nanopb](https://github.com/nanopb/nanopb) ⭐ 5,547 | 🐛 79 | 🌐 C | 📅 2026-09-01: ANSI C中的小型代码大小的协议缓冲区实现。
 * [cereal](https://github.com/USCiLab/cereal) ⭐ 4,706 | 🐛 344 | 🌐 C++ | 📅 2026-03-11: C++11 序列化库。
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) ⭐ 3,503 | 🐛 39 | 🌐 Java | 📅 2026-08-31: 用于低延迟应用程序的对二进制格式的应用程序信息的编码和解码。
-* [MessagePack](https://github.com/msgpack/msgpack-c) ⭐ 3,347 | 🐛 104 | 📅 2026-08-25: C/C++的高效二进制序列化库，例如 JSON。
+* [MessagePack](https://github.com/msgpack/msgpack-c) ⭐ 3,348 | 🐛 104 | 📅 2026-08-25: C/C++的高效二进制序列化库，例如 JSON。
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) ⭐ 2,990 | 🐛 48 | 🌐 C++ | 📅 2026-08-22: C语言的协议缓冲实现。
 * [Bond](https://github.com/Microsoft/bond) ⚠️ Archived: 用于处理模式化数据的开源、跨平台框架。
-* [mrpt-serialization](https://github.com/mrpt/mrpt/) ⭐ 2,159 | 🐛 34 | 🌐 C++ | 📅 2026-09-03: 已版本控制的二进制或文本格式的序列化。
+* [mrpt-serialization](https://github.com/mrpt/mrpt/) ⭐ 2,160 | 🐛 29 | 🌐 C++ | 📅 2026-09-05: 已版本控制的二进制或文本格式的序列化。
 * [upb](https://github.com/protocolbuffers/upb) ⚠️ Archived: C中的小型静态库实现。
-* [Bitsery](https://github.com/fraillt/bitsery) ⭐ 1,263 | 🐛 12 | 🌐 C++ | 📅 2025-10-09: 只包含头文件的C++二进制序列化库。
+* [Bitsery](https://github.com/fraillt/bitsery) ⭐ 1,264 | 🐛 12 | 🌐 C++ | 📅 2025-10-09: 只包含头文件的C++二进制序列化库。
 * [YAS](https://github.com/niXman/yas) ⭐ 796 | 🐛 13 | 🌐 C++ | 📅 2025-02-18: 非常快的序列化库，支持二进制/文本/ JSON格式。
 * [cppcodec](https://github.com/tplgy/cppcodec) ⭐ 696 | 🐛 18 | 🌐 C++ | 📅 2022-09-06: 只包含头文件的C++ 11库，具有一致、灵活的API来编码/解码base64，base32和hex。
 * [Boost.Serialization](https://www.boost.org/doc/libs/master/libs/serialization/doc/index.html): Boost序列化库。
@@ -867,12 +867,12 @@ C++通用框架和库
 
 ## 排序
 
-* [pdqsort](https://github.com/orlp/pdqsort) ⭐ 2,506 | 🐛 5 | 🌐 C++ | 📅 2023-12-06: 破坏模式的快速排序。
+* [pdqsort](https://github.com/orlp/pdqsort) ⭐ 2,507 | 🐛 5 | 🌐 C++ | 📅 2023-12-06: 破坏模式的快速排序。
 * [Timsort](https://github.com/gfx/cpp-TimSort) ⭐ 317 | 🐛 2 | 🌐 C++ | 📅 2024-12-03: 模板化的稳定排序功能，其性能优于基于快速排序的算法（包括std: : sort），用于反向或半排序数据。
 
 ### 视频
 
-* [OpenH264](https://github.com/cisco/openh264) ⭐ 6,142 | 🐛 306 | 🌐 C++ | 📅 2026-09-03: 开源H.364 编解码器。
+* [OpenH264](https://github.com/cisco/openh264) ⭐ 6,142 | 🐛 308 | 🌐 C++ | 📅 2026-09-04: 开源H.364 编解码器。
 * [libde265](https://github.com/strukturag/libde265) ⭐ 1,911 | 🐛 25 | 🌐 C++ | 📅 2026-09-03: 开放的h.265视频编解码器的实现。
 * [Vireo](https://github.com/twitter/vireo/) ⭐ 955 | 🐛 15 | 🌐 C++ | 📅 2021-10-21: Twitter的轻量级、多功能的视频处理库。
 * [libvpx](http://www.webmproject.org/code/): VP8/VP9编码解码SDK。
@@ -882,18 +882,18 @@ C++通用框架和库
 
 ### 虚拟机
 
-* [MicroPython](https://github.com/micropython/micropython) ⭐ 22,040 | 🐛 1,532 | 🌐 C | 📅 2026-09-03: 旨在实现单片机上Python3.x的实现。
+* [MicroPython](https://github.com/micropython/micropython) ⭐ 22,042 | 🐛 1,523 | 🌐 C | 📅 2026-09-04: 旨在实现单片机上Python3.x的实现。
 * [TinyVM](https://github.com/jakogut/tinyvm) ⭐ 3,321 | 🐛 6 | 🌐 C | 📅 2019-03-23: 用纯粹的ANSI C编写的小型，快速，轻量级的虚拟机。
 * [CarpVM](https://github.com/tekknolagi/carp) ⚠️ Archived: C中有趣的VM，让我们一起来看看这个。
 
 ### Web应用框架
 
-* [Drogon](https://github.com/an-tao/drogon) ⭐ 14,240 | 🐛 425 | 🌐 C++ | 📅 2026-09-03: 基于C++ 14/17的高性能HTTP应用程序框架。
-* [oat++](https://github.com/oatpp/oatpp) ⭐ 8,651 | 🐛 348 | 🌐 C++ | 📅 2025-11-12: 轻量、零依赖的框架，可创建高性能的Web服务。
+* [Drogon](https://github.com/an-tao/drogon) ⭐ 14,249 | 🐛 426 | 🌐 C++ | 📅 2026-09-03: 基于C++ 14/17的高性能HTTP应用程序框架。
+* [oat++](https://github.com/oatpp/oatpp) ⭐ 8,653 | 🐛 348 | 🌐 C++ | 📅 2025-11-12: 轻量、零依赖的框架，可创建高性能的Web服务。
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) ⚠️ Archived: 使用现代异步C++ API设计、以本机代码进行基于云的客户端-服务器通信的Microsoft项目。
 * [Crow](https://github.com/ipkn/crow) ⭐ 7,627 | 🐛 212 | 🌐 C++ | 📅 2024-06-06: 一个C++微型web框架（灵感来自于Python Flask）。
-* [lwan](https://github.com/lpereira/lwan) ⭐ 6,034 | 🐛 49 | 🌐 C | 📅 2026-08-27: 实验性、可扩展的高性能HTTP服务器。
-* [Civetweb](https://github.com/bel2125/civetweb) ⭐ 3,445 | 🐛 243 | 🌐 C | 📅 2026-08-01: 提供易于使用，强大的，C/C++嵌入式Web服务器，带有可选的CGI，SSL和Lua支持。
+* [lwan](https://github.com/lpereira/lwan) ⭐ 6,034 | 🐛 49 | 🌐 C | 📅 2026-09-04: 实验性、可扩展的高性能HTTP服务器。
+* [Civetweb](https://github.com/bel2125/civetweb) ⭐ 3,447 | 🐛 244 | 🌐 C | 📅 2026-08-01: 提供易于使用，强大的，C/C++嵌入式Web服务器，带有可选的CGI，SSL和Lua支持。
 * [facil.io](https://github.com/boazsegev/facil.io) ⭐ 2,402 | 🐛 36 | 🌐 C | 📅 2026-04-14: 事件型、高性能的C Web框架，支持HTTP、WebSocket、SSE等。
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework) ⭐ 1,381 | 🐛 5 | 🌐 C++ | 📅 2026-08-09: 基于C++和Qt的高速、全栈的Web应用程序框架，支持HTTP和WebSocket协议（带有O / R映射）。
 * [Cutelyst](https://github.com/cutelyst/cutelyst) ⭐ 976 | 🐛 16 | 🌐 C++ | 📅 2026-08-31: 在Qt上构建的C++ Web框架，使用Catalyst（Perl）框架的简单方法。
@@ -908,8 +908,8 @@ C++通用框架和库
 
 XML就是个垃圾，xml的解析很烦人，对于计算机它也是个灾难。这种糟糕的东西完全没有存在的理由了。-Linus Torvalds
 
-* [TinyXML2](https://github.com/leethomason/tinyxml2) ⭐ 5,795 | 🐛 123 | 🌐 C++ | 📅 2026-05-24: 简单快速的C++CML解析器，可以很容易集成到其它项目中。
-* [Mini-XML](https://github.com/michaelrsweet/mxml) ⭐ 518 | 🐛 3 | 🌐 C | 📅 2026-09-01: 用ANSI C编写的小型XML解析库。
+* [TinyXML2](https://github.com/leethomason/tinyxml2) ⭐ 5,797 | 🐛 123 | 🌐 C++ | 📅 2026-05-24: 简单快速的C++CML解析器，可以很容易集成到其它项目中。
+* [Mini-XML](https://github.com/michaelrsweet/mxml) ⭐ 518 | 🐛 4 | 🌐 C | 📅 2026-09-01: 用ANSI C编写的小型XML解析库。
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html): 属性树解析器/生成器，可用于解析XML / JSON / INI / Info文件。
 * [Expat](http://www.libexpat.org/): 用C语言编写的xml解析库。
 * [Libxml2](http://xmlsoft.org/): Gnome的xml C解析器和工具包。
@@ -924,20 +924,20 @@ XML就是个垃圾，xml的解析很烦人，对于计算机它也是个灾难�
 
 一些有用的库或者工具，但是不适合上面的分类，或者还没有分类。
 
-* [stb](https://github.com/nothings/stb) ⭐ 34,585 | 🐛 418 | 🌐 C | 📅 2026-08-02: 一系列用于C / C++的单文件库。
+* [stb](https://github.com/nothings/stb) ⭐ 34,592 | 🐛 418 | 🌐 C | 📅 2026-08-02: 一系列用于C / C++的单文件库。
 * [ZXing](https://github.com/zxing/zxing/) ⭐ 34,083 | 🐛 0 | 🌐 Java | 📅 2026-09-01: 用Java实现的开源、多格式1D / 2D条码图像处理库，带有其他语言的端口。
-* [{fmt}](https://github.com/fmtlib/fmt) ⭐ 25,097 | 🐛 13 | 🌐 C++ | 📅 2026-09-02: 小型、安全、快速的C++格式化库。
-* [C++ Format](https://github.com/cppformat/cppformat) ⭐ 25,097 | 🐛 13 | 🌐 C++ | 📅 2026-09-02: C++的小型，安全和快速格式化库。
+* [{fmt}](https://github.com/fmtlib/fmt) ⭐ 25,472 | 🐛 12 | 🌐 C++ | 📅 2026-09-04: 小型、安全、快速的C++格式化库。
+* [C++ Format](https://github.com/cppformat/cppformat) ⭐ 25,472 | 🐛 12 | 🌐 C++ | 📅 2026-09-04: C++的小型，安全和快速格式化库。
 * [HTTP Parser](https://github.com/joyent/http-parser) ⚠️ Archived: C的http请求/响应解析器。
-* [SDS](https://github.com/antirez/sds) ⭐ 5,554 | 🐛 107 | 🌐 C | 📅 2025-04-18: C的简单动态字符串库。
-* [Klib](https://github.com/attractivechaos/klib) ⭐ 4,717 | 🐛 94 | 🌐 C | 📅 2025-12-22: 通用算法和数据结构的小型、轻量级实现。
+* [SDS](https://github.com/antirez/sds) ⭐ 5,554 | 🐛 106 | 🌐 C | 📅 2025-04-18: C的简单动态字符串库。
+* [Klib](https://github.com/attractivechaos/klib) ⭐ 4,718 | 🐛 94 | 🌐 C | 📅 2025-12-22: 通用算法和数据结构的小型、轻量级实现。
 * [Serial Communication Library](https://github.com/wjwwood/serial) ⭐ 2,435 | 🐛 101 | 🌐 C++ | 📅 2024-08-21: C++语言编写的跨平台，串口库。
 * [Serial Communication Library](https://github.com/wjwwood/serial) ⭐ 2,435 | 🐛 101 | 🌐 C++ | 📅 2024-08-21: 跨平台，用C++编写的串行端口库。
-* [PEGTL](https://github.com/taocpp/PEGTL) ⭐ 2,154 | 🐛 5 | 🌐 C++ | 📅 2026-08-17: 解析表达语法模板库。
+* [PEGTL](https://github.com/taocpp/PEGTL) ⭐ 2,155 | 🐛 5 | 🌐 C++ | 📅 2026-08-17: 解析表达语法模板库。
 * [mio](https://github.com/mandreyel/mio) ⭐ 1,953 | 🐛 52 | 🌐 C++ | 📅 2024-02-11: 用于内存映射文件IO的跨平台C++ 11库，只包含头文件。
 * [CPPItertools](https://github.com/ryanhaining/cppitertools) ⭐ 1,431 | 🐛 16 | 🌐 C++ | 📅 2025-12-07: 受Python内建函数和itertools库启发的基于范围的循环附加组件。
 * [Mach7](https://github.com/solodon4/Mach7) ⭐ 1,320 | 🐛 28 | 🌐 C++ | 📅 2021-10-22: C++的模式匹配库。
-* [stdman](https://github.com/jeaye/stdman) ⭐ 996 | 🐛 10 | 🌐 C++ | 📅 2024-07-06: 格式化的C++ 11/14 stdlib手册页（来自cppreference）。
+* [stdman](https://github.com/jeaye/stdman) ⭐ 995 | 🐛 10 | 🌐 C++ | 📅 2024-07-06: 格式化的C++ 11/14 stdlib手册页（来自cppreference）。
 * [pprint](https://github.com/p-ranav/pprint) ⚠️ Archived: 适用于现代C++的Pretty Printer。
 * [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp) ⭐ 749 | 🐛 1 | 🌐 C++ | 📅 2026-04-22: 用于调试目的的小型打印库。
 * [DynaMix](https://github.com/iboB/dynamix) ⭐ 694 | 🐛 34 | 🌐 C++ | 📅 2026-07-18: 允许您在运行时组成和修改对象的库。
@@ -1045,9 +1045,9 @@ C/C++集成开发环境列表
 
 ### 构建系统
 
-* [Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,431 | 🐛 1,185 | 🌐 CMake | 📅 2026-09-03: Windows，Linux和MacOS的C++库管理器。
+* [Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,436 | 🐛 1,186 | 🌐 CMake | 📅 2026-09-04: Windows，Linux和MacOS的C++库管理器。
 * [Buck](https://github.com/facebook/buck) ⚠️ Archived: 用Java编写的快速构建系统，可鼓励在多种平台和语言（包括在Facebook开发和使用的C++）上创建小型、可重用模块。
-* [Bear](https://github.com/rizsotto/Bear) ⭐ 6,466 | 🐛 0 | 🌐 Rust | 📅 2026-09-03: 用于为clang工具生成编译数据库的工具。
+* [Bear](https://github.com/rizsotto/Bear) ⭐ 6,468 | 🐛 0 | 🌐 Rust | 📅 2026-09-03: 用于为clang工具生成编译数据库的工具。
 * [clib](https://github.com/clibs/clib) ⭐ 5,141 | 🐛 25 | 🌐 C | 📅 2026-07-18: C语言的软件包管理器。
 * [CPM](https://github.com/iauns/cpm) ⭐ 751 | 🐛 14 | 🌐 CMake | 📅 2021-08-28: 基于CMake和Git的C++包管理器。
 * [tundra](https://github.com/deplinenoise/tundra) ⚠️ Archived: 高性能的代码构建系统，甚至对于非常大型的软件项目，也能提供最好的增量构建次数。
@@ -1073,9 +1073,9 @@ C/C++集成开发环境列表
 
 提高质量，减少瑕疵的代码分析工具列表
 
-* [Infer](https://github.com/facebook/infer) ⭐ 15,698 | 🐛 204 | 🌐 OCaml | 📅 2026-09-03: 用于Java、C和Objective-C的静态分析器。
+* [Infer](https://github.com/facebook/infer) ⭐ 15,701 | 🐛 204 | 🌐 OCaml | 📅 2026-09-03: 用于Java、C和Objective-C的静态分析器。
 * [IKOS](https://github.com/NASA-SW-VnV/ikos) ⭐ 3,163 | 🐛 50 | 🌐 C++ | 📅 2026-05-31: 基于抽象解释理论的C / C++静态分析器。
-* [cpplint](https://github.com/cpplint/cpplint) ⭐ 1,846 | 🐛 84 | 🌐 Python | 📅 2026-09-02: 遵循Google C++样式指南的C++样式检查器。
+* [cpplint](https://github.com/cpplint/cpplint) ⭐ 1,848 | 🐛 84 | 🌐 Python | 📅 2026-09-02: 遵循Google C++样式指南的C++样式检查器。
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) ⭐ 781 | 🐛 13 | 🌐 C++ | 📅 2026-01-13: 检查C++ #include依赖关系的工具（以.dot格式创建的依赖关系图）。
 * [Cppcheck](http://cppcheck.sourceforge.net/): 静态C/C++代码分析工具
 * [CppDepend](https://www.cppdepend.com/): 通过分析和可视化代码依赖关系，定义设计规则，进行影响分析以及比较不同版本的代码，简化了对复杂C / C++代码库的管理。
@@ -1096,4 +1096,4 @@ C/C++集成开发环境列表
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
